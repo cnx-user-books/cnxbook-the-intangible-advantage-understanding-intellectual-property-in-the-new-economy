@@ -1,0 +1,715 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Chapter 5: Trade Secret Basics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61672</md:content-id>
+  <md:title>Chapter 5: Trade Secret Basics</md:title>
+  <md:abstract/>
+  <md:uuid>254a1833-3e29-4016-96a9-587f89ee3ef4</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-132"><title>Section 5.1: Trade Secret Protection</title><list id="eip-662"><title>After completing this section, you will be able to:</title><item>Define trade secrets.</item>
+<item>Identify the advantages and disadvantages of protecting intellectual property through trade secrets.</item></list><para id="eip-21">
+<title>What Is a Trade Secret?</title><newline/>
+<emphasis>Trade secret</emphasis> law is a source of protection for intellectual property that serves as an alternative to patent or trademark law. Whereas patent and trademark law require that the intellectual property to be protected be publicly “disclosed” (for example, through a patent application), trade secret law requires precisely the opposite—that is, that the intellectual property to be protected <foreign>not</foreign> be publicly disclosed. The subject matter of a trade secret may be virtually any information that is of value as a result of not being generally known.</para><para id="eip-793">There is enormous <emphasis>economic value</emphasis> in trade secrets—for companies and countries. A study released in March of 2014 estimated that trade secret misappropriation costs the world’s top 40 economies between 1 percent and 3 percent of their gross domestic product each year.<footnote id="footnote1">
+<foreign>“Economic Impact of Trade Secret Theft,”</foreign>
+PricewaterhouseCoopers, retrieved from: <link document="m10275" version="2.1">http://pwc.to/1sVx3AP</link><link url="http://pwc.to/1sVx3AP" window="new"/>
+</footnote></para><para id="eip-244">Unlike copyright and patent law, there is no formal requirement of “novelty” or “tangibility” under trade secret law. Rather, trade secret protection is extended to information that has independent economic value by virtue of not being generally known or readily ascertainable by others, and which has been subject to reasonable efforts to avoid public disclosure.
+<newline/></para><para id="eip-812"><title>Advantages and Disadvantages of Trade Secret Law</title><newline/>
+There are both advantages and disadvantages to protecting intellectual property through the use of trade secret law. The decision of whether to use trade secret law as opposed to other legal means of protecting knowledge or information is governed primarily by the nature of the intellectual property to be protected.
+<newline/>
+</para><para id="eip-448"><title>Advantages</title><newline/>
+One of the main advantages of trade secret law is that it provides indefinite future protection. Unlike the 20-year time limit that underlies the protection granted to a patent holder, there is no definite time limit placed on the protection granted to a trade secret owner. This indefinite future protection granted to trade secrets is appealing, assuming that the intellectual property to be protected is likely to remain generally unknown well into the future. For example, if the intellectual property to be protected is a method of manufacturing a product that can be determined from examining the product, then the best way to protect the new method of manufacture might be through a patent. On the other hand, if the new method of manufacturing the product cannot be determined from examination of the product, then the best way to protect the intellectual property might be to treat it as a trade secret.
+<newline/></para><para id="eip-813"><title>Disadvantages</title><newline/>
+Although there is no definite expiration of the protection granted to trade secrets, the protection prohibits only the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Unlike patent law, trade secret law does  not  offer any affirmative protection against the use of the same intellectual property that is independently derived or reverse engineered by a competitor. Consequently, if the intellectual property to be protected is a new method of manufacturing a product, and if that method of manufacture is ascertainable from an examination of the product, then the best form of protection for the intellectual property is most likely that offered by patent law.
+<newline/></para><para id="eip-986">The same analysis applies to intellectual property that is likely to be independently derived by a competitor. For as the U.S. Supreme Court noted in <link document="m10275" version="2.1"><foreign>Bonito Boats v. Thunder Craft Boats</foreign></link><link url="https://supreme.justia.com/cases/federal/us/489/141/" window="new"/>,<footnote id="footnote2">
+489 U.S. 141 (1989).
+</footnote>
+state trade secret law has never given the holder of a trade secret protection against reverse engineering by the public or a competitor. The Supreme Court commented that in order to receive protection from reverse engineering, the holder of the intellectual property must seek the protection of federal patent law.
+</para><table id="eip-106" summary="PROS AND CONS OF TRADE SECRET LAW"><title>PROS AND CONS OF TRADE SECRET LAW</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Pros</entry>
+    <entry>Cons</entry>
+  </row>
+  <row>
+    <entry>Trade secret law provides indefinite future protection, so long as the trade secret stays a secret. Trade secret protection has no expiration date.</entry>
+    <entry>If someone came up with the same idea on his or her own, the trade secret is no longer protected by law.</entry>
+  </row>
+  <row>
+    <entry>Trade secret protection prevents the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence.</entry>
+    <entry>Trade secret law does not give the holder of a trade secret protection from reverse engineering by the public or a competitor.</entry>
+  </row>
+</tbody>
+</tgroup>
+</table><para id="eip-532">Whereas patent and trademark law involve an affirmative assertion of an intellectual property right, trade secret law only actively operates after a misappropriation or threatened misappropriation of the trade  secret has occurred. Due to this difference in the way trade secret law protects intellectual property, the protections given to trade secrets are largely dependent on classifications of information made by courts. Thus, the foundation and development of trade secret law in the United States is inherently tied to the statutes protecting trade secrets, and the court decisions defining and interpreting the statutory protections created for trade secrets.
+<newline/></para><exercise id="eip-537"><problem id="eip-566">
+  <para id="eip-628">
+    Unlike patents and trademarks, the law requires that intellectual property consisting of trade secrets not be publicly disclosed. True or False?
+<preformat id="eip-id1165823306933">
+         True
+         False
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-563">
+  <para id="eip-902">
+    True
+  </para>
+</solution>
+</exercise><exercise id="eip-579"><problem id="eip-150">
+  <para id="eip-340">
+    Which of the following best describes a trade secret?
+<preformat id="eip-id8544500">
+         A. Information that many people do not know about how a product like a smartphone is made
+         B. Virtually any information that is of value as a result of not being generally known
+         C. Any information relating to the finances of a publicly held company
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-519">
+  <para id="eip-208">
+    B. Virtually any information that is of value as a result of not being generally known
+  </para>
+</solution>
+</exercise><exercise id="eip-391"><problem id="eip-153">
+  <para id="eip-564">
+    Trade secret theft or misappropriation costs the world’s richest 40 nations approximately how much of their gross domestic product, or GDP, each year?
+<preformat id="eip-id1170505638034">
+         A. 1 to 3 percent
+         B. 4 to 6 percent
+         C. 7 to 10 percent
+</preformat> 
+  </para>
+</problem>
+
+<solution id="eip-25">
+  <para id="eip-247">
+    A. 1 to 3 percent
+  </para>
+</solution>
+</exercise><exercise id="eip-79"><problem id="eip-678">
+  <para id="eip-685">
+     What are the two main requirements for information to be protectable as a trade secret?
+<preformat id="eip-id1166285759366">
+         A. It must be novel and non-obvious. 
+         B. It must be original and expressed in a tangible form that can be seen or copied.
+         C. It must be not generally known by others, and it must have been subject to reasonable 
+             efforts to avoid public disclosure.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-943">
+  <para id="eip-172">
+    C. It must be not generally known by others, and it must have been subject to reasonable 
+             efforts to avoid public disclosure.
+  </para>
+</solution>
+</exercise><exercise id="eip-674"><problem id="eip-607">
+  <para id="eip-299">
+    What is one key advantage of trade secret protection versus patent protection?
+<preformat id="eip-id4951439">
+         A. It protects the information to be kept secret indefinitely.
+         B. It prevents others from ever independently deriving the same information. 
+         C. Both of the above are correct.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-876">
+  <para id="eip-222">
+    A. It protects the information to be kept secret indefinitely.
+  </para>
+</solution>
+</exercise><exercise id="eip-13"><problem id="eip-444">
+  <para id="eip-545">
+    If you invent faster-than-light travel but believe someone will be able to reverse engineer it by examining your starship, should you patent it or keep it as a trade secret?
+<preformat id="eip-id1171119933343">
+         A. Keep it as a trade secret. 
+         B. Patent it.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-615">
+  <para id="eip-645">
+     B. Patent it.
+  </para>
+</solution>
+</exercise><exercise id="eip-35"><problem id="eip-899">
+  <para id="eip-157">
+    What did the Supreme Court note in the case of <foreign>Bonito Boats v.
+Thunder Craft Boats</foreign>?
+<preformat id="eip-id1168440943101">
+         A. One cannot legally misappropriate trade secrets. 
+         B. Nobody is above the law, not even a trade secret owner.
+         C. The holder of a trade secret does not have protection against reverse engineering.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-488">
+  <para id="eip-428">
+    C. The holder of a trade secret does not have protection against reverse engineering.
+  </para>
+</solution>
+</exercise><exercise id="eip-721"><problem id="eip-805">
+  <para id="eip-684">If information is protected as a valid trade secret, a competitor can be stopped from using it no matter who he obtained it from. True or False?
+<preformat id="eip-id1165589909249">
+         A. True
+         B. False
+</preformat>
+  </para></problem>
+
+<solution id="eip-968">
+  <para id="eip-12">B. False
+  </para></solution>
+</exercise></section><section id="eip-390"><title>Section 5.2: The Foundations of Trade Secrets Law</title><list id="eip-486"><title>After completing this section, you will be able to:</title><item>Identify the roots of trade secret law in the United States.</item>
+<item>Explain the purpose of the Uniform Trade Secrets Act.</item>
+ </list><para id="eip-647"><newline/>
+Unlike patents and copyrights that are issued in accordance with federal law, trade secret protection until very recently emanated from state law. But on May 11, 2016, the federal Defend Trade Secrets Act (DTSA) was signed into law, thereby creating a federal cause of action for trade secret misappropriation that largely mirrors the current state of the law under the Uniform Trade Secrets Act (UTSA), which has been adopted by 48 states.
+
+</para><para id="eip-130">Trade secret law in the United States is largely rooted in the English legal tradition, and was first incorporated through the court-made common law. The general consensus is that trade secret law originated in England in the early 1800s.<footnote id="footnote3">
+Michael Risch, Why Do We Have Trade Secrets?,
+11 Intellectual Property L. Rev. 1 (2007) (citing
+Restatement (Third) of Unfair Competition § 39
+cmt. a (1995).
+</footnote>
+Early cases dealt with trade secret concepts not in modern trade secret vernacular but instead through the guise of jurisdictional or restraint of trade terms. The trade secret concept began in American jurisprudence in the case of <link document="m10275" version="2.1"><foreign>Vickery v. Welch</foreign></link><link url="http://rychlicki.net/inne/19_Pick._523.doc" window="new"/>, 36 Mass. 523 (1837). The Massachusetts Supreme Court first expounded on trade secret law in modern terms in <link document="m10275" version="2.1"><foreign>Peabody v. Norfolk</foreign></link><link url="https://books.google.com/books?id=WWRHAAAAYAAJ&amp;pg=PA256&amp;lpg=PA256&amp;dq=Peabody%2Bv.%2BNorfolk%2C%2B98%2BMass.%2B452%2B(1868)&amp;source=bl&amp;ots=JHEmDojxRZ&amp;sig=XkPSNa5i2zTi4XXVte5dapaDJIs&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwid5aLM497KAhUCdR4KHWOoA-cQ6AEIIjAC%23v%3Donepage&amp;q=Peabody%20v.%20Norfolk%2C%2098%20Mass.%20452%20(1868)&amp;f=false" window="new"/>, 98 Mass. 452 (1868). In the 145 years since the Peabody decision, the courts, including numerous federal courts, have addressed trade secret issues and have contributed to the current body of trade secret law. However, because each state may regulate trade secret law independently, each state has developed its own legal regime, involving a mixture of both statutes and common law, to regulate and protect trade secrets.
+<newline/>
+</para><para id="eip-66"><title>Uniform Trade Secrets Act</title><newline/>
+In an effort to harmonize and standardize trade secret law in the United States, the Uniform Law Commission<footnote id="footnote4">
+The Uniform Law Commission, also known as the National Conference of Commissioners on Uniform State Laws, is a nonpartisan, nonprofit organization that promotes the uniformity of law from state to state. The Commission publishes “model laws” that states are then able to adopt and enact.
+</footnote>
+published the <link document="m10275" version="2.1">Uniform Trade Secrets Act (UTSA)</link><link url="http://www.uniformlaws.org/shared/docs/trade%20secrets/utsa_final_85.pdf" window="new"/> in 1979. The UTSA sought to create a uniform trade secret law regime from state to state. However, the UTSA itself was not binding upon states at publication. In order for the UTSA to be successful, the states themselves needed to adopt and enact the model UTSA statute created by the commission. In 1980, Minnesota became the first state to adopt the UTSA. Since 1980, most states have adopted the UTSA, many with the 1985 amendments to the act. New York and Massachusetts remain the last states that have yet to adopt the UTSA. Although the UTSA harmonized various state law approaches to trade secrets, each state enacts the UTSA with any modifications or customizations the state legislature desires to make. Thus, although most states have adopted the UTSA, each state may have a slightly different adaptation of the UTSA.
+</para><para id="eip-938">One important provision of the UTSA is section 7, which deals with the interaction of the UTSA and state law. Section 7 preempts certain state law causes of action. Section 7 “displaces conflicting tort, restitutionary, and other law…providing civil remedies for misappropriation of a trade secret.”</para><para id="eip-112"><title>Trade Secret Misappropriation</title><newline/>
+Although this section seems to indicate that the UTSA broadly replaces all state laws dealing with <emphasis>misappropriation</emphasis> of trade secrets, there is debate as to what constitutes “conflicting tort, restitutionary, and other law.” Additionally, what it means for a common law remedy to be “based on” misappropriation of a trade secret is often contested. Owners seeking to recover damages for misappropriation generally argue that only common law causes of action that have elements identical to the UTSA are preempted, while defendants argue that any cause of action used to protect trade secrets is preempted because it is duplicative of the UTSA. Despite this potential conflict between the UTSA and state common law, this chapter focuses on the main body of trade secret law as governed by the UTSA.
+<newline/>
+</para><exercise id="eip-711"><problem id="eip-193">
+  <para id="eip-728">
+    Trade secret protection is guaranteed by the federal government. True or False?
+<preformat id="eip-id1169859550905">
+         A. True
+         B. False
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-300">
+  <para id="eip-100">
+    B. False
+  </para>
+</solution>
+</exercise><exercise id="eip-94"><problem id="eip-514">
+  <para id="eip-557">
+    In which country did trade secret law first originate in the early 1800s?
+<preformat id="eip-id1168444362141">
+         A. France
+         B. The United States 
+         C. England
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-587">
+  <para id="eip-562">
+    C. England
+  </para>
+</solution>
+</exercise><exercise id="eip-333"><problem id="eip-888">
+  <para id="eip-166">
+    What impact did the Uniform Trade Secrets Act (UTSA) of 1979 have on trade secret protection in the United States?
+<preformat id="eip-id1165589897278">
+         A. It was the first trade secret law binding on every state.
+         B. It served as a model that was adopted by 48 of the 50 U.S. states.
+         C. It served as a model that was adopted by every state.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-487">
+  <para id="eip-32">
+    B. It served as a model that was adopted by 48 of the 50 U.S. states.
+  </para>
+</solution>
+</exercise><exercise id="eip-631"><problem id="eip-370">
+  <para id="eip-964">
+   Which of the following best describes the problem with the current lack of uniform federal protection of trade secrets?
+<preformat id="eip-id1700364">
+         A. There is no real protection against misappropriation of trade secrets. 
+         B. The protections against trade secret theft are very uneven.
+         C. A federal trade secret law would merely replicate state protections.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-743">
+  <para id="eip-800">
+    B. The protections against trade secret theft are very uneven.
+  </para>
+</solution>
+</exercise></section><section id="eip-995"><title>Section 5.3: Elements of a Trade Secret</title><list id="eip-347"><title>After completing this section, you will be able to:</title><item>Identify the key criteria used to qualify as a trade secret.</item>
+<item>Explain how ideas can be protected as trade secrets.</item>
+ </list><para id="eip-610"><newline/>
+To qualify as a trade secret, the information in question must meet two essential criteria. First, the information must attain its value from the fact that it is not generally known.</para><para id="eip-155">Second, the owner of that information must take reasonable efforts to maintain its secrecy. Absent these two elements, information does not qualify as a trade secret and is not entitled to trade secret protections that prevent or remedy misappropriation under the UTSA.<footnote id="footnote5">
+The UTSA defines a trade secret as “information, including a formula, pattern, compilation, program, device, method, technique, or process, that (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.”
+</footnote></para><para id="eip-547">Trade secrets are not limited to particular subject matters, although the knowledge or information to be protected need not take any particular form. A trade secret can be information or knowledge in the form of a formula, pattern, compilation, program, device, method, technique, or process. Although the UTSA defines what may be a trade secret, various courts interpreting the UTSA have come to different conclusions on what type of material should be considered a trade secret. For example, whereas courts have found that an insurer’s database is a trade secret under Wisconsin law, a similar database was found not to be a trade secret in Rhode Island.<footnote id="footnote6">
+Compare American Fam. Mut. Ins. Co. v. Roth 485 F.3d 930, 933 (7th Cir. 2007); APG Inc. v. MCI Telecommunications Corp. 436 F.3d 294, 307 (1st Cir 2006).
+</footnote>
+<newline/></para><para id="eip-736"><title>The Value of Secrets</title><newline/>
+For information or knowledge in any of the above forms to be considered a trade secret, it must derive independent economic value because it is not generally known to, nor readily ascertainable by, other persons who can profit from its disclosure or use. Some examples of information courts have found to be trade secrets include computer software, sales information, customer information, and manufacturing formulas. However, merely because information is not known to the public does not necessarily make the  information a trade secret. For example, information that is not generally known by the public but is known by different manufacturers in the same industry likely does not qualify as a trade secret.<footnote id="footnote7">
+See e.g. Ruckelshaus v. Monsanto Co., 467 U.S. 986, 1002 (1984); Speedry Chemical Products, Inc. v. Carter’s Ink Co., 306 F.2d 328, 331 (2d Cir 1962).
+</footnote></para><para id="eip-420">Material that is ascertainable through public sources generally does not derive independent economic value justifying trade secret protection. If the information in question cannot be quickly or easily ascertained from examining or testing the publicly available product, then it is more likely to be a trade secret.<footnote id="footnote8">
+See Morlife, Inc. v. Perry, 56 Cal. App. 4th 1514 (1st Dist. 1997).
+</footnote> 
+
+Conversely, if the information may be discovered through public observation of the product or the company’s displays, it is unlikely to  be  a  trade  secret.<footnote id="footnote9">
+See MicroStrategy Inc. v. Business Objects, S.A., 331 F. Supp. 2d 396,417 (E.D. Va. 2004).
+</footnote>
+
+For example, customer lists are not considered trade secrets when the
+identity of the customers could potentially be discovered through public sources. However, identical information if not available through public sources could constitute a trade secret.<footnote id="footnote10">
+Compare Inflight Newspapers, Inc. v. Magazines In-Flight, LLC, 990 F. Supp. 119, 129-30 (E.D.N.Y. 1997) (holding that the plaintiff’s customer lists were not trade secrets because the customer identity could be easily found through publicly available means, such as the Internet, trade shows, and trade directories) with North Atl. Instruments, Inc. v. Haber, 188 F.3d 38, 44 (2d Cir. N.Y. 1999) (finding that a customer list kept in confidence may be treated as a trade secret).
+</footnote>
+
+Additionally, processes or systems that are simply a compilation of known information generally do not rise to the level of trade secrets. The courts, however, are still quite divided on this issue.
+<newline/>
+
+ 
+</para><para id="eip-477"><title>Protecting Ideas as Trade Secrets</title><newline/>
+In addition to information, certain ideas may constitute trade secrets. Although ideas were not protected as trade secrets under common law, the UTSA provides protection for certain novel and concrete ideas. For example, remedies for misappropriation of an idea may be permitted based on the existence of a confidential relationship. The elements that must be proven under this common theory are: (1) a novel or original idea; (2) reduced to concrete form; (3) disclosed to the defendant in a confidential relationship, i.e., one in which it would be implied that use would not be made without compensation; and, (4) used by the defendant.
+</para><para id="eip-375">Protection of an idea may also be permitted on the basis of a contractual relationship with the defendant. Parties may enter into a contract to protect an idea being submitted or disclosed to another person or company. The major benefit of a contract to the submitter of an idea is evidence of a protected disclosure that is deserving of trade secret protections. The major benefit of a contract to the recipient of an idea is the establishment of the ground rules under which compensation, if any, will be payable to the submitter.</para><para id="eip-136">Corporations that receive unsolicited ideas many times grapple with how to best protect use of those unsolicited ideas. To protect themselves from the uncertainties of trade secrets law, the idea must be converted from an unsolicited idea to a solicited idea. This may be accomplished by contacting the submitter and alerting him that the idea will be considered only with the understanding that the use of the idea, and decisions regarding compensation for that idea, rest solely with the corporation.</para><para id="eip-826">Whether the trade secret takes the form of information or an idea, the owner of that trade secret must show not only that the trade secret was not generally known or readily ascertainable, but also that the lack of general knowledge of the trade secret conferred some value to the owner. When the owner derives a profit from licensing the use of the protected information, the value to the owner is quite apparent. However, in cases where the owner is seeking to show he was injured in the marketplace or through the loss of profits after costly research and development, the value may only become apparent by inference. But even if information is not generally known and gives the owner some value, the information is not a trade secret unless the owner takes steps to protect the secrecy of the information.
+<newline/></para><exercise id="eip-373"><problem id="eip-508">
+  <para id="eip-621">
+    Which of the following could be considered a trade secret so long as reasonable steps had been taken to prevent its disclosure?
+<preformat id="eip-id1168443045669">
+         A. Sales information
+         B. Customer lists
+         C. Manufacturing techniques
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-881">
+  <para id="eip-852">
+    D. All of the above
+  </para>
+</solution>
+</exercise><exercise id="eip-681"><problem id="eip-427">
+  <para id="eip-366">
+    Is information not known to the public considered to be a trade secret?
+<preformat id="eip-id1168398">
+         A. Yes
+         B. No
+         C. It depends
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-392">
+  <para id="eip-170">
+    C. It depends
+  </para>
+</solution>
+</exercise><exercise id="eip-595"><problem id="eip-668">
+  <para id="eip-204">
+    Would a customer list always be considered a trade secret?
+<preformat id="eip-id1170507543683">
+         A. It depends on whether the customers want to be identified or not.
+         B. To be considered a trade secret, the names of customers must not be available or discernable
+             through public sources.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-266">
+  <para id="eip-91">
+    B. To be considered a trade secret, the names of customers must not be available or discernable
+             through public sources.
+  </para>
+</solution>
+</exercise><exercise id="eip-3"><problem id="eip-701">
+  <para id="eip-478">
+    Can a mere idea be considered a trade secret?
+<preformat id="eip-id1171136765769">
+         A. No. Just as you cannot patent or copyright a mere idea, you cannot protect a mere idea with
+             a trade secret.
+         B. Yes. Under the Uniform Trade Secrets Act, even an idea can sometimes be considered a trade
+             secret.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-774">
+  <para id="eip-840">
+    B. Yes. Under the Uniform Trade Secrets Act, even an idea can sometimes be considered a trade
+             secret.
+  </para>
+</solution>
+</exercise></section><section id="eip-706"><title>Section 5.4: The Secrecy Requirement</title><list id="eip-535"><title>After completing this section, you will be able to:</title><item>Explain the steps that businesses can take in order to protect trade secrets.</item>
+<item>Describe how trade secrets can be accessed through passive and active disclosure.</item>
+ </list><para id="eip-604"><newline/>
+The second element necessary to gain trade secret protection is evidence that the trade secret’s owner made a reasonable effort to maintain secrecy. This flexible standard set out by the UTSA is often a point of contention, which results in litigation. To determine whether a piece of information rises to the level of a trade secret, courts often engage in a highly factual inquiry into the security measures taken by the owner to protect a trade secret. For as the Supreme Court has noted, if an owner has not taken steps to protect the trade secret, their proprietary interests may be diminished.<footnote id="footnote11">
+See Ruckelshaus v. Monsanto Co., 467 U.S. 986, 1002 (1984).
+</footnote>
+<newline/></para><para id="eip-455"><title>Under Company Lock and Key</title><newline/>
+Because the UTSA may be  varied  by any state, the level of secrecy required varies from state to state. For example, a version of the UTSA adopted by some states contains a provision that reduces the burden of secrecy placed on the owner  of  a  trade  secret.  Specifically, this version of the UTSA provides that the existence of a trade secret is not negated merely because an employee or other person has acquired the trade secret without express or specific notice that it is a trade secret if, under all the circumstances, the employee or other person knows or has reason to know that the owner intends or expects the secrecy of the type of information comprising the trade secret to be maintained. Although this provision tips the scales in favor of trade secret protection, it should not be viewed as removing the affirmative obligation the UTSA places on one seeking protection of trade secrets. In both states that have and have not modified the UTSA in this manner,  the  measures  taken to secure the information are key to finding whether the information will be protected as a trade secret.</para><para id="eip-911">Because trade secret protection is only given to information that is subject to reasonable efforts to maintain secrecy, every person or company that desires to protect its trade secrets under the UTSA should adopt and implement a trade secret protection plan. The specific elements of such a plan will vary depending on the nature of the intellectual property to be protected, as well as the circumstances surrounding its development and use. However, in taking reasonable efforts to protect the secrecy of the information, many different factors are considered. Because no  rigid  formula  exists to determine if reasonable efforts to maintain secrecy are in place, courts look to many of the best practices, discussed below, to determine whether an owner of information made reasonable efforts to protect its secrecy.
+<newline/></para><para id="eip-339"><title>Protection Plans</title><newline/>
+Memorializing a trade secret protection plan in writing helps to ensure that the business or person is indeed taking reasonable measures to protect the trade secret. The person or company seeking to protect its intellectual property through the use of trade secret law should maintain a written statement of its trade secret security policy. This statement can be written in the form of a policy manual and helps prevent situations in which “unwritten rules” are followed or rules are enforced in a lax manner and then eventually ignored. Moreover, should litigation become necessary, it is easier to persuade a court that the security procedures were indeed a primary concern if they are enumerated in writing. However, if security measures are merely written, but not followed, it may be difficult to prove reasonable efforts to maintain secrecy.<footnote id="footnote12">
+See Lexis-Nexis v. Beer, 41 F. Supp.2d 950 (D. Minn. 1999).
+</footnote>
+</para><para id="eip-451">A trade secret protection plan should include a program for ensuring that employees are made aware of the trade secret status of information and that the employees are periodically reminded of their confidentiality obligations. Discussions between the employer and the employee may be appropriate. Writing an annual conflict of interest letter to remind management-level employees of their responsibilities in keeping information confidential may also suffice. An essential part of this program is making certain that employees are aware of and familiar with the written trade secret protection plan discussed above.</para><para id="eip-408">Employees should also be required to sign confidentiality agreements acknowledging that they have access to trade secret information, that they will not disclose or  misappropriate that information, and that they will report all disclosures. Finally, “exit interviews” should be conducted for employees leaving the company. This interview provides an opportunity to remind employees of their written obligation not to disclose or misuse any trade secret information, and to extend an open door to discuss any issues or concerns that may arise in connection with their future employment.<footnote id="footnote13">
+Compare Electro-Craft Corp. v. Controlled Motion, Inc., 332 N.W.2d 890 (Minn. 1983) (confidentiality agreement signed by employees failed to identify with sufficient particularity what were and were not trade secrets; plaintiff began conducting “exit interviews” ten days after litigation commenced) and Gordon Employment, Inc. v. Jewel, 356 N.W.2d 738 (Minn. Ct. App. 1984) (confidentiality never discussed with employees).
+</footnote></para><para id="eip-402">In addition to educating employees, reasonable efforts to protect information often include physically restricting access to trade secrets. Trade secret information should be treated differently from nonproprietary information and should, if possible, be physically segregated so that it is not readily accessible. For example, it is not uncommon to restrict visitor access to sales and administrative headquarters. In addition, access to the intellectual property should be restricted to those with a need to know or access  the  information.  Depending on the nature of the intellectual property to be protected, reasonably restricting access to trade secrets may be as simple as segregating the information in separate file drawers, or may require measures as extreme as designating an entirely separate facility to house the intellectual property.<footnote id="footnote14">
+Id.
+</footnote>
+</para><para id="eip-630">If possible under the circumstances, physical security measures should be instituted, including the use of locks on doors, gates, and cabinets containing trade secrets. These physical security steps should be obvious to both employees and third parties who may have occasion to visit the area in which trade secrets are stored.<footnote id="footnote15">
+Id.
+</footnote>
+These types of security measures communicate that an effort is being made to protect the information.
+<newline/></para><para id="eip-53"><title>Strategies for Protecting Trade Secrets</title><newline/>
+Given the ease with which documents can be reproduced, trade secrets that are reduced to writing should be treated with special care. Documents  containing  trade   secrets   should be clearly labeled with shorthand instructions that are consistent with the written trade secret protection plan. For  example,  documents  may be marked “secret” or “confidential.”<footnote id="footnote16">
+See Gemisys Corp. v. Phoenix American, Inc., 186 F.R.D. 551, 558-62 (N.D. Cal. 1999).
+</footnote>
+Access to these documents should be monitored and all persons allowed access to the documents should be informed of the meaning of the trade secret designation on the document and the relevant provisions of the written trade secret protection plan. This attention to detail should also be followed in arranging for proper destruction of the documents.<footnote id="footnote17">
+Electro-Craft Corp. v. Controlled Motion, Inc., 332 N.W.2d 890 (Minn. 1983) (no technical documents were marked “confidential”).
+</footnote>
+</para><para id="eip-505">Like trade secrets that are reduced to writing, trade secrets stored on a computer system are particularly susceptible to theft. Access to a computer system containing trade secrets should be restricted in accordance with the written trade secret protection plan and all physical computer- related items such as discs and printouts should contain the same  trade  secret  legend  used to identify documents containing intellectual property.</para><para id="eip-162">When allowing third  parties,  be  they  members of the public or business associates, access to a facility in which trade secrets are stored or used, care must be taken to ensure that trade secrets are  not  inadvertently  disclosed.  Disclosure can occur either passively or actively. <emphasis>Passive disclosure</emphasis> might occur by carelessly leaving documents containing trade secrets in open view when business associates from another company visit your facility. <emphasis>Active disclosure</emphasis> might occur during a guided tour of the facility when a tour guide reveals the nature of a project or process the company is working on or has recently perfected.<footnote id="footnote18">
+Id. (confidentiality procedures inadequate where, among other things, plaintiff allowed public tour of its plants).
+</footnote></para><para id="eip-798">The type of active trade secret disclosure that can occur outside of the facility where trade secrets are housed is through the dissemination of confidential information at trade shows, in magazine articles, in publications, in press releases, or during public speeches. Such disclosures often occur unwittingly because they are made by marketing executives or mid-level managers who are not themselves instrumental in the development of the trade secret and who are often charged with a goal somewhat at odds with  maintaining  the  secrecy  of  intellectual property—that is, their duty often is to publicly disclose the company’s achievements. Similar difficulties might arise when engineers or those responsible for the creation of trade secrets exchange ideas with their colleagues from other companies at professional seminars.<footnote id="footnote19">
+See e.g. <foreign>Mobile Med. Int’l Corp. v. United States,</foreign> 95 Fed. Cl. 706, 739 (Fed. Cl. 2010) (finding that although plaintiff may have taken some measures to maintain the secrecy of its trade information, plaintiff’s assertions of confidentiality and the steps taken to protect its information were wholly undermined by its publicly displaying a model unit at a trade show).
+</footnote>
+One method of curtailing such disclosures is to insist that all publications, articles, and speeches be reviewed and approved by a “filter” committee prior to dissemination.<footnote id="footnote20">
+Gallowhur Chem. Corp. v. Schwerdle, 37 N.J. Super. 385, 117 A.2d 416, 423, 108 U.S.P.Q. 260 (1955) (information communicated in a public lecture revealed trade secret); Fishing Concepts, Inc. v. Ross, 1985 WL 1549 (D. Minn. 1985) (information claimed secret was revealed in article published in advertising magazine).
+</footnote>
+</para><para id="eip-140">Although the very nature of many businesses requires that a company  disclose  its  trade secrets to prospective buyers, licensees, joint venturers, or other outsiders, this does not mean that a company must surrender all rights to its trade secrets. Rather, when the company enters into a transaction with a third party, it should cautiously monitor the flow of  information  to the third party and document the nature of the trade secrets exposed and the specific limited use to which they may be put.<footnote id="footnote21">
+Id.
+</footnote>
+You might consider putting outsiders on notice regarding the need to keep information confidential, and even require the signing of confidentiality agreements. The standard of what constitutes reasonable efforts to maintain secrecy varies substantially depending upon the circumstances and the information that is being protected. However, the different methods of maintaining secrecy discussed above all often help to show that the information in question qualifies as a trade secret, and deserves trade secret protection.
+<newline/></para><exercise id="eip-440"><problem id="eip-809">
+  <para id="eip-325">
+    To gain trade secret protection, what must the owner do with
+confidential information?
+<preformat id="eip-id1168440826628">
+         A. Publicize it as widely as possible.
+         B. Not disclose it.
+         C. Take active steps to keep the information secret.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-639">
+  <para id="eip-87">
+    C. Take active steps to keep the information secret.
+  </para>
+</solution>
+</exercise><exercise id="eip-257"><problem id="eip-880">
+  <para id="eip-998">
+    What are the benefits of developing a written trade secret plan?
+<preformat id="eip-id1147340">
+         A. It serves as a policy manual that prevents situations in which unwritten rules are followed
+             and security procedures are ignored.
+         B. In the event of litigation, it can serve as proof that you took active steps to keep the
+             information secret.
+         C. Both of these
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-750">
+  <para id="eip-699">
+    C. Both of these
+  </para>
+</solution>
+</exercise><exercise id="eip-302"><problem id="eip-249">
+  <para id="eip-350">
+    How should companies handle written trade secrets?
+<preformat id="eip-id3900635">
+         A. Shred them.
+         B. Mark them “secret” or “confidential,” among other measures taken.
+         C. Never store them on a computer.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-722">
+  <para id="eip-600">
+    B. Mark them “secret” or “confidential,” among other measures taken.
+  </para>
+</solution>
+</exercise><exercise id="eip-644"><problem id="eip-258">
+  <para id="eip-767">
+    Which of these is an example of “passive disclosure” of a trade secret?
+<preformat id="eip-id1165587157199">
+         A. Leaving confidential documents lying around for anyone to see. 
+         B. Inadvertently disseminating information at trade shows or conferences.
+         C. Disclosing confidential information in press releases, newspaper articles, or marketing
+             collateral.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-956">
+  <para id="eip-642">
+    A. Leaving confidential documents lying around for anyone to see. 
+  </para>
+</solution>
+</exercise><exercise id="eip-454"><problem id="eip-885">
+  <para id="eip-873">
+    What is one way to guard against the active disclosure of trade secret information?
+<preformat id="eip-id1171137074559">
+         A. Prevent employee attendance at trade shows and seminars.
+         B. Appoint a trade secret committee to approve publications, speeches, and marketing collateral
+            prior to disclosure.
+         C. Avoid meeting with prospective buyers, customers, or licensees.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-560">
+  <para id="eip-384">
+    B. Appoint a trade secret committee to approve publications, speeches, and marketing collateral
+            prior to disclosure.
+  </para>
+</solution>
+</exercise></section><section id="eip-666"><title>Section 5.5: Misappropriation of Trade Secrets</title><list id="eip-27"><title>After completing this section, you will be able to:</title><item>Describe the differences between the misappropriation of a trade secret through improper means and disclosure without consent.</item>
+<item>Explain how trade secret owners use direct evidence and circumstantial evidence to prove that a misappropriation of trade secrets has occurred.</item>
+ </list><para id="eip-245"><newline/>
+The enforcement provisions of the UTSA allow companies and individuals to  protect  information  that  qualifies as a trade secret. The protections allowed for by the UTSA are triggered by the actual or threatened “misappropriation” of trade secrets. “Misappropriation” is defined in two ways: (1) acquisition of a trade secret through improper means, or (2) disclosure or use of a trade secret without consent.
+<newline/></para><para id="eip-142"><title>Misappropriation through Improper Means</title><newline/>
+The first type of misappropriation under the UTSA is acquisition of a trade secret through improper means. Specifically, the UTSA prohibits the “acquisition of a trade secret of another, by a person who knows or has reason to know the trade secret was acquired by improper means.”<footnote id="footnote22">
+See Unif. Trade Secrets Act § 1(2)(i), U.L.A (1985).
+</footnote> 
+“Improper means” includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.<footnote id="footnote23">
+See Unif. Trade Secrets Act § 1(1), U.L.A (1985).
+</footnote> 
+In short, the first type of misappropriation is the mere possession of a trade secret that has been acquired through theft or the breach of a duty to maintain the secrecy of the trade secret.
+<newline/></para><para id="eip-344"><title>Misappropriation through Disclosure</title><newline/>
+The second type of misappropriation under the UTSA is the disclosure or use of someone else’s trade secret without their express or implied consent. Although the statutory definition is somewhat complicated, the UTSA essentially prohibits the disclosure or use of a trade secret that is possessed as a result of theft, breach of a duty to maintain its secrecy, or an accident or mistake on the part of the trade secret owner.<footnote id="footnote24">
+See Unif. Trade Secrets Act §§ 2(2)(ii)(A)-(C), U.L.A (1985).
+</footnote>
+<newline/></para><para id="eip-755">In short, the UTSA prohibits the disclosure or use of a trade secret that is possessed as a result of “improper means” as defined in the preceding paragraph. The rule of thumb is that if you possess, disclose, or use a trade secret that you know or have reason to know is not intended to be revealed to you, beware.
+<newline/></para><para id="eip-145"><title>UTSA’s Definition of Misappropriation</title><newline/>
+The UTSA’s definition of misappropriation is rather broad. The protection granted to trade secret owners under the UTSA is further expanded by prohibiting not only the actual, but also the threatened, misappropriation of trade secrets. The distinction between these two types of misappropriation is basically one of timing. The UTSA prohibits the actual disclosure of trade secrets and provides remedies for those whose trade secrets have already been misappropriated. A more difficult question arises, however, with respect to a trade secret owner’s rights prior to the actual misappropriation of trade secrets. To address a trade secret owner’s legitimate concerns that misappropriation may occur in the future, the UTSA prohibits “threatened” misappropriation.</para><para id="eip-568">A trade secret owner may assert legal rights subsequent to any actual unauthorized disclosure or use of trade secrets.  In  such  situations, the wrong has already occurred and the trade secret owner may seek judicial intervention concerning any legal rights that were violated. This is true regardless of whether the misappropriator obtained the secret without the owner’s consent, or originally with consent but later used the secret for the misappropriator’s own gain.
+</para><para id="eip-376">The burden of proof in an actual misappropriation case is still squarely on the shoulders of the trade secret owner  who  is alleging  that  his or her trade secrets have been misappropriated. This burden of proof requires the trade secret owner to demonstrate that he or she was in possession of knowledge or information that was not generally known and was valuable precisely because it was not generally known, and that the knowledge or information was subject to efforts that were reasonable under the circumstances to maintain its secrecy. Depending on the facts and circumstances of a given case, together with the nature of the intellectual property to be protected, proving the elements necessary to make out a trade secret case can be a challenging undertaking. The best way to establish a foundation for successful prosecution of trade secret misappropriation is to follow closely the provisions of a written trade secret protection plan, and take measures to ensure the security of the information as discussed above.</para><para id="eip-229">Perhaps the most interesting trade secret cases involve the alleged threatened misappropriation of trade secrets. In these cases, the trade secret owner does not contend that their trade secrets have already been compromised, but rather that unless some action is taken to halt the current progress of events, their trade secrets will  be  misappropriated at some time in the future. Threatened misappropriation cases often arise when a highly skilled or trained employee who has been exposed to a company’s trade secrets leaves the company’s employ and goes to work for a competitor. On the one hand, the former employer may well have legitimate concerns about possible  disclosure  of its trade secrets to a competitor; on the other hand, the employee has a right to work for the employer of his choice. Consequently, courts are required to balance these competing interests. The result often depends on the legitimacy of the trade secret owner’s concerns of misappropriation and the nature of the evidence that is available to substantiate those concerns.
+</para><para id="eip-906">When faced with a situation where an employee who has been exposed to trade secrets leaves to work for a new employer, courts typically consider three factors: (1) whether the former employer and the new employer are competitors, (2) whether the employee’s new position is comparable to his or her former position, and (3) the efficacy of steps taken by the new employer to prevent the misappropriation of trade secrets.<footnote id="footnote25">
+Surgidev Corp. v. Eye Technology Inc., 648 F. Supp. 661, 695 (D. Minn. 1986), aff’d, 828 F.2d 452 (8th Cir. 1987).
+</footnote>
+</para><para id="eip-778">Mere suspicion that another party may have wrongfully disclosed or used one’s trade secrets, in and of itself, does not enable the trade secret owner to assert these rights successfully. Courts will not prohibit the wrongful use or disclosure of trade secrets based upon the mere uneasiness or suspicions of the trade secret owner that some misappropriation may occur. Rather, the trade secret owner is required to demonstrate that the concerns of misappropriation are legitimate. In most situations, this means that the trade secret owner will be required to present evidence, either direct or circumstantial, that misappropriation is likely to occur.</para><para id="eip-231">A trade secret owner may present direct or circumstantial evidence to demonstrate that there is an imminent threatened misappropriation of trade secrets. Direct evidence exists when the trade secret owner can demonstrate that action has already been taken, or words have already been spoken, that indicate that misappropriation of trade secrets is going to occur. Common examples of direct evidence supporting a trade secret owner’s legitimate concerns of threatened misappropriation are statements made by the former employee or the new employer. Former employees might make statements about the relative lack of weight they give to their former employer’s confidentiality policies. Similarly, the new employer might make statements about the purpose of hiring the new employee, why other potential employees were rejected, or the nature of the duties the new employee will be required to perform. Based on evidence of such actions or statements, a court is likely to protect trade secrets by enjoining prospectively their wrongful use or disclosure.
+<newline/></para><para id="eip-298"><title>In the Courtroom</title><newline/>
+However, in most situations, direct evidence concerning the likelihood of misappropriation does not exist. In such cases, a trade secret owner can present circumstantial evidence to  demonstrate that the  unauthorized use or disclosure of trade secrets is imminently threatened. Circumstantial evidence demonstrating that imminent misappropriation is likely to occur consists of two types: (1) evidence demonstrating the intent of a party to elicit the wrongful disclosure of the trade secret, and
+(2) evidence demonstrating that the wrongful disclosure or use of a trade secret is inevitable regardless of any party’s intentions.
+</para><para id="eip-841">Evidence demonstrating the intent of the new employer to elicit trade secrets from its new employee takes many forms. Often, a trade secret owner can show that the new employer desires the trade secret and has unsuccessfully attempted to acquire the trade secret information by proper means, either from the trade secret owner, other parties, or independent derivation or reverse engineering.<footnote id="footnote26">
+For example, in <foreign>Convolve, Inc. v. Compaq Computer Corp.</foreign>, 2006 U.S. Dist. LEXIS 13848, the plaintiffs asserted that the defendants were misappropriating trade secrets in violation of a nondisclosure agreement. As evidence of this violation, the plaintiffs showed that the defendants tried unsuccessfully to reverse engineer the trade secret-protected software. That evidence, interalia, was sufficient to withstand a motion for summary judgment.
+</footnote> 
+The new employer’s intent to misappropriate trade secrets can also be demonstrated by showing that the new employer solicited the trade secret owner’s employees and has not made any efforts to solicit employees from the industry in general. Other facts, such as access to a common supplier, access to a former consultant, or failed prior attempts to duplicate technology can also contribute to a circumstantial showing of intent.
+</para><para id="eip-64">Second, in addition to circumstantial evidence demonstrating an intention to elicit improper disclosure of trade secrets, a trade secret owner can show that  such  disclosure  is  inevitable by virtue of the particular circumstances of the situation. This showing is most frequently demonstrated by evidence that  the  work  to be performed by the former employee is very similar to the work previously performed for the trade secret owner, and that the former employee will be unable to perform his new job conscientiously without revealing trade secrets previously learned.</para><para id="eip-305">Although circumstantial evidence is generally not considered as strong as direct evidence, it is clear that courts will issue injunctions prohibiting the misappropriation of trade secrets based solely on circumstantial evidence that indicates such activity is imminently likely to occur. For example, in <link document="m10275" version="2.1"><foreign>PepsiCo, Inc. v. Redmond</foreign></link><link url="http://law.justia.com/cases/federal/appellate-courts/F3/46/29/591085/" window="new"/>, 54 F.3d 1262, the defendant moved from a senior position at PepsiCo to a position at rival Quaker Oats Company (then owner of the Gatorade brand, which is now owned by Pepsi). The court held that it was proper for the district court to conclude that based on the defendant’s access to Pepsi’s trade secrets, it was inevitable as part of the defendant’s new employment that the trade secrets would be relied on. The district court concluded that unless the defendant possessed “an uncanny ability to compartmentalize information,” he would necessarily make decisions for the new employer by relying on the trade secrets. This was true even though there was no direct evidence that Redmond disclosed any of Pepsi’s trade secrets.
+<newline/></para><para id="eip-101"><title>Act Fast</title>A trade secret owner who suspects that either actual or threatened misappropriation has occurred or is likely to occur must act promptly to enforce his or her legal rights. Although the statute of limitations under the UTSA is three years, courts have the power to deny the relief requested by trade secret owners even when an action has been initiated within the statute of limitations period, if the action has not been initiated reasonably promptly. The 
+<newline/>
+UTSA assumes that a trade secret owner who suspects misappropriation will move with reasonable alacrity to protect his or her intellectual property, and recognizes that if such action is not taken, then third parties may materially change their positions in a good-faith belief that no trade secret rights have been violated. Under such circumstances, a court may find that the trade secret owner has been estopped from exercising, or waived their right to seek protection under the UTSA. These principles essentially allow the court to find that even though the information that a party seeks to protect meets the requirements of a trade secret, equity demands that the information not be protected as a trade secret because protecting it would harm a third party.<footnote id="footnote27">
+See Watermark Solid Surface, Inc. v. Sta-Care, Inc. 2009 WL 723199 (W.D. Wis. 2009) (discussing waiver of trade secret protection); Christianson v. Colt Industries Operating Corp., 766 F.Supp. 670 (C.D. Ill. 1991) (outlining common equitable defenses in trade secrets cases).
+</footnote>
+<newline/></para><exercise id="eip-586"><problem id="eip-317">
+  <para id="eip-224">
+    Which of the following is NOT an example of misappropriation of a trade secret?
+<preformat id="eip-id1164448535435">
+         A. Acquisition of a trade secret through improper means
+         B. Deliberate disclosure of a trade secret by the trade secret owner 
+         C. Disclosure of a trade secret without consent
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-512">
+  <para id="eip-741">
+    B. Deliberate disclosure of a trade secret by the trade secret owner 
+  </para>
+</solution>
+</exercise><exercise id="eip-406"><problem id="eip-853">
+  <para id="eip-361">
+    The UTSA not only prohibits the actual disclosure or use of a trade secret, it also protects against the “threatened” disclosure of trade secrets. When might a court intervene to stop a “threatened” disclosure before the actual disclosure takes place?
+<preformat id="eip-id1164449182159">
+         A. An employee goes to work for another company in a different industry.
+         B. An employee caught embezzling is fired and the employer believes the same lack of morals
+             will lead to the fired employee disclosing trade secrets.
+         C. An employee goes to work for an arch competitor in a comparable job position.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-18">
+  <para id="eip-126">
+    C. An employee goes to work for an arch competitor in a comparable job position.
+  </para>
+</solution>
+</exercise><exercise id="eip-72"><problem id="eip-401">
+  <para id="eip-22">
+    The burden of proof in a threatened trade secret misappropriation case lies with whom?
+<preformat id="eip-id7814213">
+         A. The trade secret owner
+         B. The former employee who leaves to go work for a competitor
+         C. The competitor, who must prove he did no wrong by hiring the ex-employee
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-404">
+  <para id="eip-516">
+     A. The trade secret owner
+  </para>
+</solution>
+</exercise></section><section id="eip-833"><title>Section 5.6: Remedies Available for the Misappropriation of Trade Secrets</title><list id="eip-572"><title>After completing this section, you will be able to:</title><item>Describe how injunctions are used to enjoin actual and threatened misappropriations of trade secrets.</item>
+<item>Explain how remedies are awarded under the Uniform Trade Secrets Act.</item>
+ </list><para id="eip-947"><newline/>
+The UTSA provides a full array of remedies, including <emphasis>statutory damages</emphasis>, <emphasis>injunctive relief</emphasis>, <emphasis>attorneys’ fees</emphasis>, and <emphasis>exemplary damages</emphasis>.<footnote id="footnote28">
+See Unif. Trade Secrets Act §§ 2-5, U.L.A (1985).
+</footnote>
+The remedy or remedies will depend on the extent of trade secrets involved, the manner of misappropriation or conversion, and the type of damage sustained by the owner.
+<newline/></para><para id="eip-863"><title>Injunctive Relief</title><newline/>
+As discussed above, under the UTSA, injunctive  relief  is  available  to enjoin actual, as well as threatened, misappropriation. Injunctive relief allows the owner of a trade secret to obtain a court order prohibiting the actual or threatened misappropriation of a trade secret. The ability to enjoin threatened misappropriation is very important because it enables the owner of the trade secret to prevent public disclosure of the trade secret.<footnote id="footnote29">
+Standard Brands, Inc. v. Zumpe, 264 F. Supp. 254, 269 (E.D. La. 1967).
+</footnote> 
+Injunctive relief may take many forms. The scope of an injunction may vary from a broad prohibition on any use of material found to be a trade secret, to a more limited prohibition on the scope of an employee’s work with a new employer.<footnote id="footnote30">
+See 3M v. Pribyl, 259 F.3d 587, 598 (7th Cir 2001) (upholding broad injunction on use of material in employee handbook, as overly specific injunctions may invite evasion).
+</footnote>
+Both the scope and subject matter of an injunction vary depending upon the specific facts of the case and the nature of the trade secret in question. The  UTSA  provides  that an injunction shall terminate once the trade secret ceases to exist, but may be continued for a reasonable period of time to extinguish any commercial advantage that otherwise would be derived from the misappropriation. This is especially important where, at the time of the action, the information or knowledge is no longer a trade secret. In such a case, the court may still award the owner injunctive relief that is narrowly crafted to deprive the defendant of the benefit of time saved by improper use of the owner’s trade secret.<footnote id="footnote31">
+See, Cherne Indus., Inc. v. Grounds &amp; Associates, 278 N.W.2d 81 (Minn. 1979).
+</footnote></para><table id="eip-816" summary="INJUNCTIVE RELIEF"><title>INJUNCTIVE RELIEF</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Definition</entry>
+    <entry>Injunctive relief allows the owner of a trade secret to
+legally prohibit a former employee, for example, from
+misappropriating, publicly disclosing, or otherwise
+profiting from his or knowledge of the trade secret.</entry>
+  </row>
+  <row>
+    <entry>Scope</entry>
+    <entry>The scope of an injunction varies based on the on the
+nature of the potential misappropriator’s knowledge
+of the trade secret, and on the potential competitive
+advantage that knowledge might grant.</entry>
+  </row>
+  <row>
+    <entry>Duration and
+Termination</entry>
+    <entry>The duration of an injunction is determined based on
+the amount of time it would take a competitor to reveal
+the trade secret by proper means. An injunction can be
+terminated when the trade secret ceases to exist.</entry>
+  </row>
+  <row>
+    <entry>Permanent
+Injunctions</entry>
+    <entry>To determine the appropriate length of time, courts may
+rely on the opinions/experience of experts and competitors.
+They may impose permanent injunctions or rely on other
+considerations seen as important by the court.</entry>
+  </row>
+</tbody>
+</tgroup>
+</table><para id="eip-43">Where the information has not been publicly disclosed, the issue becomes more difficult. The duration of the injunction is often calculated according to the time that would be required for independent development of the information or knowledge that was misappropriated. These “head start” injunctions assume that the information could be properly obtained through reverse engineering or independent development.<footnote id="footnote32">
+See, e.g., Surgidev Corp. v. Eye Technology, Inc., 828 F.2d 452, 456-457 (8th Cir. 1987) (affirming 15-month injunction based on the period of time that would be required for independent development of the protected information).
+</footnote></para><para id="eip-82">To determine what length of time is appropriate, courts may rely on the opinions of experts and the experience of other competitors.<footnote id="footnote33">
+See, Restatement (Third) of Unfair Competition Section 44, comment f.
+</footnote> 
+However, a court may also opt to impose a permanent injunction that can later be modified, or in some circumstance rely on other considerations deemed important by the court.<footnote id="footnote34">
+See e.g., General Electric Co. v. Sung, 843 F. Supp. 776, 780-781 (D. Mass. 1994) (seven-year product injunction, taking into account the willfulness of the misappropriation).
+</footnote></para><para id="eip-185">Courts also exhibit broad flexibility in the nature and duration of relief in cases dealing with former employees. When an injunction is issued in these cases, it usually will not be an outright ban on employment. Rather, it will be a more limited injunction for a more limited duration.<footnote id="footnote35">
+See, e.g., Doubleclick v. Henderson, No. 116914/97 (N.Y. Sup. Ct. Nov. 5, 1997) (granting an injunction restraining two former employees from competing with their former employer for a period of six months).
+</footnote>
+Most courts are willing to allow continued employment, but will restrict the employee from working with a particular product line or area of the new employer’s business.<footnote id="footnote36">
+See, Merck &amp; Co. Inc v. Lyon, 941 F. Supp. 1443 (M.D.N.C. 1996). See also Allis Chalmers Manf. Co. v. Continental Aviation and Eng. Corp., 255 F. Supp. 645 (E.D. Mich. 1966) (injunction limited to research as to a particular type of pump); but see Union Carbide Corp. v. UGI Corp., 731 F.2d 1186 (5th Cir. 1984) (affirming injunction against use of information in 14 broad areas).
+</footnote>
+However, if the role the employee will assume in his or her new employment would inevitably lead to the disclosure of trade secrets, the employment may be prohibited altogether.<footnote id="footnote37">
+PepsiCo, Inc. v. Redmond, 54 F.3d 1262, 1272 (7th Cir 1995).
+</footnote>
+<newline/></para><para id="eip-279"><title>Damages Awarded</title><newline/>
+Damages are often awarded in addition to an injunction and are not an  exclusive  remedy.<footnote id="footnote38">
+See e.g., Mikes Train House, Inc. v. Lionel, L.L.C., 472 F.3d 398, 413-15 (6th Cir. 2006).
+</footnote> 
+For example, in <link document="m10275" version="2.1"><foreign>Seagate Tech., LLC v. Western Digital Corp.</foreign></link><link url="http://law.justia.com/cases/minnesota/supreme-court/2014/a12-1944.html" window="new"/>, 834 N.W.2d 555 (Minn. App. 2013), the Minnesota Court of Appeals affirmed a judgment of $630 million in favor of the plaintiffs against the defendants stemming from a trade secret misappropriation dispute. Under the UTSA, damages are measured by the actual loss caused by the misappropriation as well as any resulting unjust enrichment of the misappropriator. Where the amount of actual loss or unjust enrichment cannot be accurately calculated, the UTSA provides that damages may also be measured by the imposition of a reasonable royalty for the misappropriator’s unauthorized disclosure or use of the trade secret. Exemplary or punitive damages may be awarded where the court finds that the misappropriation was willful and malicious.<footnote id="footnote39">
+See, e.g., Aries Information Sys., Inc. v. Pacific Management Sys. Corp., 366 N.W.2d 366 (Minn. Ct. App. 1985).
+</footnote> 
+<newline/>
+For example, in <link document="m10275" version="2.1"><foreign>Mattel,  Inc. v. MGA Entm’t, Inc.</foreign></link><link url="http://law.justia.com/cases/federal/appellate-courts/ca9/11-56357/11-56357-2013-01-24.html" window="new"/>, 801 F. Supp. 2d 950 (C.D. Cal 2011), Mattel was found to have engaged in a prolonged practice of encouraging employees to use false pretenses to acquire competitive information from the defendant. As a result of this conduct, the jury awarded, and the court affirmed a verdict of $85 million dollars in exemplary damages. A punitive or exemplary award may not exceed twice the amount of the damage award.<footnote id="footnote40">
+See Unif. Trade Secrets Act § 3(b), U.L.A (1985).
+</footnote> 
+However, some states have modified this cap on punitive damages, and allow for punitive damages greater than two times the amount of actual damages.<footnote id="footnote41">
+Reingold v. Swiftships, Inc., 210 F.3d 320, 323 (5th Cir. 2000).
+</footnote></para><table id="eip-597" summary="Example cases with description of damages."><title>Case Studies</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Case</entry>
+    <entry>Description of Damages</entry>
+  </row>
+  <row>
+    <entry><link document="m10275" version="2.1"><foreign>Seagate Tech., LLC v. Western Digital Corp.</foreign></link><link url="http://law.justia.com/cases/minnesota/supreme-court/2014/a12-1944.html" window="new"/></entry>
+    <entry>In this case, the Minnesota Court of Appeals affirmed a judgment of $630 million in favor of the plaintiff stemming from a trade secret misappropriation. Under the UTSA, damages are measured by the actual loss caused by the misappropriation and any resulting unjust enrichment of the misappropriator.</entry>
+  </row>
+  <row>
+    <entry><link document="m10275" version="2.1"><foreign>Mattel, Inc. v. MGA Entm’t. Inc.</foreign></link><link url="http://law.justia.com/cases/federal/appellate-courts/ca9/11-56357/11-56357-2013-01-24.html" window="new"/></entry>
+    <entry>In this case, Mattel was found to have encouraged employees to use false pretenses to acquire competitive information from the defendant. As a result of this conduct, $85 million dollars in exemplary damages was awarded. A punitive or exemplary award may not exceed twice the amount of the damage award.<footnote id="footnote42">
+Reingold v. Swiftships, Inc., 210 F.3d 320, 323 (5th Cir. 2000).
+</footnote>
+However, some states have modified this cap.<footnote id="footnote43">
+See Unif. Trade Secrets Act § 3(b), U.L.A (1985).
+</footnote></entry>
+  </row>
+</tbody>
+</tgroup>
+</table><para id="eip-490">In exceptional circumstances, an injunction may entitle the owner of the trade secret to a royalty for the period of time during which the use of the trade secret was prohibited. For example, the Supreme Court of Georgia has affirmed a trial court’s reliance on a seldom-used provision of the UTSA to impose a “royalty injunction” instead of an injunction prohibiting the use of the plaintiff’s trade secret.<footnote id="footnote44">
+See Electronic Data Systems Corp. v. Heinemann, 493 S.E.2d 132 (Ga. Sup. Ct. 1997).
+</footnote></para><para id="eip-637">A court may also award attorneys’ fees to a prevailing party in exceptional circumstances.  A  bad   faith   claim of misappropriation, a bad faith resistance to a motion to terminate an injunction, or a finding of willful and malicious appropriation are exceptional circumstances in which an award of attorneys’ fees may be appropriate. However, courts are generally disinclined to award attorneys’ fees.<footnote id="footnote45">
+ See, e.g., Gordon Employment, Inc. v. Jewe1, 356 N.W.2d 738 (Minn. Ct. App. 1984).
+</footnote> 
+The attorney fee provision is included to dissuade parties from filing malicious misappropriation actions in bad faith, and considered along with the need for exemplary damages.<footnote id="footnote46">
+ See Unif. Trade Secrets Act § 4 (comment), U.L.A(1985).
+</footnote>
+<newline/></para><exercise id="eip-165"><problem id="eip-264">
+  <para id="eip-121">
+    What remedies does the UTSA provide for the misappropriation of trade secrets? (Choose all that apply.)
+<preformat id="eip-id1166286514453">
+         A. Criminal penalties of up to five years for a first offense
+         B. Statutory damages
+         C. Injunctive relief 
+         D. Exemplary damages
+         E. Attorneys’ fees
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-60">
+  <para id="eip-635">
+<preformat id="eip-id1957799">
+         B. Statutory damages
+         C. Injunctive relief 
+         D. Exemplary damages
+         E. Attorneys’ fees
+</preformat>
+  </para>
+</solution>
+</exercise><exercise id="eip-851"><problem id="eip-779">
+  <para id="eip-656">
+    What remedies were imposed in the case of Mattel, Inc. v. MGA Entm’t, Inc. in 2013?
+<preformat id="eip-id3190384">
+         A. An injunction barring a new employer from hiring the former employee of the trade secret
+             owner.
+         B. $85 million in exemplary (punitive) damages awarded to the trade secret owner.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-781">
+  <para id="eip-371">
+    B. $85 million in exemplary (punitive) damages awarded to the trade secret owner.
+  </para>
+</solution>
+</exercise></section></content>
+
+</document>

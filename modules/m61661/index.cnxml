@@ -1,0 +1,678 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Chapter 2: Patent Enforcement</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61661</md:content-id>
+  <md:title>Chapter 2: Patent Enforcement</md:title>
+  <md:abstract/>
+  <md:uuid>6df5b522-6102-442e-9de9-90e423f43153</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-159"><title>Section 2.1: The Right to Enforce Patents</title><para id="eip-554">
+<list id="sectionnote">
+  <title>After completing this section, you will be able to:</title>
+  <item>Understand the basic rights of patent owners.</item>
+  <item>Gain an appreciation of the complex process of patent litigation</item>
+</list> 
+</para></section><para id="eip-395">Patents issued by the United States Patent and Trademark Office (USPTO) can be enforced by their owners in U.S. federal courts. The USPTO is responsible only for examining and issuing patents—it does not enforce them. It is up to the owner of the patent to enforce it against infringers by filing a civil case in federal court for patent infringement.</para><para id="eip-172">A patent owner is called the “patentee.” The patentee has  the  statutory  right to exclude others from making, using, offering for sale, selling, or importing the invention covered by the patent throughout the United States.<footnote id="footnote1"> 
+35 U.S.C. §154(a)(1).
+  </footnote>
+Recall that these are rights to exclude others from using the patentee’s invention. The Patent Act does not grant the patent owner the right to practice the invention covered by the patent. Indeed, it may be that the invention, if practiced in the United States, could infringe someone else’s patent! For example, if  you obtain a patent on an improvement to a patented product (e.g., a faster-acting version of a patented painkiller), you might not be able to sell the improved product unless you obtain a license under the patent for the underlying product.</para><para id="eip-32">Infringement is a <emphasis>strict liability violation</emphasis>—you do not need to know that you are infringing a patent, or that a patent even exists, to be liable for patent infringement. If someone makes, uses, offers for sale, sells, or imports what is covered by a claim of a valid patent, that person is an infringer. Neither lack of knowledge of the patent, nor lack of intent to infringe it, is a defense to patent infringement.<footnote id="footnote2"> 
+35 U.S.C. §271(a). An exception, where lack
+of knowledge may be a defense, is indirect
+infringement, of which there are two principal
+types: (1) actively inducing someone else to
+infringe, which requires knowledge of the patent
+and an intent to cause the infringement (35 U.S.C.
+§271(b)), and (2) contributing to someone else’s
+infringement, which requires selling or offering
+for sale a component to a patented combination
+knowing that it is specially made or adapted for use
+as a material part of an infringing combination and
+that it is not suitable for substantial noninfringing
+use. 35 U.S.C. §271(c).
+  </footnote></para><para id="eip-183">Enforcing a patent is almost invariably a long and expensive process. The first step is to decide whether someone is infringing your patent—i.e., making, using, selling, offering to sell, or importing your invention without your permission. To decide whether someone is infringing your patent, the elements of each claim of the patent must be compared with the elements of the potential infringer’s device or process. If the elements of a patent claim match (or “read on”) the elements of the device or process, an infringement has occurred.</para><para id="eip-465">Even if some elements of a claim do not literally read on the infringing device, but are sufficiently equivalent in what the device does and how the device does it, they may nevertheless be infringed under the legal rule called the “<emphasis>doctrine of  equivalents</emphasis>.” This doctrine prevents an infringer from copying the essence of the invention, but making insignificant modifications in an effort to avoid infringement. If the accused device or process performs substantially the same function in substantially the same way and yields substantially the same result, infringement exists so long as any differences between the  claim elements and the accused device are not substantial. A patent calling for an “adhesive” connection (describing glue as the preferred adhesive) could be infringed by a device using a hook-and- loop fastener (e.g., Velcro). That’s because the hook-and-loop fastener arguably performs substantially the same adhesive function in substantially the same way and with substantially the same result as the glue adhesive.</para><para id="eip-58">If a patent owner believes his patents are being infringed, he typically hires a patent trial lawyer who specializes in enforcing patents. Often, but not always, this is a different person at a different law firm than the lawyer or agent who previously assisted the inventor(s) in obtaining a patent from the USPTO. Once the patent trial lawyer is retained, that lawyer will evaluate the patent and the accused device or process, and will provide the patentee a legal opinion about whether or not an infringement exists. If an infringement is found, the patentee then must decide how to proceed. Several options exist.</para><list id="eip-658" list-type="enumerated" number-style="arabic"><title>Options for Pursuing a Patent Infringement Claim</title><item>Demand that the alleged infringer stop infringing, and pay damages for past infringement.</item>
+<item>Offer the alleged infringer a license to practice your invention for money, called a “<emphasis>royalty</emphasis>.”</item>
+<item>Ignore the infringement, or postpone any action for a time.</item>
+<item>File a patent infringement lawsuit in federal court against the alleged infringer.</item></list><para id="eip-863">Each option has benefits and risks, which should be carefully considered before proceeding.</para><exercise id="eip-171"><problem id="eip-823">
+  <para id="eip-96">
+    Responsibility for legally enforcing patents rests with which of the following bodies?
+<preformat id="eip-id1171908397265">
+         A. The U.S. Patent and Trademark Office (USPTO) 
+         B. The U.S. Department of Justice
+         C. The owner of the patent, suing in a federal civil lawsuit
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-571">
+  <para id="eip-125">
+    C. The owner of the patent, suing in a federal civil lawsuit
+  </para>
+</solution>
+</exercise><exercise id="eip-59"><problem id="eip-602">
+  <para id="eip-869">
+    Patent owners have which of the following rights under the law?
+<preformat id="eip-id1172397142217">
+         A. The exclusive right to “practice” the patent—meaning the exclusive right to make or sell products
+            based on the patent.
+         B. The right to exclude others from making, using, offering for sale, selling, or importing the
+            invention covered by the patent throughout the United States.
+         C. Both of these.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-534">
+  <para id="eip-149">B. The right to exclude others from making, using, offering for sale, selling, or importing the invention covered by the patent throughout the United States.
+  </para></solution>
+</exercise><exercise id="eip-921"><problem id="eip-123">
+  <para id="eip-798">
+    Which of the following is required in order to infringe a patent?
+<preformat id="eip-id1163796760182">
+         A. Intending to infringe the patent.
+         B. Making, using, or selling the patented invention without authorization. 
+         C. Knowing that the patent exists.
+</preformat> 
+  </para>
+</problem>
+
+<solution id="eip-306">
+  <para id="eip-878">
+    B. Making, using, or selling the patented invention without authorization.
+  </para>
+</solution>
+</exercise><exercise id="eip-754"><problem id="eip-469">
+  <para id="eip-615">
+    Which of the following is the legal definition of patent infringement?
+<preformat id="eip-id1163875572228">
+         A. One or more of a patent’s claims match (or “read on”) the features and functions of a device or 
+            process.
+         B. A device or process that performs a “substantially similar” functions to those described in a 
+            patent’s claims.
+         C. Both of the above are correct.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-442">
+  <para id="eip-517">
+    A. One or more of a patent’s claims match (or “read on”) the features and functions of a device or process.
+  </para>
+</solution>
+</exercise><section id="eip-781"><title>Section 2.2: Deciding Whether and How to Enforce a Patent</title><para id="eip-296">
+<list id="Sectionnote">
+  <title>After completing this section, you will be able to:
+</title>
+  <item>Understand the variety of options one has in enforcing patent rights.</item>
+  <item>Appreciate the time and expense involved in doing so.</item>
+</list>
+</para></section><para id="eip-242">The decision of how to proceed depends on the patentee’s objectives and a clear understanding of the risks and rewards of each potential course of action. If you do not know your objectives, you cannot decide on a course of action to achieve them.</para><para id="eip-779">For example, if your goal is to stop a competitor from offering a competing product that infringes your patent, you have little choice but to file a lawsuit and pursue it to completion. This can easily cost from $1 million to over $10 million, depending upon the complexity of the case and the intensity of the defense. If you do not have the resources to pursue such expensive litigation on your own, there are contingency fee lawyers, who may be willing to take your case in return for a share of any damages (typically 30 to 40+ percent) that are collected from the infringer. As of 2014, a wide variety of litigation finance firms exist that may be willing to fund your litigation in return for a share of any damage award or settlement payment you receive.<footnote id="footnote3"> 
+See, e.g., <link url="http://www.tennes sean.com/story/money/2014/05/20/lawsuit-financingcarves-niche/9306059/" window="new">http://www.tennes sean.com/story/money/2014/05/20/lawsuit-financingcarves-niche/9306059/</link> and <link url="http://www.patentlitigationfunding.com/litigation-funding" window="new">http://www.patentlitigationfunding.com/litigation-funding</link>.
+  </footnote>
+</para><para id="eip-327">However, if your goal is to obtain a royalty for the use of your invention, you may be able to negotiate a license agreement without the need for litigation. Even if the infringer balks at an agreement unless you initiate a lawsuit, often the lawsuit can be settled via a license agreement short of trial. About 95 percent of patent lawsuits settle before trial, many with the defendant(s) taking a license for which they pay a royalty.<footnote id="footnote4"> 
+Jay P. Kesan and Gwendolyn G. Ball, How Are
+Patent Cases Resolved? An Empirical Examination
+of the Adjudication and Settlement of Patent
+Disputes, 84 Wash. U. L. Rev. 237, 254 (2006).
+Available at:<link url="http://digitalcommons.law.wustl. edu/lawreview/vol84/iss2/1" window="new">http://digitalcommons.law.wustl.
+edu/lawreview/vol84/iss2/1</link>
+  </footnote></para><para id="eip-633">Even small entities and individuals can successfully license a patent without filing a lawsuit if they have a good patent and a reasonable licensing plan. Most prospective licensees know that lawsuits are very expensive and would prefer to settle a dispute with a license rather than fight a lawsuit and end up taking a license later. The key is to have a plan, and implement it diligently, with good counsel supporting the effort.</para><para id="eip-935">Thus, the first step in deciding if and how you will enforce your patent is deciding what you want to achieve and how much effort, and money, you are willing to devote to the endeavor. The “costs” of enforcement are not limited to the out-of-pocket expenses for lawyers and litigation expenses. Any enforcement effort requires the  time and attention of the patentee, whether an individual or company, which disrupts normal business activities. The time and attention required includes providing information and documents, reviewing pleadings prepared by your lawyers, analyzing information received from your opponent during the litigation, appearing for depositions and other pretrial proceedings, and appearing at trial. Just the information and document gathering can consume hundreds, even thousands, of person hours and disrupt the normal operations of virtually every part of an organization.</para><para id="eip-786">Enforcing a patent also takes time. Lawsuits typically take two to four years to reach trial. Post-trial proceedings can take another six months to a year, and appeals take several additional years before the lawsuit is “finished.”</para><para id="eip-51">On the positive side, successful patentees can reap huge monetary damages for another’s patent infringement,	including lost profits, treble damages (i.e., triple the amount of money damages found), and, in exceptional cases, an award of the patentee’s attorneys’ fees. Awards of tens to hundreds of millions, and occasionally even billions, of dollars can be achieved, even if they are not typical. If you sell a product or service and are asserting your patent against a competitor, you can also obtain an injunction barring your competitor from continuing its infringement. This can reap huge additional rewards, measured in increased market share and pricing power.</para><para id="eip-519">Patents not only offer patentees the opportunity to play offense in the marketplace, but also provide a very potent defense against charges of infringement (or other claims) by others. Competitors are wary of attacking businesses with extensive patent portfolios. The recent “smartphone wars” are a timely example. After becoming embroiled in patent litigation with Apple and Oracle over its Android operating system and the phones that use it, Google spent $12.5 billion to acquire Motorola Mobility in August 2011 to gain access to its extensive patent portfolio so that it would have patent weapons of its own.<footnote id="footnote5"> 
+<link url="http://techcrunch.com/2011/08/15/breakinggoogle-buys-motorola-for-12-5-billion/" window="new">http://techcrunch.com/2011/08/15/breakinggoogle-buys-motorola-for-12-5-billion/</link>
+</footnote>
+Google also acquired 1,023 more patents from IBM for an undisclosed  amount  around the same time.<footnote id="footnote6"> 
+<link url="http://www.bloomberg.com/news/2011-09-14/google-purchases-1-023-patents-from-ibm-tobolster-portfolio.html" window="new">http://www.bloomberg.com/news/2011-09-14/google-purchases-1-023-patents-from-ibm-tobolster-portfolio.html</link>.
+</footnote>
+Perhaps this was also partly in response to Apple joining with BlackBerry maker Research In Motion (RIM), Microsoft, Ericsson, Sony, and EMC to buy 6,000 patents owned by Nortel for $4.5 billion in July 2011, largely to keep them from falling into the hands of competitors like Google and Samsung.<footnote id="footnote7"> 
+<link url="http://gadgets.ndtv.com/apple/news/apple-ledgroup-buys-nortel-patents-for-4-5-bn-225830" window="new">http://gadgets.ndtv.com/apple/news/apple-ledgroup-buys-nortel-patents-for-4-5-bn-225830</link>.
+</footnote>
+</para><para id="eip-325">Expert assistance in making the decision to enforce your patent, and to map out the “who, what, where, when,  and  how” of doing so, is critically important. A variety of lawyers and law firms specialize in patent trials, from solo practitioners to multinational law firms. The choice depends on your needs, means, and objectives.</para><exercise id="eip-421"><problem id="eip-942">
+  <para id="eip-797">
+    If you believe your patent is being infringed, you have how many options for recourse?
+<preformat id="eip-id7561003">
+         A. Two. You can sue the infringer in federal court, or ignore the infringement.
+         B. Three. Besides the two above, you can simply  demand  he stop infringing.
+         C. Four. You can sue the infringer, demand he stop infringing and pay monetary damages, offer the  
+            infringer a license in return for royalties, or ignore it.
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-294"><problem id="eip-749">
+  <para id="eip-753">
+    Patent infringement suits can take years and cost millions of dollars. Which of the following is another option patent owners have in seeking redress for infringement?
+<preformat id="eip-id4257891">
+         A. Out-of-court license and royalty settlements.
+         B. Contingency lawyers take the case for a share of any damages.
+         C. All of the above
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><section id="eip-577"><title>Section 2.3: Patent Litigation</title><list id="eip-322"><title>After completing this section, you will be able to:</title><item>Understand the pros and cons in deciding who, what, where, when, and how to sue an infringer.</item>
+</list><para id="eip-290">Once a decision is made to enforce a patent via litigation, a complex series of steps begins that determine the “who, what, where, when, and how” of events that will unfold.
+</para><para id="eip-386"><title>Who</title>First you decide whom to sue. Many options may exist. If the infringer is a corporation, you can sue it. But you can also sue its owners and/or officers if it is a closely held company or is dominated by a single shareholder or manager. If the infringer has subsidiaries, you must choose which of them to include as defendants. Recall that your patent gives you the right to exclude others from making, using, selling, offering for sale, or importing your invention in the territory the patent covers. (We will assume for simplicity that you own a U.S. patent; foreign patents can be obtained in other countries and enforcement of those foreign patents is subject to their local laws.) Any person or entity that violates one of these exclusive rights is a potential defendant.</para><para id="eip-720">Strategic issues should be considered in deciding whom to sue. For example, the location of one or more defendants may make it hard to include them in a lawsuit filed in a place (“forum”) convenient to you. Although the infringer’s customers are also infringers (i.e., they “use” the infringing product or service), most patentees disfavor suing customers because these are also the patentee’s customers or potential customers—and suing them may be bad for business. Often, the manufacturer or seller of the infringing product or service indemnifies and defends its customers. In other words, in many cases the manufacturer or seller of a product will agree to “cover” its customers in the event of a patent infringement claim. So, if the infringing manufacturer and/or seller is already a defendant, you gain little by suing customers, except their ire! Thus, select your defendants carefully, with your desired end result in mind.</para><para id="eip-227">Another strategic decision, when more than one infringer exists, is whether to sue them one at a time or collectively.<footnote id="footnote8"> 
+Prior to the America Invents Act (AIA) in 2011,
+joinder rules allowed you to sue multiple infringers
+in the same lawsuit, even if their products were
+different. The AIA limited this ability by restricting
+joinder. Nevertheless, you can still file a separate
+lawsuit against each alleged infringer, and ask the
+court to consolidate them for discovery and other
+pretrial purposes. Courts are usually eager to do
+this because it simplifies their work. The practical
+effect is almost the same as a single case with
+multiple defendants.
+</footnote>
+Common sense might suggest suing them one at a time, to avoid having them gang up on you. But experience shows that suing multiple defendants simultaneously is often a better strategy. It turns out that, in many cases, rather than encouraging them to gang up on you, they spend most of their energy trying to sort out differences among themselves and trying to present a united front.</para><para id="eip-726">Although the America Invents Act narrowed the joinder rule in patent cases beginning in September, 2011 to cases where a plaintiff can show a “common question of law or fact” as well as a true “transaction or occurrence” between the defendants (which must be more than infringement of the same patent), judges still typically consolidate separate cases involving the same patent for their own convenience in handling discovery and pre-trial issues. Thus, proceeding simultaneously against multiple defendants can still be an effective strategy.</para><para id="eip-617"><title>What</title>Which patents (if you have more than one) and which claims of those patents you assert in a lawsuit is another important decision you must make. Twenty years ago, you could simply file a lawsuit against an alleged infringer, listing your patent(s) and little more. You could defer deciding which claims to assert against which allegedly infringing products or services until after you received information from the defendant(s) through discovery in the litigation. However, courts now routinely require that you provide details in the <emphasis>complaint</emphasis> you file, or shortly after, about which patent claims are asserted against which product or service, and also that you provide a “claim chart” that details those assertions precisely. Although it is possible to revise these assertions after receiving more information during the discovery process, your initial assertions remain in the court’s record and can come back to haunt you if they are not consistent with your revised assertions. Therefore, careful pre-filing  investigation   and   analysis is crucial to a successful pursuit of the infringers.</para><para id="eip-738">Ideally, hire not only an experienced patent trial lawyer to guide this effort, but also the experts you will rely on in the litigation, and who will testify during the trial on how and why the accused products or services infringe your patent(s). Experts can provide essential evidence of the infringement during the trial. Good experts are critical to success in litigation, as much as experienced trial lawyers, but are sometimes surprisingly hard to find. First, you must find an expert who is neutral, or at least appears so. Most experts are employed in the same field as the patentee and the alleged infringer, making them potentially unsuitable candidates because they have allegiances to existing companies that suggest the possibility of bias. Second, a good expert must not only know his or her subject thoroughly, but also be able to communicate it to a lay audience (i.e., the nonexpert judge and jury). Such communication skills are not always found in experts with strong technical credentials. Finally, you want an expert who has the right skills, but not one who appears to be a hired gun (exemplified by someone who spends most of his or her time testifying for a fee).</para><para id="eip-561">Thus, prepare in advance, and hire experts early in the process, both to assist your preparations and to remain available during the progress of the lawsuit and for trial.</para><para id="eip-471"><title>Where</title>The selection of where to file is an important, perhaps determinative, decision. As we have noted, patent infringement cases seeking damages can only be filed in U.S. federal courts (as opposed to state courts). If your defendant is a private party, the proper location for the case (called “<emphasis>venue</emphasis>”) is the federal district court in the geographic location where the defendant is incorporated or resides, or where the claim arose.<footnote id="footnote9"> 
+If the alleged infringer is the federal government
+itself, or a government contractor, the proper
+venue is the Court of Federal Claims. 28 U.S.C.
+§1491 Another forum for enforcing a U.S. patent against
+imported goods exists at the U.S. International
+Trade Commission (ITC) in Washington, D.C. 19
+U.S.C. §1330. The ITC has the power to investigate
+alleged infringement and bar goods found to
+infringe from entering the country. This can be
+a very effective tool against infringing imports,
+especially if all the sources of those imports are
+unknown. The ITC’s jurisdiction is “quasi in rem”
+so that the infringing goods themselves provide the
+basis for jurisdiction, allowing their adjudication
+and prohibition even if the source of the goods
+is unknown. Proceedings before the ITC are
+extremely expedited, usually taking 18 months or
+less, and can be very expensive.
+</footnote></para><para id="eip-739">The first two criteria are usually easily determined— i.e., a company’s state of incorporation is a matter of public record, as are the places where it has facilities. The place where the claim arose includes every place the infringing product or service is made, sold, offered for sale, used, or imported. If it is a low volume product or service, or is very new or lightly distributed, the proper venues may be quite limited. But typically products or services with enough sales to justify a multimillion dollar patent infringement lawsuit are broadly available throughout the country, opening up virtually any federal court as a possible venue.</para><para id="eip-321">Thus, you can, and should, select a venue that meets your objectives as closely as possible. Some venues (e.g., the Eastern District of Virginia and the Western District of Wisconsin) have reputations (and rules) for moving cases through to trial very quickly, often in less than a year. Speed is desirable in terms of reaching a conclusion quickly, but has its downsides in terms of accelerated costs and maximum disruption to the normal business operations of you and your opponent. Other districts exhibit much slower progress toward trial, which may be desirable or undesirable in meeting your particular objectives.</para><para id="eip-776">Another factor is experience. Some district courts have handled many complex patent cases, have detailed rules about what must be done to get the case ready for trial, and an excellent track record on appeal. Still other districts have reputations for being “plaintiff friendly” or “defendant friendly,” although these reputations are often more “urban legend” than accurate. In any given case, the outcome is dependent on the parties, the facts, the lawyers, and the judge/jury assigned.</para><para id="eip-891">Experienced patent trial counsel can assist you in making an appropriate choice of venue for your case, taking into account the myriad factors pertinent to your case.</para><para id="eip-168"><title>When</title>The timing of filing suit is often dictated by when you discover the existence of the infringement and have gathered the required information for  drafting a complaint and the necessary initial disclosures. But other considerations may be relevant also, such as the timing of industry trade shows, holiday sales  pushes, or the financing activities of your opponent. Absent any other constraints or objectives, lawsuits should usually be filed as soon after the infringing activity is discovered as possible, given the need to investigate and prepare before filing a complaint.
+</para><para id="eip-499">At the outside, any suit filed more than six years after the infringement began and was reasonably capable of being discovered can give rise to a defense of “<emphasis>laches</emphasis>” and/or “<emphasis>estoppel</emphasis>” by your opponent. In other words, the accused infringer is arguing that you waited too long to bring your infringement claim. It may be necessary for you to prove that the defendant was not prejudiced by your delay. If laches applies, which simply means you waited an unreasonable time to make your claim, prejudicing your opponent, your damages will be limited to those that arise after you filed your lawsuit. If estoppel applies, which means that you not only delayed, but affirmatively misled your opponent into believing you would not file suit, your claim is barred altogether.</para><para id="eip-614">Another issue you face is whether to notify the alleged infringer before filing suit. This seems prudent—demand that the infringer cease the infringement before filing a lawsuit aimed at enforcing such cessation. But such a strategy is fraught with pitfalls. First, accusing someone of infringement allows them to sue you preemptively, asking the court for a quick decision that no infringement exists. This type of judicial decision is called a declaratory judgment of noninfringement.<footnote id="footnote10"> 
+28 U.S.C. § 2201(a); See MedImmune,$ Inc.$ v.$
+Genentech,$ Inc., 127 S.Ct. 764 (2007) and SanDisk$
+Corp.$ v. STMicroelectronics,$ Inc., 480 F.3d 1372
+(Fed. Cir. 2007).
+</footnote>
+If the accused infringer sues you before you sue them, the accused infringer becomes the plaintiff and can sue in a forum of their choice. Ceding to your opponent the initiative and the choice of forum for the litigation is a strategic blunder that could cost you not just that battle, but the war. Second, an old adage applies here: If you are going to kick someone, don’t warn them, because they will prepare to deflect the blow. Patent litigation (like all litigation) is like war, albeit civilized war. Ceding to your opponent important strategic advantages, such as the choice of forum and the element of surprise, is costly and can be fatal.
+</para><para id="eip-476">So, do these considerations dictate that you ambush your opponent and appear to be unreasonable by suing without notice? No, a middle ground does exist. Consider filing the lawsuit simultaneously with, or immediately after, making a demand that the infringer cease the infringing activities. You can defer formally “serving” the lawsuit on your opponent (that is, providing notice by delivering the complaint) for at least 30 days, and as long as 90 days in some courts. This allows you to negotiate with your opponent from a position of strength and with your choice of forum firmly established, without appearing unreasonable.</para><para id="eip-973"><title>How</title>Once you choose to file suit in federal court, the how is largely dictated by the Federal Rules of Civil Procedure, the Federal Rules of Evidence, and the loal rules of the chosen venue. However, one important decision remains-judge or jury.<footnote id="footnote11"> 
+See Rules 38-39, Fed. R. Civ. P.
+</footnote>
+Until the 1990s, almost all patent cases were tried to a judge because they were thought to be too complex for juries. but then some enterprising plaintiffs' lawyers decided to request that a jury decide their case, perhaps seeking to take advantage of the complexity of the cases and the belief that juries trust patents because they are issued by the federal government after examination by USPTO experts. That has led to the current reality, which is that almost all patent cases filed now request a jury trial. Interestingly, statistics show that this trend does not always benefit plaintiffs. Depending on the venue, plaintiffs only win 60 to 75 percent of the time, despite having the advantage of being able to pick what cases they file (presumably they self-select only the strongest cases) and where they file them (i.e., they can select what they think is the most favorable forum—often their own hometown).<footnote id="footnote12"> 
+PricewaterhouseCoopers, 2013 Patent Litigation
+Study, at 9;  <link url="https://www.pwc.com/us/en/forensicservices/publications/assets/2012-patentlitigation-study.html" window="new">https://www.pwc.com/us/en/forensicservices/publications/assets/2012-patentlitigation-study.html</link>.
+</footnote>
+Of course, the outcome of a particular case depends on a myriad of factors unique to that case. No party can be assured victory when a jury is involved.</para><exercise id="eip-596"><problem id="eip-94">
+  <para id="eip-260">
+    If you think multiple parties are infringing, what is your best strategy?
+<preformat id="eip-id2396071">
+         A. Sue them one at a time, so they don’t gang up on you.
+         B. Pick the one with the biggest pockets, as the settlement will likely be larger.
+         C. Sue them all simultaneously, and let them sort out their differences.
+</preformat>
+  </para>
+</problem> </exercise><exercise id="eip-701"><problem id="eip-91">
+  <para id="eip-445">Should you alert an infringer beforehand that you intend to file suit?
+<preformat id="eip-id4778112">
+         A. Always. This gives him the opportunity to settle prior to you filing a costly suit.
+         B. Never. He can then sue you preemptively, giving him the vital initiative in seeking a
+             venue of his choice and a declaratory judgement of noninfringement.
+         C. Yes, but only if you file suit simultaneously or shortly afterwards.
+</preformat>
+  </para></problem> 
+</exercise><exercise id="eip-547"><problem id="eip-312">
+  <para id="eip-224">
+    How often do plaintiffs win at trial?
+<preformat id="eip-id1925838">
+         A. 60 to 75 percent of the time 
+         B. 80 to 90 percent of the time 
+         C. 40 to 50 percent of the time
+</preformat>
+  </para>
+</problem> 
+</exercise><section id="eip-550"><title>Section 2.4: Getting Started</title><list id="eip-905"><title>After completing this section, you will be able to:</title><item>Understand the various pretrial motions available to parties in a litigation.</item>
+</list><para id="eip-196">Once the decision to file suit is made, and all the factors noted above are considered, the complaint is filed in the clerks’ office of the selected federal court and served in due course on the defendant(s).<footnote id="footnote13"> 
+See Rules 3-5, and 7-8, Fed. R. Civ. P.
+</footnote> 
+The defendant(s) must then decide whether to move to dismiss or transfer the case to a different venue, or file an answer (a response to the infringement claim).<footnote id="footnote14"> 
+See Rules 7-8, and 12, Fed. R. Civ. P.
+</footnote> 
+The defendant(s) can also file a counterclaim, asserting claims back against the plaintiff.<footnote id="footnote15"> 
+See Rule 13, Fed. R. Civ. P.
+</footnote>
+Motions  to  dismiss  may   be   based on any number of issues—improper jurisdiction (e.g., the court does not have power over the defendant because it does not reside or do business within the geographic jurisdiction of that court), improper venue (e.g., the defendant does not reside or did not commit any act of infringement in the jurisdiction of the court), failure to state a proper claim, etc.<footnote id="footnote16"> 
+See Rule 12(b), Fed. R. Civ. P.
+</footnote>
+Such a motion must be accompanied by a legal brief explaining the reasons for the motion, to which the plaintiff can file an opposing brief. The defendant who filed the motion usually has an opportunity to file a reply brief. After the briefing is completed, which can take one to two months, the court will decide the motion with an order, either granting or denying it.
+</para><para id="eip-620">Motions to transfer can be filed by a defendant who believes another court would be a “better” place to proceed with the case.<footnote id="footnote17"> 
+See 28 U.S.C. §1404(a)
+</footnote>
+The factors considered by the court as to whether it or another court is “better” include which court is most convenient in terms of the location of necessary witnesses and/or documents, and whether another court already has experience with the subject matter because a related case is pending or was handled there and it can handle the new case more efficiently. Such motions usually fail, but can delay the progress of the case by several months, sometimes longer, while the court considers how to rule on the motion. The parties must present detailed arguments about why the case should be moved, or not, and often the court will order oral argument during which each party can present its position and answer questions the court may have.</para><para id="eip-717">If no motions are filed by the defendant(s), or if they are denied, the defendant(s) must file an answer, which responds to the allegations in the complaint and sets forth any defenses the defendant(s) may have.<footnote id="footnote18"> 
+See Rules 8-9, Fed. R. Civ. P.
+</footnote> 
+Such defenses can include that the patent is not infringed, that the patent is invalid, that the defendant has a license, that the plaintiff waited too long to file suit (laches) or misled the defendant into believing he or she would not complain about the alleged infringement (estoppel), that the alleged infringer is entitled to prior user rights,<footnote id="footnote19"> 
+35 U.S.C §273, which provides a defense to patent
+infringement for someone who can prove, by clear
+and convincing evidence, that they acted in good
+faith and commercially used the subject matter of
+the patent in the U.S. at least one year before the
+effective filing date of the patent or the invention’s
+first public disclosure.
+</footnote> or myriad other defenses that may be available.<footnote id="footnote20"> 
+See Rules 8-9, and 12, Fed. R. Civ. P.
+</footnote>
+</para><para id="eip-573">The defendant(s) may also file one or more <emphasis>counterclaims</emphasis>, which are essentially new charges filed against the plaintiff.<footnote id="footnote21"> 
+See Rule 13, Fed. R. Civ. P.
+</footnote>
+If such counterclaims are related to the subject matter of the initial case, they may be tried at the same time. If not, they may be severed and tried separately, either before or after the initial case.</para><para id="eip-600">The plaintiff has an opportunity to file a reply to the answer and an answer to any counterclaim that the defendant(s) file.<footnote id="footnote22"> 
+See Rule 7, Fed. R. Civ. P.
+</footnote>
+If a counterclaim is filed, followed by an answer, then the defendant(s) can file a reply to the plaintiff’s answer.<footnote id="footnote23"> 
+See Rules 8 and 13, Fed. R. Civ. P.
+</footnote></para><para id="eip-648">Once these initial pleadings are filed, which usually takes about 60 days from when the initial complaint is filed, the case is considered “at issue” and the pretrial proceedings commence.</para><para id="eip-971">Defendants in patent cases are increasingly turning to a strategy of filing requests for <emphasis>post-grant review</emphasis> in the PTO to derail a patentee’s efforts to enforce the patent. Although beyond the scope of this chapter, a post-grant review essentially asks the PTO to take another look at whether the patent is valid, i.e., whether it should have been granted in the first place. The requestor of any post-grant review must present supporting evidence to show that some issue renders one or more of the patent’s claims invalid. The post-grant review request can be either <foreign>ex parte reexamination</foreign> (meaning the patentee does not get to participate) or <foreign>inter partes review</foreign> (in which the patentee is allowed to participate), or <emphasis>covered business methods review</emphasis> (to review patents that claim a method or corresponding apparatus for performing data processing or other operations used in the practice, administration, or  management of  a financial product or service). Complex rules govern these proceedings, and they changed in 2011 under the <emphasis>America Invents Act (AIA)</emphasis>, which substantially revised the nation’s patent laws in a number of important ways.<footnote id="footnote24"> 
+See the PTO’s discussion of the AIA at <link url="http://www.uspto.gov/aia_implementation/index.jsp" window="new">http://www.uspto.gov/aia_implementation/index.jsp</link>.
+</footnote></para><para id="eip-972">The significance to a patentee of an opponent requesting post-grant review is twofold. First, the patentee risks losing its patent if the PTO finds it is invalid, and this is exactly what has happened in a majority of <foreign>inter partes review</foreign> hearings as of March, 2016. Second, a defendant requesting post-grant review usually asks the court to <emphasis>stay</emphasis> (i.e., temporarily suspend) the patent case filed against it while the PTO evaluates the patent, arguing that the result of the PTO’s actions may either invalidate or modify the patent  such that the court should await the outcome before proceeding with the litigation. This strategy has been successful in many courts.</para><exercise id="eip-174"><problem id="eip-265">
+  <para id="eip-226">
+    Which of the following is NOT a valid reason for filing a motion to dismiss once a suit is filed in a federal court?
+<preformat id="eip-id4605332">
+         A. Improper jurisdiction
+         B. Improper venue
+         C. Improper (or invalid) patent 
+         D. Failure to state a proper claim
+</preformat>
+  </para>
+</problem> 
+</exercise><exercise id="eip-653"><problem id="eip-556">
+  <para id="eip-459">
+    Which of the following is NOT a possible defense in a defendant’s
+answer to a claim?
+<preformat id="eip-id7449272">
+         A. The patent is invalid.
+         B. The patent is not infringed.
+         C. The plaintiff waited too long to file suit.
+         D. The patent covers a nonessential part of the allegedly infringing product.
+</preformat>
+  </para>
+</problem> 
+</exercise><exercise id="eip-86"><problem id="eip-401">
+  <para id="eip-424">
+    Why have defendants increasingly turned to post-grant review proceedings at the PTO, such as <foreign>inter partes review</foreign>, since the America Invents Act was passed in 2011?
+<preformat id="eip-id1171490924915">
+         A. The PTO is less likely to judge that a patent has been infringed.
+         B. It's quicker than waiting for a trial.
+         C. The PTO has shown a strong likelihood of finding challenged patents invalid. 
+</preformat>
+  </para>
+</problem> 
+</exercise></section><section id="eip-271"><title>Section 2.5: Pretrial Procedures</title><list id="eip-133"><title>After completing this section, you will be able to:</title><item>Understand the multiple procedures involved in the pretrial phase of patent litigation.</item>
+<item>Appreciate the costs involved and the ways they affect the ultimate trial outcome.</item>
+</list><para id="eip-188">The first steps in the pretrial procedure are the filing by the parties of their “initial disclosures” and the holding of the preliminary pretrial conference.<footnote id="footnote25"> 
+See Rules 12, 16, and 26, Fed. R. Civ. P.
+</footnote> 
+Initial disclosures must provide preliminary information about each party’s positions in the case, and disclose the identity and location of witnesses and documents likely to be relevant to the issues in the case.<footnote id="footnote26"> 
+See Rule 26(a), Fed. R. Civ. P.
+</footnote>
+These disclosures help frame the “discovery,” or information that the parties can request of each other, which is one of the hallmarks of litigation in the United States and one of the drivers of the expense of litigation. The concept is laudable—require each party to disclose the information it has relevant to the case to preclude a “trial by ambush.” But, in practice, discovery can become an endless game of cat and mouse, with costs escalating exponentially. We will talk more about discovery shortly.
+</para><para id="eip-151">The preliminary pretrial conference is usually the first time the parties appear in court before the judge, unless there has been a hearing on a pretrial motion (as discussed above). At this conference, the judge discusses with the parties the issues likely to arise in the case, the time that pretrial discovery is expected to take, and any issues that make the case unique (such as witnesses in foreign countries that require extraordinary means to obtain their testimony for trial). Each party is usually required to submit a report to the court in advance of this conference, proposing what the timeline for the case should be and identifying any unique issues. The court typically issues a <emphasis>scheduling order</emphasis> at, or shortly after, the pretrial conference, specifying dates by which certain activities must be concluded. This order often “splits the baby” between the plaintiff’s and defendant’s proposed schedules (the plaintiff usually seeks speed while the defendant usually seeks delay). The figure below shows a typical scheduling order.</para><para id="eip-669">The scheduling order will also usually specify a length of the trial (e.g., 8 trial days), subject to revision at the final pretrial conference. A typical patent trial is scheduled to last from 5 to 20 trial days, but some can take much longer. Let’s look at each step of this schedule to understand what is happening.</para><para id="eip-492"><title>Protective Order</title>Before information is shared between the parties, they usually agree on a protective order, which they will ask the court to enter, that specifies who has access to the confidential information produced during discovery in the litigation.<footnote id="footnote27"> 
+See Rule 26(c), Fed. R. Civ. P.
+</footnote>
+This is important to all parties, and even third parties that may be asked to produce information during discovery, because sensitive business, technical, and financial information is routinely requested by and produced to each party during the lawsuit. The protective order proscribes that the disclosure of confidential information during discovery is limited to lawyers involved in handling the case, outside experts retained by the lawyers to assist them, and court reporters (who record testimony during the case), videographers (who videotape deposition testimony, as is now common), and court personnel. It is also typical that certain employees of each party (usually in-house lawyers and/or business people directly involved in the oversight of the case) are also permitted to review certain materials, but not financial information of a competitor or future business plans, which are usually excluded from being disclosed to any party employees.</para><para id="eip-489">Everyone authorized to see confidential information is under court order to restrict use of the information to the pending lawsuit, not to disclose it to anyone not authorized by the protective order to see it, and requiring that all copies be returned or destroyed at the end of the case.</para><para id="eip-562"><title>Discovery</title>After the preliminary pretrial conference, discovery begins, which results in the exchange of documents, written responses, and witness testimony.<footnote id="footnote28"> 
+See Rules 26-37, Fed. R. Civ. P.
+</footnote>
+</para><para id="eip-392">A request for production allows a party to demand that another party turn over relevant documents and electronically stored information in its possession or control, as well as an inspection of property (such as a manufacturing facility) to take photographs, measurements, and the like.<footnote id="footnote29"> 
+See Rule 34, Fed. R. Civ. P.
+</footnote>
+Documents and other tangible items can also be requested from third parties (i.e., people and entities not named as a party in the lawsuit) via subpoena.<footnote id="footnote30"> 
+See Rule 45, Fed. R. Civ. P.
+</footnote></para><para id="eip-18">Interrogatories are written questions that a party can ask of other parties in the litigation, but not of third parties. Such questions can request any nonprivileged information that is relevant to any party’s claim or defense—including the existence, description, nature, custody, condition, and location of any documents or other tangible things and the identity and location of persons who know of any discoverable information that may be relevant to the subject matter of the litigation.<footnote id="footnote31"> 
+See Rules 26(b) and 33(a)(2), Fed. R. Civ. P.
+</footnote> 
+Interrogatories may also ask for opinions or the legal contentions of another party. The initial limit on the number of interrogatories is 25, including subparts. However, upon a showing of good cause, courts routinely permit additional interrogatories in patent litigation because the issues are usually complex.<footnote id="footnote32"> 
+See Rule 33(a), Fed, R. Civ. P.
+</footnote>
+Answers to interrogatories are binding on the party providing them and may be used as admissions in the litigation, including at trial.</para><para id="eip-732">Depositions are interviews used to elicit testimony from witnesses having relevant knowledge.<footnote id="footnote33"> 
+See Rules 27-30, Fed. R. Civ. P.
+</footnote>
+This is similar to eliciting testimony  during  a  trial, but occurs in a conference room with a court reporter present to record what is said. The judge is not present at depositions, but may intervene if a controversy arises. Testimony can also be requested by written questions to a witness, which the witness then answers and returns to the requesting party, called a deposition by written questions.<footnote id="footnote34"> 
+See Rule 31, Fed. R. Civ. P.
+</footnote></para><para id="eip-995">Although in the United States, it is usually required that testimony at trial be presented live, with the opportunity for the opposing party to cross-examine the witness and for the jury and/or judge to assess each witness’s demeanor in person, testimony elicited via depositions during discovery may be used at trial under certain circumstances.<footnote id="footnote35"> 
+See Rule 32, Fed. R. Civ. P.
+</footnote>
+For example, if a witness dies before trial, or is unavailable through no fault of the party seeking to use the deposition testimony, the deposition may be used as testimony at trial in lieu of live testimony from the witness. Also, the deposition testimony of an opposing party or an officer or manager of the opposing party corporation may be used at trial for any purpose. Usually, however, deposition testimony is used primarily to “impeach” a witness testifying live at trial—that is, to show that the witness at trial has changed his or her prior testimony from when he or she gave the deposition. Videotaped deposition testimony is very effective to show to a judge or jury during trial that the witness has changed his or her testimony—such as from “No” to “Yes” or the equivalent!
+</para><para id="eip-707">The parties can also demand that another party admit, for purposes of the pending litigation only, the truth of any facts, opinions, or conclusions, or the genuineness of any documents relevant to any party’s claim or defense. Such demands are called requests for admission.<footnote id="footnote36"> 
+See Rule 36, Fed. R. Civ. P.
+</footnote>
+The responses to these demands are binding on the responding party and can be used to conclusively establish the matters admitted in the litigation, including at trial.</para><para id="eip-940"><title>Amendments to the Pleadings</title>Once initial information is obtained via discovery, the parties may be permitted to amend or supplement their pleadings (i.e., the complaint, answer, counterclaim, etc.) to address information or issues  uncovered  during  the initial discovery.<footnote id="footnote37"> 
+See Rule 15, Fed. R. Civ. P.
+</footnote>
+For example, the plaintiff may uncover information about other companies, products, or services involved in the infringement and seek to add them to the lawsuit. A defendant may uncover information about invalidity defenses not previously known to it and want to add those to its answer.</para><para id="eip-88"><title>Close of Discovery</title>This is the date by which all requests for documents, information, and depositions must be complete. It  is  usually   interpreted   as   requiring   that all responses to requests for production, interrogatories, and requests for admissions be answered by the end date set by the court, which means that the actual requests must be made sufficiently  in  advance  of  this  date  (typically
+31 days—because responses are due to most discovery requests within 30 days) to allow the responses to be due before the cutoff date. Any depositions must also be completed by the date for the close of discovery (although the parties usually agree to finish select depositions after this date in order to accommodate scheduling problems).
+</para><para id="eip-415"><title>Claim Construction Briefing and Hearing</title>In virtually every patent case, a dispute arises over the meaning of certain language used in the asserted claims of the patents at issue. These are called “claim construction” disputes, and must be resolved by the judge before trial. The parties are permitted to provide their competing arguments in briefs to the court, usually after discovery is completed, and make an oral argument on their respective positions to the court at a claim construction hearing. These hearings are often called <emphasis>Markman hearings</emphasis>, after the name of the case that established that the judge, and not the jury, must decide the proper meaning of disputed claim language.<footnote id="footnote38"> 
+<foreign>Markman, et al. v. Westview Instruments, Inc.,</foreign>
+517 U.S. 370 (1996).
+</footnote></para><para id="eip-623">This is a critical juncture in every patent case because the opposing parties try to craft an interpretation of the claim language that supports their respective positions. Most patent claims are drafted using a range of language, from specific to general, in an effort by the patentee (and his or her lawyer) to cover as much territory for the claim as possible. The PTO interprets proposed claims in the broadest reasonable way possible, and then compares their scope with the prior art, before allowing them. The goal of the patentee in dealing with the PTO is to get allowed the broadest claims possible, in order to get the broadest patent coverage possible. But the use of broad, general language in claims permits the parties in later litigation to argue for different interpretations, depending on their interests at the time of litigation. Thus, a plaintiff seeks an interpretation that is broad enough to encompass the defendant’s products and services so that infringement can be proven. In contrast, the defendant proposes a narrow interpretation (or “construction”) that excludes its products and services.
+</para><para id="eip-821">The court resolves the dispute over the meaning of the contested claim terms by referring to the language of the claims, the language and drawings in the patent, and the history of the proceedings in the PTO that led to the issuance of the patent. The written record of that history is preserved in what is call a “file wrapper,” so named because all the written documents making up the history are contained in a three-part file folder, the two outer portions of which fold over and “wrap” the documents within it. The patentee is bound by what it told the PTO to secure allowance of the patent. The court interprets the language according to its ordinary meaning to someone of ordinary skill in the art to which the invention pertains, unless the patentee specially defined the language within the patent or its file wrapper.</para><para id="eip-28">Once the claim construction decision is made by the court, the scope of the patent(s) in the case is fixed, and the only remaining issue for trial is whether the claims of the patent(s) as interpreted by the court are broad enough to include the accused products and services of the defendant(s).</para><para id="eip-419"><title>Summary Judgment Briefing and Hearing</title><emphasis>Summary judgment</emphasis> is a procedure that obviates a trial where one of the parties can show that its opponent cannot win—as a matter of law.<footnote id="footnote39"> 
+See Rule 56, Fed. R. Civ. P.
+</footnote>
+That is, if one party can show that the evidence is so clear that no fact dispute exists (i.e., no reasonable fact finder, whether judge or jury, could decide otherwise) and that the law requires the case be decided in favor of the party moving for summary judgment, the court can decide the case without holding a trial. The judge must decide such motions based only on the applicable law (which the judge determines), the evidence (i.e., documents, interrogatory answers, admissions, and deposition testimony) developed during discovery, and the court’s claim construction decision, giving the benefit of any doubt about the facts to the nonmoving party. If the court finds that a fact relevant to the outcome is in dispute, summary judgment must be denied and a trial held to resolve that factual dispute.</para><para id="eip-551">Understandably, these are hotly contested motions. The moving party hopes to avoid the need for a trial, and the uncertainty a jury introduces, by having the judge decide the case in its favor early on. The nonmoving party wants to go to trial, and hope that the fluid events that are the essence of a jury trial will convince the jury to decide the case in its favor.</para><para id="eip-636">In recent years, most patent cases are resolved on summary judgment and only a handful go to trial (about 100 per year throughout the country). The primary reason for this phenomenon is the advent of the claim construction (Markman) hearing and the decision by the court, before trial, about how the language of the asserted claims must be interpreted. The court’s claim construction decision resolves most of the uncertainty in a patent case, because what the accused products or services are, and how they operate, is rarely in dispute by the time discovery concludes.</para><para id="eip-979">The end result is that the case is often either settled after the claim construction decision, or decided in favor of one side or the other at the summary judgment stage. If summary judgment is granted, the losing party can appeal the decision to the United States Court of Appeals for the Federal Circuit, which is the appellate court to which all decisions in patent cases are appealed.</para><para id="eip-657"><title>Final Pretrial Order and Conference</title>The final pretrial order is the document that sets forth the “ground rules” for the trial.<footnote id="footnote40"> 
+See Rule 16(e), Fed. R. Civ. P.
+</footnote>
+It typically identifies all the positions of each party, every issue in dispute in the case that must be resolved by order of the court or at trial, all the documents the parties may seek to introduce into evidence at the trial, and each witness that is expected to be called to testify, either live or via their deposition. The judge issues the order based on a draft prepared by the parties and once issued, it defines the issues that may be raised at the trial. If there is to be a jury trial, the order can rarely be modified after the final pretrial conference. If the trial is before the judge only (referred to as a “bench trial”), the judge may be more lenient in allowing modifications to the final pretrial order because he is the person deciding the case and can adjust more readily than a jury.</para><exercise id="eip-7"><problem id="eip-858">
+  <para id="eip-316">
+    What role does discovery play in an infringement case?
+<preformat id="eip-id6907830">
+         A. Through production of documents and interrogatories, either side may discover 
+            information that may be decisive in confirming or rebutting infringement claims.
+         B. Discovery is often an endless fishing expedition that escalates the costs to both 
+            parties exponentially.
+         C. Both of these describe the role of discovery in an infringement case.
+</preformat>
+  </para>
+</problem> 
+</exercise><exercise id="eip-266"><problem id="eip-830">
+  <para id="eip-618">
+    What is the most critical pretrial phase of every patent infringement case?
+<preformat id="eip-id6796539">
+         A. Discovery
+         B. Summary Judgment
+         C. Claims construction (or Markman) hearings
+         D. The Verdict
+</preformat>
+  </para>
+</problem> 
+</exercise></section><section id="eip-663"><title>Section 2.6: Trial</title><list id="eip-508"><title>After completing this section, you will be able to:</title><item>Understand the importance of jury selection and opposing arguments.</item>
+<item>Grasp why patent trials are often called “morality plays.”</item>
+</list><para id="eip-30">The following describes a jury trial. A bench trial is essentially the same, but without the elements involving the jury.<footnote id="footnote41"> 
+See generally, Rules 40-63, Fed. R. Civ. P.
+</footnote></para><para id="eip-794"><title>Jury Selection</title>The trial begins with the selection of the jury. The jury is selected (or “picked”) from a group of  prospective jurors called to court to serve in accordance with the laws and practices of the local jurisdiction.</para><para id="eip-809">Each judge has his or her own procedure for picking a jury. Most involve a questionnaire that each prospective juror must complete and provide to the judge and the parties’ lawyers. The answers are intended to reveal whether any reason exists why a prospective juror should not serve on the jury. Typical reasons for excluding a prospective juror include that he or she works for or knows one of the lawyers in the case, works for or does business with one of the parties, has a close relative that works for one of the parties, knows something about the subject matter of the case, or is unable to serve because of a disability or a previously planned vacation for which he or she has already purchased a nonrefundable ticket. The judge also typically asks the prospective jurors whether they have a bias or prejudice that would prevent them from making a fair decision.</para><para id="eip-528">Once the judge has “excused” from serving any prospective jurors for “cause” (i.e., because of one of the reasons listed above or some other reason that court believes provides good cause for excusing that person), the clerk selects at random from the remaining  prospective  jurors the number that will be seated  as  the  jury, plus six. The number of jurors seated in a case depends on the expected length of the trial and the practices of that judge. At least six and no more than twelve jurors  must  decide  a  case, but any number between six and twelve can be seated.<footnote id="footnote42"> 
+See Rule 48, Fed. R. Civ. P.
+</footnote>
+The reason a court usually seats more than six jurors is to assure that the trial will end with at least the minimum of six jurors necessary to decide the case even if one or more jurors need to be excused during the trial, such as for illness or emergency. Judges typically seat seven to nine jurors for this reason. Only rarely do judges in civil patent cases seat a full twelve jurors, because once seated a juror must participate in reaching the decision (unless excused for cause), and all jury decisions in federal cases, including patent cases, must be unanimous.<footnote id="footnote43"> 
+See Rule 48(a) and (b), Fed. R. Civ. P.
+</footnote> 
+The general rule is, the more jurors there are, the longer it takes for them to reach a unanimous verdict, and the higher the likelihood that the case will result in a “hung” jury (i.e., an inability for the jury to reach a unanimous decision).</para><para id="eip-404">The clerk selects the designated number for the jury, plus six, because each party gets three “peremptory challenges” to the proposed jury panel, whereby a party can remove a juror without having to give a reason why. Thus, if the judge has decided the jury should begin  with eight jurors, the clerk will select 14 so that the plaintiff and defendant (collectively if there is more than one  plaintiff and/or defendant) are each able to strike or eliminate three prospective jurors, leaving eight to hear the case.</para><para id="eip-269">Once the jury is picked and sworn in, the judge will give the jury preliminary jury instructions. These explain what the case is about, how the trial will proceed, and a description of what a patent is and how the patent system works. Occasionally, judges opt to show the jury the video below, entitled “An Introduction to the Patent System,” which was created by the Federal Judicial Center and is intended to be neutral.<footnote id="footnote44"> 
+You can see this video at <link url="https://archive.org/details/gov.ntis.ava21157vnb1" window="new">https://archive.org/details/gov.ntis.ava21157vnb1</link>.
+</footnote></para><para id="eip-276"><title>Opening Statements</title>The next step is the opening statements by the opposing parties, starting with the plaintiff and followed by the defendant. If there are multiple plaintiffs or defendants, the judge will give equal time to each side and let the individual parties work out the allocation of time. The opening statement is intended to provide a road map for the jury about what the party intends to prove, and is expected to be devoid of argument. But lawyers rarely present an opening statement without some  argument. The judge can intercede, and an opposing party may object, if a party crosses the “no argument” line too far.</para><para id="eip-848">The opening statements are where many believe the trial is won or lost because the jury forms initial opinions about who is right and who is wrong in the case based on what they hear at this beginning stage. Thus, each party’s trial lawyer tries to craft a story to tell that casts their client in the best possible light. Trials can be likened to a morality play, in which each party tries to cast themselves as in the right, and the opponent as doing them wrong. In patent cases, plaintiffs often portray defendants as thieving freeloaders, attempting to benefit unfairly from the inventiveness of the plaintiff rather than invest in developing their own products. Defendants, on the other hand, often portray patentees as greedy monopolists, trying to stifle competition and deny consumers choice and less-expensive alternatives.</para><para id="eip-991">Whether or not the common wisdom is correct, it is with the opening statements that the jurors begin their struggle to find truth among the competing stories they will hear during the trial.</para><para id="eip-950"><title>The Evidence is Presented</title>The plaintiff then presents its case, calling witnesses and introducing exhibits that support its positions. Each opposing party has the opportunity to object to exhibits and testimony, and to cross-examine witnesses. The judge rules on all objections and generally oversees the proceedings to assure that the trial is conducted properly. After the plaintiff rests its case, the defendant presents its defense, again by introducing exhibits and offering testimony from witnesses. The trial concludes with the plaintiff calling rebuttal  witnesses, who are limited to rebutting testimony from the defendant’s witnesses. Each side usually calls one or more experts to testify on the issues of infringement and validity (or invalidity), as well as on damages.
+</para><para id="eip-680"><title>Closing Arguments</title>After the evidence has been presented, the parties make their closing arguments. Usually the plaintiff goes first, followed by the defendant. The plaintiff has the opportunity to reserve time for rebuttal if it chooses. In some jurisdictions, the defendant must go first and the plaintiff next. In this case, the plaintiff has the last word, and the defendant does not have any opportunity for rebuttal.</para><para id="eip-832">Closing arguments give each party the opportunity to highlight what they believe is the critical evidence in their favor, and attack the deficiencies in their opponent’s case. It is here that an observer would see the greatest geographic diversity in style and practice. Quite apart from the different styles of trial lawyers and judges across the country, jurors in different parts of the country expect different things from trials, and especially from closing arguments. Thus, an observer would see a very different “show” during a closing argument in the Eastern District of Texas than in the District of Maine.</para><para id="eip-298">After closing arguments are concluded, the judge reads the final jury instructions. These set forth the law to which the jury must apply the facts they determine during their deliberations.<footnote id="footnote45"> 
+See Rule 51, Fed. R. Civ. P.
+</footnote></para><para id="eip-740">Thereafter, the jury retires to the jury room, with copies of the exhibits admitted into evidence, to decide the case.</para><para id="eip-994"><title>Deliberation and Verdict</title>In most patent cases, the jury must answer detailed questions listed in a verdict form, called a special verdict.<footnote id="footnote46"> 
+See Rule 49, Fed. R. Civ. P.
+</footnote>
+These questions typically list the accused product(s) and the asserted claim(s) and require the jury to decide infringement and validity for each claim and accused product separately. If appropriate, the jury may also be asked to decide what damages, if any, are to be awarded the plaintiff and whether any infringement they may have found to exist was willful or not.
+</para><para id="eip-111">The jury deliberates as long as it takes to reach a unanimous decision on each question. During their deliberations, the jury may ask questions of the judge in writing, which the judge answers after consulting with the parties. Should the jury tell the judge that it cannot reach a unanimous verdict, the judge may provide additional instructions and return the jury to its deliberations to “try harder.” Most juries reach a unanimous decision, which is recorded on the verdict form and read by the clerk in open court with the parties present.</para><exercise id="eip-57"><problem id="eip-849">
+  <para id="eip-277">Why do courts usually seat seven to nine jurors rather than six or twelve in most patent cases?
+<preformat id="eip-id3195472">
+         A. You need an odd number of jurors to break a tie vote on the verdict.
+         B. Six jurors won’t be enough for a legal verdict if one is excused during trial, and
+              twelve jurors will likely take too long to decide the case.
+</preformat>
+  </para></problem> 
+</exercise><exercise id="eip-12"><problem id="eip-964">
+  <para id="eip-345">
+    Why are patent trials often thought of as morality plays?
+<preformat id="eip-id3096418">
+         A. The facts of the case, not each party’s moral views, are all that matters to a jury.
+         B. It is immoral to spend $3 million to $10 million on a patent suit.
+         C. Each party casts itself as in the right and its opponent as doing them wrong.
+</preformat>
+  </para>
+</problem> 
+</exercise></section><section id="eip-579"><title>Section 2.7: Post-Trial Procedures</title><list id="eip-434"><title>After completing this section, you will be able to:</title><item>Grasp the significance of equitable proceedings in the post-trial phase.</item>
+</list><para id="eip-408">Following the jury’s decision, the court will set a schedule for any equitable proceedings required and for post-trial motions. Equitable proceedings deal with matters to be decided by the judge, not the jury. In terms of post-trial motions, the winning party will ask for entry of judgment.<footnote id="footnote47"> 
+See Rule 54, Fed. R. Civ. P.
+</footnote>
+The losing party will file a motion for judgment as a matter of law and usually also a motion for a new trial.<footnote id="footnote48"> 
+See Rule 50, Fed. R. Civ. P.
+</footnote>
+</para><para id="eip-902"><title>Equitable Proceedings</title>Issues arise in most patent cases that must be decided by the judge and not the jury. Many of these are called “equitable” issues because they are left to the sound, equitable discretion of the court. The most common equitable issues are the defense of inequitable conduct and the affirmative claims of willfulness and exceptional case.</para><para id="eip-574"><title>Inequitable Conduct</title>Misconduct by the patentee in dealing with the Patent and Trademark Office, through which the patentee or its attorney deceives or misleads the patent examiner in an effort to persuade the examiner to grant the patent, was historically called “fraud on the Patent Office,” but more recently has been renamed “inequitable conduct.” A defendant can raise this issue as a defense, which if proven results in the patent being unenforceable—that is, the patentee is unable to enforce the patent or recover any damages for its infringement. Many different types of inequitable conduct have been found to render patents unenforceable, from outright fabrications of alleged evidence of unexpected results in the development of the invention, to hiding relevant prior art showing prior solutions to the problem solved by the patent, to failing to tell the patent examiner that another patent examiner had rejected a related application.</para><para id="eip-500">Most district courts defer ruling on inequitable conduct defenses until after the liability trial addressing infringement, validity, and damages. This is a commonsense attempt at efficiency because if the patent is found invalid or not infringed at trial, the inequitable conduct issues became moot. Only if the patent is found valid and infringed does the court need to hold a separate hearing to adduce evidence of alleged inequitable conduct. The court then decides whether such conduct had been proven, which is exceedingly rare. Nevertheless, because the consequences of such a finding  essentially kill the patent, defendants assert inequitable conduct whenever possible in a final effort to avoid liability.
+</para><para id="eip-828">By 1988, the Federal Circuit Court of Appeals stated: “the habit of charging inequitable conduct in almost every major patent case has become an absolute plague.”<footnote id="footnote49"> 
+<foreign>Burlington$$Indus., Inc. v. Dayco Corp.,</foreign> 849 F.2d
+1418, 1422 (Fed. Cir.1988).
+</footnote>
+In an effort to stem the spread of this plague, the Federal Circuit sought to restrict its use by holding that inequitable conduct must be established by clear and convincing evidence of deceptive intent. Gross negligence does not suffice and “does not of itself justify an inference of an intent to deceive.”<footnote id="footnote50"> 
+<foreign>Kingsdown Medical Consultants, Ltd. v. Hollister,
+Inc.,</foreign> 863 F.2d 867, 872 (Fed.Cir. 1988).
+</footnote></para><para id="eip-284">Nevertheless, the plague continued, leading a Federal Circuit judge to write:
+<preformat id="eip-id7451760">
+       “‘Inequitable conduct’ in patent practice means misconduct by the patent applicant in 
+         dealings with the patent examiner, whereby the applicant or its attorney is found to have
+         engaged in practices  intended  to  deceive or mislead the examiner into granting the 
+         patent. It is a serious charge, and the effect is that an otherwise valid and invariably
+         valuable patent is rendered  unenforceable, for the charge arises only as a defense to 
+         patent infringement.
+
+         As this litigation-driven issue evolved, the law came to demand a perfection that few 
+         could attain in the complexities of patent practice. The result was not simply the 
+         elimination of fraudulently obtained patents, when such situations existed. The
+         consequences were disproportionately pernicious, for they went far beyond punishing 
+         improper practice. The defense was grossly misused, and with inequitable conduct charged 
+         in almost every case in litigation, judges came to believe that every inventor and every
+         patent attorney wallowed in sharp practice.”<footnote id="footnote51"> 
+<foreign>Ferring B.V. v. Barr Laboratories, Inc.</foreign> 437 F.3d
+1181, 1195 (Fed. Cir. 2006)(dissenting opinion).
+</footnote>
+</preformat>
+
+</para><para id="eip-47">Still the plague continued, leading Federal Circuit Judge Gajarsa in 2010 to then refer to it as a “pandemic.”<footnote id="footnote52"> 
+<foreign>Taltech Ltd. v. Esquel Apparel, Inc.,</foreign> 604 F.3d 1324,
+1335 (Fed. Cir. 2010)(dissenting opinion).
+</footnote>
+Research showed that the percentage of patent cases in which inequitable conduct was charged grew from less than 5 percent in 2000 to 40 percent by 2009.<footnote id="footnote53"> 
+<link url="http://www.patentlyo.com/patent/2010/06/measuring-the-plague-of-inequitable-conduct.html" window="new">http://www.patentlyo.com/patent/2010/06/measuring-the-plague-of-inequitable-conduct.html</link>.
+</footnote>
+</para><para id="eip-952">Finally, on May 25, 2011, the Federal Circuit restricted the doctrine of inequitable conduct by changing the standard for materiality and clarifying the requirements for finding intent to deceive.<footnote id="footnote54"> 
+<foreign>Therasense, Inc. v. Becton, Dickinson &amp; Co., 649
+F.3d 1276, passim (Fed. Cir. 2011).</foreign>
+</footnote>
+To find inequitable conduct, the court held that the party alleging unenforceability must prove a specific intent to deceive the USPTO by clear and convincing evidence. Moreover, the decision to deceive the USPTO must be knowing and deliberate. The court also  clarified  that district courts may not use a “sliding scale” to find intent. In other words, the Federal Circuit held it improper to find that a weak showing of intent was sufficient based on a strong showing that the information was material, or that a weak showing of materiality was sufficient based on a strong showing of intent. Although intent can be inferred to meet the clear and convincing evidence standard, specific intent to deceive must be “the single most reasonable inference able to be drawn from the evidence.”</para><para id="eip-201">Regarding materiality, the court required a “but- for materiality” standard. In other words, the standard for materiality now requires that “but for” the alleged deception,  the USPTO would not have allowed the claim. Further, “[i]n making this patentability determination, the court should apply the preponderance of the evidence standard and give claims their broadest reasonable construction.” The court also recognized an exception to the requirement  for  but-for  materiality, finding that “[w]hen the patentee has engaged in affirmative acts of egregious misconduct, such as the filing of an unmistakably false affidavit, the misconduct is material.”</para><para id="eip-310">The number of successful inequitable conduct defenses asserted has plummeted due to the strict new requirements for pleading and proving inequitable conduct imposed by the <foreign>Therasense</foreign> decision. District courts are dispensing with many allegations of inequitable conduct now at the pleading stage, eliminating the need for separate hearings on inequitable conduct issues.</para><para id="eip-458">Misuse of a patent is sometimes treated as a form of inequitable conduct, but it is more commonly treated as a separate affirmative defense. The elements of misuse are either a violation of antitrust laws or an effort to expand the scope or term of a patent beyond appropriate limits. For example, it is patent misuse for a patentee to file suit against products of a defendant that are far beyond the proper scope of any claims of the patentee’s patent, or to seek damages or an injunction beyond the expiration of the patent. Often such unreasonable demands are accompanied by threats to the defendant’s customers. If the misuse is proved, the patentee could be barred from recovering any damages until it has “purged” the misuse by abandoning its unreasonable assertions and dissipating any negative effects they caused.</para><para id="eip-428"><title>Willfulness</title>If the jury (or judge, in a bench trial) finds that the asserted patent has been infringed, it is often asked to determine whether such infringement was “<emphasis>willful</emphasis>.” A finding of willful infringement allows the judge to award enhanced damages under 35 U.S.C. § 284, which provides in relevant part that the court may increase the damages award by up to three times the amount found. This is a potent consequence of a showing that a defendant’s infringement was willful.</para><para id="eip-414">The standard for showing willfulness has evolved over the years, but in 2007, the Federal Circuit significantly altered the standard governing willful infringement by requiring the patentee to prove that (1) the accused infringer “acted despite an objectively high likelihood that its actions constituted infringement of a valid patent,” and (2) the “objectively defined risk . . . was either known or so obvious that it should have been known to the accused infringer.”<footnote id="footnote55"> 
+<foreign>In re Seagate, 497 F.3d 1360, 1371 (en banc).</foreign>
+</footnote> 
+The first prong of this test is objective, whereas the second prong is subjective and involves the accused infringer’s actual state of mind. Each prong requires that the infringer knew the patent existed at the time it infringed.
+</para><para id="eip-601">Because an infringer cannot be shown to have willfully infringed if it did not know the patent existed, some companies have adopted a “head in the sand” approach to others’ patents. This practice is thought to make sense when  the field is very crowded (i.e., there are many patents owned by different patentees covering many different aspects of a product or service) because trying to uncover all the potentially relevant patents that could be asserted against a new product or service is extremely costly, if not impossible. This practice is used most frequently by large companies that can afford to deal with a patent infringement lawsuit should one be filed. Small companies and entrepreneurs, especially in emerging fields, often take great care to search for and work around any existing patents that might be close to their new product or service because they can ill afford patent litigation. Of course, searching for potentially troublesome patents and trying to avoid them is no guarantee of not getting sued. Not only are there more than two million patents in force,<footnote id="footnote56"> 
+See Dennis Crouch, <foreign>How Many US Patents are In Force?</foreign>, <link url="http://www.patentlyo.com/patent/2012/05/how-many-us-patents-are-in-force.html" window="new">http://www.patentlyo.com/patent/2012/05/how-many-us-patents-are-in-force.html</link>.
+</footnote> 
+but creative patentees are not above taking a patent that was thought to cover one product and arguing it is broad enough to cover what a new market entrant has introduced.</para><para id="eip-307">In 2012, the Federal Circuit again addressed the willfulness standard, and adjusted it again.<footnote id="footnote57"> 
+<foreign>Bard Peripheral Vascular Inc. v. W.L. Gore &amp;
+Assoc’s. Inc.,</foreign> 682 F.3d 1003, 1006-07 (Fed. Cir.
+2012).
+</footnote> 
+With regard to the objective prong of the willful infringement test, the Federal Circuit concluded:
+<preformat id="eip-id1661780">
+        “We believe that the court is in the best position for making the determination of  
+         reasonableness. This court therefore holds that the objective determination of recklessness,
+         even though predicated on underlying mixed questions of law and fact, is best decided by the
+         judge as a question of law subject to de novo review.”
+</preformat>
+</para><para id="eip-969">This further restricts the opportunity for a patentee to prove that a defendant’s infringement was willful. The patentee must first convince the district court that the defendant acted despite an objectively high likelihood that its actions constituted infringement of a valid patent. Only after that will the patentee be able to present evidence of the defendant’s alleged subjective intent to the jury in an effort to convince the jury that the infringement was willful.</para><para id="eip-656">Patentees preferred the pre-<foreign>Bard</foreign> opportunity to present all of their willfulness evidence to the jury during the liability trial. They wanted this ability because they believed, probably correctly, that it helped the jury conclude not only that the defendant was a “bad actor” who willfully ignored the patentee’s rights, but also bolstered the underlying issue of infringement itself. Post-<foreign>Bard</foreign>, the patentee can only present willfulness evidence if it is able to convince a more dispassionate judge that the defendant acted objectively recklessly, which is a higher hurdle to overcome.</para><para id="eip-930">If the patentee convinces the judge on the objective prong, and the jury on the subjective prong, resulting in a jury verdict of willful infringement, the issue of enhanced damages passes back to the court for determination after the trial.</para><para id="eip-139">Because the <foreign>Bard</foreign> case was decided in mid-2012, little empirical evidence exists on its effect on the frequency with which significant enhanced damages are awarded by the courts. However, even before <foreign>Bard</foreign>, the evidence suggests that such awards were falling. Before the Seagate restrictions were imposed in 2007, 81.4 percent of cases finding willful infringement resulted in an award of enhanced damages, but after Seagate, that number fell to 54.9 percent.<footnote id="footnote59"> 
+Christopher B. Seaman, <foreign>Willful Patent
+Infringement and Enhanced Damages After In Re 
+Seagate: An Empirical Study,</foreign> 97 Iowa Law Review
+417, 466; <link url="http://www.uiowa.edu/~ilr/issues/ILR_97-2_Seaman.pdf." window="new">http://www.uiowa.edu/~ilr/issues/ILR_97-2_Seaman.pdf.</link>.
+</footnote></para><para id="eip-870"><title>Exceptional Case</title>Courts have discretion to award reasonable attorneys’ fees in patent infringement cases that are deemed “exceptional.”<footnote id="footnote60"> 
+35 U.S.C. § 285
+</footnote>
+The Federal Circuit has referred to this provision as a deterrent to bringing of clearly unwarranted suits on invalid or unenforceable patents.<footnote id="footnote61"> 
+<foreign>Mathis v. Spears,</foreign> 857 F.2d 749, 754 (Fed. Cir.
+1988).
+</footnote></para><para id="eip-609">Normally, the losing party is not liable to pay the winner’s attorneys’ fees—a practice referred to as the “American Rule.” The rationale for this is that any party should be able to approach the court for relief without the fear that if he or she is unsuccessful, he or she will be left to pay not only his or her own attorney but the adversary’s attorney as well. Thus, the provision of the Patent Act that permits an award of attorneys’ fees is an exception to the rule that each party bears its own costs in litigation.</para><para id="eip-652">Congress said that it intended the rule allowing an award of attorneys’ fees to be applied sparingly and “that recovery of attorneys’ fees will not become an ordinary thing in patent suits.<footnote id="footnote62"> 
+S. Rep. No. 1503, 79th Cong., 2d Sess. (1946)
+(discussing the predecessor statute to 35 U.S.C. §
+285)
+</footnote> 
+The Federal Circuit repeatedly limited district court discretion to award attorneys’ fees to only those cases in which the district court found clear and convincing evidence of bad faith or at least gross negligence by the losing party in bringing or maintaining the suit, and any such determination was reviewable <foreign>de novo</foreign> on appeal.<footnote id="footnote63"> 
+<foreign>Mathis v. Spears,</foreign> 857 F.2d 749, 754 (Fed. Cir.
+1988) and <foreign>Brooks Furniture$ Mfg., Inc. v. Dutailier
+Int’l, Inc.,</foreign> 393 F. 3d 1378, 1381-2 (Fed. Cir. 2005).
+</footnote> 
+But in April 2014, the Supreme Court struck down these restrictive Federal Circuit interpretations and held:
+<preformat id="eip-id7105640">
+       “[A]n ‘exceptional’ case is simply one that stands out from the others with respect to the 
+        substantive strength of a party’s litigating position (considering both the governing law 
+        and the facts of the case) or the unreasonable manner in which the case was litigated.
+        District courts may determine whether a case is ‘exceptional’ in the case-by-case exercise
+        of their discretion, considering the totality of the circumstances [and without any] 
+        precise rule or formula for making these determinations.”
+</preformat></para><para id="eip-498">In a companion case, the Supreme Court also rejected the rule that exceptional case determinations should be reviewed <foreign>de novo</foreign> on appeal.<footnote id="footnote64"> 
+<foreign>Highmark Inc. v. Allcare Health Management System, Inc.</foreign> (572 U.S._)(No. 12-1163. Argues February 26, 2014-Decided April 29, 2014).
+</footnote></para><para id="eip-698">There are increasing calls for a change to the American Rule, to require losing parties to pay the winner’s attorneys’ fee. The principal purpose of such a change would be to deter so-called “patent trolls,” entities that acquire patents for the sole purpose of making money by filing lawsuits, threatening crippling litigation expenses, and demanding settlements at or slightly more than the cost of litigation.<footnote id="footnote65"> 
+See Section 2.10, <foreign>infra</foreign>.
+</footnote>
+It is questionable whether such a change would in fact deter the so-called trolls or instead preclude small entities and entrepreneurs from pursuing legitimate claims due to the uncertainty of the outcome of any lawsuit. Even the most “bulletproof” patent can be subject to unexpected challenges from previously undiscovered prior art or the vagaries of a jury decision favoring the defendant for reasons other than the merits. Enforcing a patent requires resources, or the availability of a contingency fee lawyer willing to take the outsized costs, and risks that patent litigation can entail. Thus, shifting the responsibility for the winner’s attorneys’ fees to the losing party could effectively preclude small entities and individuals from even filing a lawsuit. The 2014 Supreme Court’s <foreign>Octane Fitness</foreign> and <foreign>Highmark</foreign> cases, and how district courts exercise their newly expanded discretion in finding a patent case exception under 35 U.S.C. § 285, may dissuade Congress from enacting a “loser pays” exception for patent cases.</para><para id="eip-167"><title>Entry of Judgment</title>The winning party seeks entry of a judgment that grants it the relief to which it is entitled, based on the jury’s verdict and the rulings of the court. First, the judgment will declare who the winning party is. Then, it will set forth the relief or remedies to which the winning party is entitled. The relief may include damages, as awarded by the jury and supplemented by the court if there was a timing difference in the calculation of the damages by the jury and the date on which they are finally awarded. A winning patentee is also entitled to prejudgment interest on the damage award, calculated at the rate specified by law, to compensate for the time value of money lost due to the delay in obtaining damages. The judgment may also set forth the post judgment interest due, for any delay between the entry of the judgment and the payment of the award to the patentee by the losing parties.</para><para id="eip-650">A successful patentee may also be entitled to injunctive  relief,  barring  further  sales  of  the infringing product or service. This is the most potent relief available to patentees. Prior to 2006, it was presumed that a patentee who proved patent infringement was irreparably injured and entitled to an automatic injunction. But in 2006, the Supreme Court rejected the presumption and ruled that, in all other kinds of cases, a successful patentee is required to prove each of the following requirements for injunctive relief: (1) that it has suffered an irreparable injury; (2) that remedies available at law are inadequate to compensate for that injury; (3) that considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted; (4) that the public interest would not be disserved by a permanent injunction.<footnote id="footnote66"> 
+<foreign>eBay Inc. v. MercExchange, L.L.C,</foreign> 547 U.S.388
+(2006).
+</footnote></para><para id="eip-432">Usually, patentees who are competitors of the infringer can meet these requirements. However, patentees who are not competitors of the infringer are usually unsuccessful in convincing courts that they are entitled to injunctive relief, and are left with only money damages(usually an on going reasonable royalty) to compensate for future infringement. This removes the most serious risk an alleged infringer faces—being barred from the market—making fighting cases through trial more palatable than before. This new rule from the Supreme Court has driven many plaintiffs out of federal court and into the International Trade Commission (ITC), when the allegedly infringing products are imported, because the ITC issues exclusion orders and cease and desist orders (roughly equivalent to federal court injunctions barring further sales) without regard to the requirements the Supreme Court laid down in the <foreign>eBay</foreign> decision.<footnote id="footnote67"> 
+See footnote 7, <foreign>supra</foreign>.
+</footnote>
+</para><para id="eip-194"><title>Motion for Judgment as a Matter of Law</title>Called a “JMOL” motion, the premise of a motion for judgment as a matter of law is that the jury did not have a legally sufficient evidentiary basis for deciding the case as it did, and the court should intervene and decide the case in favor of the party moving for the JMOL. The moving party must explain in detail what legally required evidence is missing from the trial record. The opposing party (i.e., the party that won the jury verdict) then has the opportunity to identify in the trial record where the allegedly missing evidence is found, and the judge decides who is correct. The court must consider the evidence in the light most favorable to the nonmoving party. Thus, most JMOL motions fail. But the losing party always files such a motion because it is a chance to challenge the jury’s verdict and avoid the remedies the winning party is demanding.</para><para id="eip-684"><title>Motion for a New Trial</title>JMOL motions are usually accompanied by a motion for a new trial, arguing that the jury’s verdict was against the manifest weight of the evidence or the jury’s verdict was grossly inadequate or excessive.<footnote id="footnote68"> 
+See Rules 50 and 59, Fed. R. Civ. P.
+</footnote>
+Other grounds also exist, such as newly discovered evidence that could not have reasonably been discovered earlier.</para><para id="eip-737">The decision to grant or deny a  new  trial rests with the sound discretion of the judge, who typically presided during the trial and has a keen understanding of the evidence that was introduced and whether the jury’s verdict was against the weight of that evidence. The court’s decision is not whether the court would have decided the case the same way, but whether there is sufficient evidence in the record to support the jury’s verdict. The court must view the evidence in the light most favorable to the nonmoving party. Thus, most new trial motions, like most JMOLs, are unsuccessful.
+</para><exercise id="eip-728"><problem id="eip-834">
+  <para id="eip-873">
+    Which of the following is the definition of inequitable conduct?
+<preformat id="eip-id7568681">
+         A. Deceiving or misleading the patent office to grant a patent.
+         B. Deceiving or misleading a jury during opening arguments.
+         C. Deceiving or misleading the opposing party during the discovery phase.
+</preformat>
+  </para>
+</problem> 
+</exercise><exercise id="eip-750"><problem id="eip-283">
+  <para id="eip-667">
+    What’s the standard for proving willful infringement, leading to
+enhanced damages?
+<preformat id="eip-id1171492946043">
+         A. Selling a product despite knowing that a patent exists that the product might be 
+            infringing.
+         B. Selling a product despite an objectively high likelihood that it infringed a valid 
+            patent and that this risk was known or should have been known to the infringer.
+         C. Deliberately not conducting a prior art search to determine if a patent exists that 
+            your product might be infringing.
+</preformat>
+  </para>
+</problem> 
+</exercise><exercise id="eip-690"><problem id="eip-856">
+  <para id="eip-674">
+   What is the standard for imposing attorneys’ fees on the losing
+party to a patent suit?
+<preformat id="eip-id2011557">
+         A. Convincing evidence of bad faith or gross negligence by the losing party.
+         B. A case that “stands out from others” in the weakness of the plaintiff’s case or the 
+            unreasonable or abusive manner in which it was litigated.
+</preformat>
+  </para>
+</problem> 
+</exercise><exercise id="eip-257"><problem id="eip-645">
+  <para id="eip-649">
+    What is often the most serious damage that a court can impose upon an infringer?
+<preformat id="eip-id1859658">
+         A. A very large award for monetary damages.
+         B. Pre- and post judgment interest payments on the damage award.
+         C. Injunctive relief barring further sales of the infringer’s products.
+</preformat>
+  </para>
+</problem> 
+</exercise></section><section id="eip-359"><title>Section 2.8: Appeals</title><list id="eip-423"><title>After completing this section, you will be able to:</title><item>Understand what happens after a jury verdict is entered.</item>
+<item>Appreciate the chances of success of appeals based on fact versus legal issues.</item>
+</list><para id="eip-770">Once the post-trial motions are decided and the judgment entered, the losing party may appeal to the Federal Circuit Court of Appeals. This is the one federal appellate court in the United States that hears all appealed cases involving patent disputes. Almost all patent cases  that  conclude with a trial, or after a decision on summary judgment, are appealed. This is partly because the cost of an appeal is orders of magnitude less than the case up to that point (e.g., tens or hundreds of thousands of dollars vs. hundreds of thousands or millions of dollars). In addition, overall the Federal Circuit affirms in full less than 60 percent of the patent cases it decides on the merits.<footnote id="footnote69"> 
+<link url="http://www.patentlyo.com/files/caseload_patent_infringement_affirmance_and_reversal_rates_2001-2010.pdf" window="new">http://www.patentlyo.com/files/caseload_patent_infringement_affirmance_and_reversal_rates_2001-2010.pdf</link>.
+</footnote>
+Thus, it is well worth it for the losing party to pursue an appeal, because overall it has a 40+ percent chance of partial or full relief from the judgment below. Of course, the reversal rate varies by the nature of the issues before the Federal Circuit and the standard of review the court applies. Legal issues (such as claim construction, summary judgment, and jury instructions) are reviewed <foreign>de novo</foreign>, without deference to the district court’s or jury’s decision. This makes it much more likely that the Federal Circuit will reverse a decision because it need not give any deference to the decision of the district court. Fact issues (like infringement, many aspects of validity, and damages) are reviewed on a less flexible standard (i.e., does substantial evidence support the decision), such that the Federal Circuit (like the district court)  is  not free to substitute its own judgment for that of the jury. Evidentiary rulings, and other issues associated with how the trial was conducted are reviewed under the least flexible standard of review—abuse of discretion. It is rare that the Federal Circuit finds that a district court abused its discretion.<footnote id="footnote70"> 
+For a deeper understanding of appellate
+standards of review in patent cases, see Michel,
+Paul R., Circuit Judge, CAFC, “Appellate Advocacy—
+One Judge’s Point of View, The Federal Circuit
+Bar Journal, Vol. 1, No. 2, Summer 1991 (makes
+analogy to baseball and is readable).
+</footnote>
+</para><para id="eip-309">For example, the Federal Circuit reverses claim construction decisions at a rate nearly twice as high as decisions without claim construction issues (32 percent vs. 18 percent).<footnote id="footnote71"> 
+Ted Sichelman, Myths of (Un)Certainty at the
+Federal Circuit, 43 Loy. L.A. L. Rev. 1161 (2010). Available at:  <link url="http://digitalcommons.lmu.edu/llr/vol43/iss3/27" window="new">http://digitalcommons.lmu.edu/llr/vol43/iss3/27</link>.
+</footnote> 
+It is not surprising, then, that most appeals to the Federal Circuit focus at least in part on claim construction as a basis for the appeal.</para><para id="eip-643">Appeals at the Federal Circuit are usually resolved within 18–24 months. Oral argument is usually scheduled within a year, depending on how much time the parties take to file their appeal briefs. Oral argument is requested and granted in almost all patent appeals. The argument occurs in the Federal Circuit courthouse in Washington, D.C., before a panel of three judges, although yearly the Federal Circuit travels to other cities to hear arguments at local law schools, which allows students, local practitioners, and the public to attend more easily. The parties are typically given 15 minutes per side to make their arguments, and after the argument, the court renders a written decision within 3–6 months.
+</para><exercise id="eip-274"><problem id="eip-362">
+  <para id="eip-485">Which of the following explain why patent infringement verdicts are almost always appealed?
+<preformat id="eip-id1170530582725">
+         A. The cost of an appeal is orders of magnitude less than the cost of the trial itself.
+         B. Legal issues such as claim construction are reviewed <foreign>de novo</foreign>-meaning,                         
+             without regard to the previous trial’s rulings.
+         C. The U.S. Court for the Federal Circuit, the appeals court, affirms in full less than 60
+             percent of the patent cases it decides on the merits.
+         D. All of the above
+</preformat>
+  </para></problem>
+
+<solution id="eip-11">
+  <para id="eip-626">
+    D. All of the above
+  </para>
+</solution>
+</exercise></section><section id="eip-97"><title>Section 2.9: Litigation Alternatives</title><list id="eip-959"><title>After completing this section, you will be able to:</title><item>Understand the various alternative methods of dispute resolution.</item>
+<item>Distinguish the pros and cons of arbitration versus mediation.</item>
+</list><para id="eip-592">The high cost, delay, and disruption of litigation motivate many adversaries to seek alternatives to litigation to resolve their disputes. Mediation and arbitration are two popular alternative dispute    resolution (ADR) methodologies. A thriving business exists in the United States providing adversaries the resources to conduct mediations or arbitrations. Retired or former judges or lawyers are available to serve as mediators or arbitrators.
+</para><para id="eip-49">ADR is an increasingly popular way to resolve disputes because it is often faster, less expensive, and private, as compared with the public lawsuit procedures outlined above. The interactions among the parties and the mediators/arbitrators can be kept confidential, as can any settlements reached. Confidentiality is a driving force behind ADR.</para><para id="eip-221"><title>Mediation</title>Mediation is simply an exchange between adversaries overseen (i.e., “mediated”) by an individual with  expertise and/ or training in helping parties reach agreement. Often, the mediator will require the parties to submit their positions and relevant documents in a pre-mediation brief. Usually, each pre-mediation brief is confidential and only seen by the mediator and the party submitting it (i.e., the opposing party does not see the other side’s mediation brief). The mediator will review the materials submitted and then set a date for the parties to meet with the mediator, usually in the mediator’s offices or a neutral location (such as a hotel conference room). Each party commits to bring to the mediation one or more people with the authority to settle, so that the people at the mediation can discuss the dispute and reach an agreement settling it without having to seek approval from others.</para><para id="eip-765">At the mediation, the mediator typically starts by meeting with all the parties together, and reviews the dispute and the issues that require settlement. The mediator will then meet with each party separately, engaging in “shuttle diplomacy,” in an attempt to bring the parties to a common middle ground. Occasionally, when it may appear that the parties’ respective positions leave a gap between them, the mediator may make a “mediator’s proposal” that tries to bridge that gap. If the parties agree, typically a written agreement will be signed before they end the mediation—which may be a list of terms for later fleshing out in a full agreement or an actual final settlement agreement. Because anything left to later discussion can give rise to further disputes, most mediators try to get the parties to a full, signed agreement before they depart the mediation.
+</para><para id="eip-413">Perhaps surprisingly to some, mediation often succeeds, if not the first time, then weeks or months later, after the parties have a chance to think things through. Mediations can be conducted while litigation is pending, or before litigation is filed. In the latter case, often the parties will sign a “standstill agreement” that promises that neither will file a lawsuit against the other on the subject matter of the mediation until they agree the mediation has failed.</para><para id="eip-616">District courts and the Federal Circuit often have mediation programs that attempt to help the parties resolve their disputes voluntarily. Increased attention is given to these programs as the resources of the courts have dwindled and the caseloads increased because each successful mediation is one less case that requires the resources of the court.</para><para id="eip-405"><title>Arbitration</title>The principal difference between mediation and arbitration is decisiveness. Mediations result in settlements only if  all  parties agree to a resolution. In most arbitrations (so-called “binding arbitrations”), the parties agree to be bound by the decision of the arbitrator(s). There is a nonbinding version of arbitration, where the parties ask the arbitrator(s) to render a decision, but do not agree to be bound by it. In practice, these are actually mediations because they result in a settlement only if all parties agree to the result. Such nonbinding  arbitrations are most often used when the parties have attempted to reach a mediated settlement but reach an impasse on one or more critical issues. They may then agree to submit those impasses to  nonbinding  arbitration, where one  or more arbitrators (usually experts on the subject matter of the impasse issues) evaluate the facts, as presented by the parties, and render a decision that the parties can review to understand how an impartial third party looks at the issues. This often helps the parties craft a mediated settlement on their own.
+</para><para id="eip-472">Most arbitrations are binding, and resemble lawsuits and trials more than mediations. The parties may agree to submit their dispute to a single arbitrator (like a retired judge), but most often a panel of three arbitrators is appointed to hear the case. The parties may agree on all three arbitrators, drawn from a list of suitable candidates provided by the American Arbitration Association<footnote id="footnote72"> 
+<link url="http://www.adr.org/aaa" window="new">http://www.adr.org/aaa</link>.
+</footnote>
+or some other entity in the arbitration business, or each party selects one arbitrator and those two arbitrators pick the third.</para><para id="eip-917">The parties agree on the rules that govern the arbitration, which can limit discovery, evidence, witnesses, and trial time, in whatever manner the parties agree. Once the parties agree on the rules, the arbitration is controlled by the arbitration panel, which enforces the rules and renders a binding decision. Usually, arbitration decisions are not appealable (except for gross malfeasance by the arbitrators), but the parties can provide for appeal rights if they choose. But prolonging the resolution of the dispute by allowing an appeal is contrary to the cost and time-savings objectives of most arbitrations.</para><para id="eip-699">Arbitrations have become particularly popular for resolving patent disputes that cross international borders and involve multiple patents issued by different countries. No one court can resolve such disputes, so international arbitration, with arbitrators expert in different countries’ laws can fill the gap.</para><exercise id="eip-398"><problem id="eip-343">
+  <para id="eip-63">
+    As an alternative to litigation, mediation is different from arbitration in what way?
+<preformat id="eip-id1165830789767">
+         A. Mediations result in settlements only if both parties agree.
+         B. In arbitrations, the parties are bound by the decision of the arbitrator. 
+         C. Both of these are accurate.
+</preformat>
+  </para>
+</problem> 
+</exercise></section><section id="eip-692"><title>Section 2.10: Patent Trolls and Efforts to Thwart Them</title><list id="eip-531"><title>After completing this section, you will be able to:</title><item>Appreciate the threat posed by patent trolls to innocent businesses.</item>
+<item>Understand the difference between legitimate patent holders enforcing their rights and extortionist patent trolls who try to game the legal system.</item>
+</list><para id="eip-589">Starting in the 1990s, but increasing in the new millennium, a type of plaintiff with a particular litigation and settlement strategy gained notoriety in the United States—the so- called “patent troll.” By 2012, the majority of patent suits were brought not by businesses making products covered by patents they owned and seeking to halt competitors believed to be infringing their patents, or even by small entities and entrepreneurs pursuing legitimate claims, but instead by what some detractors call “patent trolls” (after the mythical creatures that demanded payment for safe passage over a bridge).<footnote id="footnote73"> 
+In 2012, one article suggests 56 percent of patent
+infringement cases filed in the United States were
+Filedbytrolls: <link url="https://lexmachina.com/2013/04/09/lex-machina-releases-the-aia-500-expanded/" window="new">https://lexmachina.com/2013/04/09/lex-machina-releases-the-aia-500-expanded/</link>. Another put the number at 62 percent: <link url="http://www.lexology.com/library/detail.aspx?g=1e1a0e7bd9a6-4366-818f-a6935ab0fabe&amp;utm_source=Lexology+Daily+Newsfeed&amp;utm_medium=HTML+email+-+Body+-+Federal+section&amp;utm_campaign=Calibar+IP+section+subscriber+daily+feed&amp;utm_content=Lexology+Daily+Newsfeed+2013-04-29&amp;utm_term." window="new">http://www.lexology.com/library/detail.aspx?g=1e1a0e7bd9a6-4366-818f-a6935ab0fabe&amp;utm_source=Lexology+Daily+Newsfeed&amp;utm_medium=HTML+email+-+Body+-+Federal+section&amp;utm_campaign=Calibar+IP+section+subscriber+daily+feed&amp;utm_content=Lexology+Daily+Newsfeed+2013-04-29&amp;utm_term.</link>.
+</footnote> 
+Although some have more recently attempted to discern a difference between what they consider “good” and “bad” trolls by labeling the former “non-practicing entities” (NPEs) or “patent monetization entities” (PMEs), for the purposes of this section, we will refer to such entities as trolls.
+</para><para id="eip-588">As plaintiffs, trolls seek to take advantage of the fact that U.S. patent litigation costs have become so high that many defendants are willing to pay to make such cases go away. Trolls file lawsuits not to protect a business from an infringing competitor, but to derive settlement revenue from defendants willing to settle for less than litigation costs. Trolls often acquire patents of ambiguous scope and questionable value, file suit against multiple defendants, and rely on the presumption of validity accorded all issued patents to extract settlements for less than it would cost any one defendant to defend against the infringement claim. Because trolls have few documents other than the patents and their file histories, and even fewer employees, they are not subject to the outsized expense of discovery that a commercial business with warehouses of documents and scores of employees faces in patent litigation. Because discovery costs for such defendants are so much greater than for troll plaintiffs, defendants feel pressure to settle for less than the cost of litigation, lining the pockets of trolls. Such activities in the aggregate have proven very profitable for trolls, and expensive for defendants.</para><para id="eip-365">Spurred by target companies, the America Invents Act legislation in 2011 (see infra, Section X.3.3) included a change in rules governing the joinder of parties, stating:
+<preformat id="eip-id8889739">
+       “...accused infringers may not be joined in one action as defendants or counterclaim 
+        defendants, or have their actions consolidated for trial, based solely on allegations that 
+        they each have infringed the patent or patents in suit.”
+</preformat></para><para id="eip-759">This eliminated a tool of trolls—namely, filing a single case against scores or even hundreds of alleged infringers.<footnote id="footnote74"> 
+See, <link url="http://www.americanbar.org/publications/landslide/2012_13/march_april/joinder_over_year_after_america_invents_act.html" window="new">http://www.americanbar.org/publications/landslide/2012_13/march_april/joinder_over_year_after_america_invents_act.html</link>.
+</footnote>
+However, trolls simply adapted by filing multiple lawsuits and seeking consolidation for discovery, which increases their costs somewhat but avoids the purpose of the change.</para><para id="eip-486">More recently, politicians have scrambled to propose a myriad of different legislative fixes, from shifting the cost of unsuccessful litigation to plaintiffs, to staying litigation against customers of another’s product until a suit against the manufacturer is concluded.<footnote id="footnote75"> 
+“See <link url="http://www.ipo.org/wp-content/uploads/2013/06/Pa tent-Litigation-Bills-Summary-Comparison-Chart-EXPANDED.pdf" window="new">http://www.ipo.org/wp-content/uploads/2013/06/Pa tent-Litigation-Bills-Summary-Comparison-Chart-EXPANDED.pdf</link>, <link url="http://patentlyo.com/patent/2013/03/guesteDitorial-throwing-trolls-off-the-bridge.html" window="new">http://patentlyo.com/patent/2013/03/guesteDitorial-throwing-trolls-off-the-bridge.html</link>, <link url="http://www.ipwatchdog.com/2013/08/13/congress-sirens-song-patent-litigation/id=44573/" window="new">http://www.ipwatchdog.com/2013/08/13/congress-sirens-song-patent-litigation/id=44573/</link>, <link url="https://truthonthemarket.com/2013/03/15/the-shield-act-when-bad-studiesmake-bad-laws/" window="new">https://truthonthemarket.com/2013/03/15/the-shield-act-when-bad-studiesmake-bad-laws/</link>.” 
+</footnote> 
+Even President Obama has become involved, asserting his administration’s own views for a solution.<footnote id="footnote76"> 
+<link url="http://www.nytimes.com/2013/06/05/business/president-moves-to-curb-patent-suits.html?_r=0" window="new">http://www.nytimes.com/2013/06/05/business/president-moves-to-curb-patent-suits.html?_r=0</link>.
+</footnote></para><para id="eip-606">Not everyone thinks legislation is appropriate, or even necessary. A panel at Yale Law School in April 2013 yielded decidedly mixed views. <footnote id="footnote77"> 
+<link url="http://www.patentlyo.com/patent/2013/05/patent-troll-panel-at-yale-law-school.html" window="new">http://www.patentlyo.com/patent/2013/05/patent-troll-panel-at-yale-law-school.html</link>.
+</footnote>
+And then Chief Judge Rader of the Federal Circuit Court of Appeals coauthored an op-ed piece in the <foreign>New York Times</foreign>, recommending that judges should use 35 U.S.C. §285 to foil patent trolls by imposing costs and sanctions at the judicial level.<footnote id="footnote78"> 
+<link url="http://www.nytimes.com/2013/06/05/opinion/make-patent-trolls-pay-in-court.html" window="new">http://www.nytimes.com/2013/06/05/opinion/make-patent-trolls-pay-in-court.html</link>.
+</footnote> 
+But again, not everyone thinks that is realistic.<footnote id="footnote79"> 
+<link url="http://www.techdirt.com/articles/20130605/09065423327/chief-patent-judge-speaks-outagainst-patent-trolls.shtml" window="new">http://www.techdirt.com/articles/20130605/09065423327/chief-patent-judge-speaks-outagainst-patent-trolls.shtml</link>.
+</footnote>
+The Supreme Court embraced Judge Rader’s recommendation in its 2014 decisions in <foreign>Octane Fitness</foreign> and <foreign>Highmark</foreign>, significantly broadening the district court’s discretion in finding a case exceptional and awarding attorneys’ fees. (See <foreign>supra</foreign>, Section 2.7, “Exceptional Case.”) But even with such expanded discretion and power, trial judges cannot rule on the merits of a case without some basis for it, and that requires money spent by defendants. Thus, it is not easy for a district court judge to stop what trolls rely upon, namely the use of litigation expense and leverage to extract settlements. Getting to the merits of the claims takes time and significant expense—often more than the cost to settle, with no assurance as to outcome.</para><para id="eip-122">As of early 2015, the problem of trolls remains a subject of widespread discussion and debate. Legislation that was proposed in 2014 to address the problem is stalled, and although new legislation is still being discussed, many experts believe that the state and federal actions already taken to rein in abusive patent litigation—including important U.S. Supreme Court decisions in 2015 regarding software patentability and fee-shifting in exceptional cases—make it less likely that new legislation will be introduced any time soon.</para><para id="eip-746">District courts, for example, have already begun applying  the  standards   recently   announced by the Supreme Court in <foreign>Octane Fitness</foreign> and <foreign>Highmark</foreign>, and may be more willing to make abusive patent litigants pay attorneys’ fees. Time will tell if the new fee-award judicial regime will lessen the pressure to implement legislation against abusive litigants. The Eastern District of Texas, one of the most popular venues for patent litigation in the United States, has added a new Track B docket, which specifically addresses a number  of  proposals  considered  by  Congress, including early disclosure of certain information, such as licensing information, as well as very early disclosure of both the damages sought and the method of calculating those damage.<footnote id="footnote80"> 
+<link url="http://mcsmith.blogs.com/eastern_district_of_texas/2014/02/eastern-district-of-texas-resumescase-tracking-with-track-b-for-patent-cases.html" window="new">http://mcsmith.blogs.com/eastern_district_of_texas/2014/02/eastern-district-of-texas-resumescase-tracking-with-track-b-for-patent-cases.html</link>.
+</footnote></para><para id="eip-165">Meanwhile, a growing number of state legislatures and state attorneys general have also begun using consumer protection laws to clamp down on patent trolls.<footnote id="footnote81"> 
+<link url="http://www.conversantip.com/blog/states-stepup-fight-against-patent-trolls/" window="new">http://www.conversantip.com/blog/states-stepup-fight-against-patent-trolls/</link>.
+</footnote> 
+And the White House in 2014 issued a series of Executive Orders intended to further curb patent litigation abuse and strengthen the patent system.<footnote id="footnote82"> 
+<link url="http://www.conversantip.com/blog/usadministration-takes-smart-steps-to-strengthenthe-patent-system/" window="new">http://www.conversantip.com/blog/usadministration-takes-smart-steps-to-strengthenthe-patent-system/</link>.
+</footnote></para><para id="eip-928">Finally, a movement is taking  hold  within the patent licensing industry itself to develop a voluntary code of conduct  or standards of ethical behavior. Companies like Conversant and Dominion Harbor Group have committed themselves publicly to a set of ethical guidelines for patent licensing, and other companies are also considering doing so.<footnote id="footnote83"> 
+<link url="http://www.conversantip.com/news-article/iam-guidelines-for-ethical-patent-licensingprovide-basis-for-new-approach-to-thetroll-debate/" window="new">http://www.conversantip.com/news-article/iam-guidelines-for-ethical-patent-licensingprovide-basis-for-new-approach-to-thetroll-debate/</link> and <link url="http://finance.yahoo.com/news/finjan-holdings-commits-licensingbest-130000509.html" window="new">http://finance.yahoo.com/news/finjan-holdings-commits-licensingbest-130000509.html</link>
+</footnote>
+The Licensing Executives Society of the U.S. and Canada (LES), the industry’s principal professional organization, is also developing a set of “best practice” guidelines for ethical patent licensing activity.</para><para id="eip-92">The importance of patents to America’s economic prosperity and competitiveness ensures that competing interests will continue to strive for an advantage commercially, legislatively, and judicially. Change will continue after the publication of this chapter. The status quo does not last long in our field.</para><exercise id="eip-129"><problem id="eip-126">
+  <para id="eip-505">
+    Which of the following is the definition of a “patent troll”?
+<preformat id="eip-id1103382">
+         A. A patent owner who licenses his patents rather than makes or sells products.
+         B. A patent owner whose main source of revenue is patent litigation.
+         C. A patent owner whose main source of revenue is “nuisance settlements” for less than the
+            cost of litigation.
+</preformat>
+  </para>
+</problem> 
+</exercise></section></section></content>
+
+</document>

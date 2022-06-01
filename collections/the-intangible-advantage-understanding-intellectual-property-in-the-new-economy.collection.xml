@@ -1,0 +1,20 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12008</md:content-id>
+    <md:title>The Intangible Advantage: Understanding Intellectual Property in the New Economy</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>56a70b24-bb84-4bc5-bb7c-81775d3840c0</md:uuid>
+<md:slug>the-intangible-advantage-understanding-intellectual-property-in-the-new-economy</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m61655"/>
+    <col:module document="m61664"/>
+    <col:module document="m61661"/>
+    <col:module document="m61658"/>
+    <col:module document="m61667"/>
+    <col:module document="m61672"/>
+    <col:module document="m61673"/>
+    <col:module document="m61678"/>
+  </col:content>
+</col:collection>

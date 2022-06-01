@@ -1,0 +1,849 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Chapter 1: Patent Basics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61664</md:content-id>
+  <md:title>Chapter 1: Patent Basics</md:title>
+  <md:abstract/>
+  <md:uuid>a325ca97-7378-44d4-aa28-1048f0e54dab</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-870"><title>Section 1.1: The Foundations of Patent Protection</title><list id="eip-576"><title>After completing this section, you will be able to:</title><item>Describe the philosophical logic behind granting patents.</item>
+<item>Describe the role of patents in fostering invention.</item>
+</list><para id="eip-225"><title>Do Patents Really Promote Innovation?</title>Before reading this section, please watch this overview video covering the usefulness of patents - how ironic that a system for granting exclusive rights to inventors is the greatest vehicle for knowledge-sharing and technology transfer ever devised by human beings.</para><para id="eip-589"><title>What Is a Patent?</title>A <emphasis>patent</emphasis> is an <emphasis>intellectual property</emphasis> right granted by the government of a nation to an inventor that gives him or her the exclusive right to the invention for up to 20 years, in exchange for disclosing the details of the new technology to society for its ultimate benefit.</para><para id="eip-460">In the United States, a patent is a legal instrument in the form of a document issued by the United States Patent and Trademark Office (USPTO). It gives the inventor of any new, useful, and non-obvious machine, process, manufacture, or composition of matter the right “to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States” for a limited time in exchange for public disclosure of the invention.<footnote id="footnote1">
+United States Patent and Trademark Office. (2012, January 26). Patents. Retrieved from www.uspto.gov/patents/index.jsp
+</footnote> 
+A U.S. patent is only recognized domestically, and cannot be enforced in another country.</para><para id="eip-454"><title>History of Patents in the United States</title>The legal foundation for U.S. intellectual property rights was laid by the Founders in 1787, in the very first Article of the U.S. Constitution, which outlined the precepts of our democratic society. In Article 1, Section 8, Clause 8 of the Constitution, Congress was given the authority to “promote the progress of Science and useful Arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries”.<footnote id="footnote2">
+U.S. Constitution Arr. 1, § 8
+</footnote>
+</para><para id="eip-638">America was the first country in the world to enshrine intellectual property rights in its national constitution. And the Founders did this quite deliberately, says B. Zorina Khan, an economic historian at Bowdoin College whose book, <foreign>The Democratization of Invention: Patents and Copyrights in American Economic Development</foreign>, was awarded the Alice Hanson Jones Prize for an outstanding work in economic history.<footnote id="footnote3">
+B. Zorina Khan, <foreign>The Democratization of Invention: Patents and Copyrights in American Economic  Development,</foreign> 1790-1920, Cambridge University Press, 2005.
+</footnote> 
+“To the men who gathered in Philadelphia to ‘promote the general welfare,’” Khan wrote, “it was self-evident that ideas, industrial and cultural inventions, and democratic values were integrally related. American democratic institutions would ensure that rewards accrued to the deserving based on [merit] rather than on the arbitrary basis of class, patronage, or privilege.”</para><para id="eip-678">Indeed, the Founders viewed intellectual property rights as vital to the new nation’s economic survival. As George Washington himself stated in his first annual address to Congress in 1790, “The advancement of agriculture, commerce, and manufactures by all proper means will not, I trust, need recommendation. But I cannot forbear intimating to you the expediency of giving effectual encouragement to the introduction of new and useful inventions.”</para><para id="eip-470">The question is, with all the challenges they faced, why did the Founders think it so crucial to create a strong intellectual property system? Their reasons were both universal—i.e., applying to all societies—and also very particular to America’s revolutionary experience.</para><para id="eip-716"><title>“Bargain” Theory vs. “Natural Rights” Theory</title>Every society that affirms intellectual property rights offers two justifications for doing so: the  <emphasis>“bargain” or contract theory</emphasis> and the <emphasis>“natural rights” theory</emphasis>.</para><para id="eip-50"><title>“Bargain” Theory</title>The “bargain” theory starts with the commonsense premise that people will be encouraged to invent new products and services that benefit society if they are likely to profit by doing so. The U.S. Constitution thus offers inventors a bargain: If you invent something useful—e.g., a cotton gin in 1794 that boosted agricultural production a hundredfold, or a semiconductor 163 years later that sparked the creation of a trillion-dollar new industry and millions of jobs—then the Constitution and statutes say that, as a quid pro quo, you can have the exclusive right to that invention for a “limited time,” after which it goes into the public domain and belongs to society.</para><para id="eip-926">There is something so simple yet economically potent about this concept. As Abraham Lincoln—America’s only presidential patentee (<link document="m10275" version="2.1">No. 6469</link><link url="http://www.google.com/patents/US6469" window="new"/> for a device to lift boats over shoals)—noted, the beauty of the patent system is that it “added the fuel of interest to the fire of genius.”</para><para id="eip-168"><title>“Natural Rights” Theory</title>The “natural rights” theory, meanwhile, invokes another commonsense premise that most of us instinctively hold to be true: that the product of mental labor is by all rights the property of its creator, no less than the product of physical labor is the property of its creator (or of the person who purchases it from that creator). This is what Daniel Webster was referring to when he said, “The American Constitution does not attempt to give an inventor a right to his invention, or an author a right to his composition; it recognizes an original, pre-existing, inherent right of property in such invention or composition.”</para><para id="eip-242">This right is not absolute, of course, and inventors’ inherent rights may at times be circumscribed by national security or other concerns. But in exchange for disclosing to the public the nature and details of the invention, the Constitution authorizes the government to enforce the inventor’s exclusive property right to that invention for a limited time.</para><para id="eip-668">Two important public policy goals are thus served. The inherent property rights of inventors and authors to their creations are protected, thereby helping to ensure that the wellsprings of creation and productivity do not dry up for lack of incentive. And yet the benefits derived from these inventions and creations are ultimately harnessed to the public good through disclosure, thus promoting the progress of the nation and “the general welfare” of its citizens.</para><para id="eip-863"><title>How Patents Foster Innovation</title>To help understand why patent rights not only encourage inventors but also promote the wider diffusion of new technology for the benefit of society, economic historians Naomi Lamoreaux and the late Kenneth Sokoloff suggested the following thought experiment:
+<preformat id="eip-id1171136652696">
+       “   Imagine a world in which there was no patent system to 
+        guarantee inventors property rights to their discoveries. 
+        In such a world, inventors would have every incentive to 
+        be secretive and to guard jealously their discoveries from 
+        competitors [because those discoveries] could, of course, 
+        be copied with impunity.
+
+          “By contrast, in a world where property rights in 
+        invention were protected, the situation would be very 
+        different. Inventors would now feel free to promote their 
+        discoveries as widely as possible so as to maximize returns 
+        either from commercializing their ideas themselves or from 
+        [licensing] rights to the idea to others. The protections 
+        offered by the patent system would thus be an important 
+        stimulus to the exchange of technological information in 
+        and of themselves. Moreover, it is likely that the cross
+        -fertilization that resulted from these information flows 
+        would be a potent stimulus to technological change”.<footnote id="footnote4">
+Naomi R. Lamoreaux and Kenneth L. Sokoloff, <foreign>“Inventors, Firms, and the Market for Technology: U.S. Manufacturing in the Late Nineteenth and Early Twentieth Centuries,”</foreign> Historical Paper 98, National Bureau of Economic Research, Cambridge, Mass., 1997.
+</footnote>
+</preformat></para><para id="eip-965">It’s more than just “likely.” Extensive research in the United States and other nations shows that patents have served as a powerful stimulant to technological knowledge sharing. A 2006 survey published by the French economists Francois Leveque and Yann Meniere, for example, found that 88 percent of U.S., European, and Japanese businesses rely upon the information disclosed in patents to keep up with technology advances and direct their own R&amp;D efforts.<footnote id="footnote5">
+Francois Leveque and Yann Meniere, “Patents and Innovation: Friends or Foes?” CERNA (Centre d’economie industrielle Ecole Nationale Superieure des Mines de Paris), December, 2006.
+</footnote></para><para id="eip-190"><title>Patents Don’t Block Innovation, They Promote It</title>From the earliest days of the United States, patent and legal records show how inventors (including Thomas Edison) regularly kept abreast of developments in their fields. They did this by studying patent descriptions published by both the USPTO as well as by industry publications such as Scientific American, which was founded in 1845 by Munn and Company, the leading patent agency of the nineteenth century, expressly to spread new technological knowledge and facilitate the buying and selling of patents. For example, Elias E. Reis— inventor of a number of devices to exploit the heat generated by electrical currents—reported that when he read in the Official Gazette in 1886 about a patent issued to Elihu Thomson for a new method of electric welding, “there immediately opened up to my mind a field of new applications to which I saw I could apply my system of producing heat in large quantities.”<footnote id="footnote6">
+See “Record of Elias E. Reis,” 8, Thomson v. Reis, case 13,971, box 1,845, Interference Case Files, 1836-1905, Records of the Patent Office, Record Group 241, National Archives, courtesy of B. Zorina Khan.
+</footnote> 
+In many industries, specialized journals kept readers informed about new patents of interest.
+</para><para id="eip-449">In fact, new research in 2012 discovered that rather than blocking development, Thomas Edison’s seminal 1880 incandescent lamp patent (<link document="m10275" version="2.1">No. 223,898</link><link url="https://www.google.com/patents/US223898?dq=No.%2B223%2C898&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiN84aD2tzKAhUJKiYKHVckCRwQ6AEIHTAA" window="new"/>) actually “stimulated downstream development work” that resulted in “new technologies of commercial significance [including] the Tesla coil, hermetically sealed connectors, chemical vapor deposition process, tungsten lamp filaments and phosphorescent lighting that led to today’s fluorescent lamps.”<footnote id="footnote7">
+Ron D. Katznelson, “Inventing Around Edison’s Incandescent Lamp Patent: Evidence of Patents’ Role in Stimulating Downstream Development,” May, 2012, derived from: http://works.bepress.com/cgi/viewcontent.cgi?article=1073&amp;context=rkatznelson 		
+</footnote></para><para id="eip-674">Even the word “patent” signifies its social purpose of disclosure. It is derived from the Latin patent meaning “open,” and is the present participle of “pate¯re,” meaning “to stand wide open.”</para><para id="eip-814">This explains the origin of the term “letters patent” (“letters that lie open”), which refer to the patent documents issued by the English Crown. These were not closed with a seal but were instead kept open, with the seal hanging at the bottom, notifying all not to infringe upon the patent.</para><para id="eip-3">As with any economic and legal instrument, patents have the potential to slow innovation if their grant of exclusive rights is too broad. But the overwhelming preponderance of economic research and real-world experience demonstrate that, on balance, intellectual property rights tend to stimulate invention, economic growth, and the diffusion of new technological knowledge in every country where they exist.</para><para id="eip-366">This fact by itself, however, does not explain why the U.S. patent system became a model for much of the world. To understand why it did—and how it helped build the most successful economy in the history of the world—we must examine the revolutionary design of the U.S. patent system itself and the ways in which it overcame the weaknesses of earlier patent systems.</para><exercise id="eip-297"><problem id="eip-372">
+  <para id="eip-461">A patent gives an inventor the exclusive right to which of the following?
+<preformat id="eip-id1165587544195">
+         A. The ability to profit from his or her invention
+         B. The ability to prevent others from making, using, offering for sale, or selling the 
+             invention
+         C. The ability to prevent others from learning the secrets of the invention
+</preformat>
+  </para></problem>
+
+<solution id="eip-147">
+  <para id="eip-971">B. The ability to prevent others from making, using, offering for sale, or selling the invention
+  </para></solution>
+</exercise><exercise id="eip-664"><problem id="eip-218">
+  <para id="eip-504">
+    The “bargain” theory, a theoretical justification for patents, argues
+which of the following?
+<preformat id="eip-id1166306268122">
+         A. In exchange for inventing something useful, society gives the inventor the exclusive right
+             to his invention for a limited time.
+         B. The product of mental labor should be the property of its creator.
+         C. Government negotiates with inventors to determine the value of an invention.
+         D. None of the above
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-283">
+  <para id="eip-977">B. The product of mental labor should be the property of its creator.
+  </para></solution>
+</exercise><exercise id="eip-577"><problem id="eip-738">
+  <para id="eip-81">
+    Which of the following public policy goals are served by granting patent rights?
+<preformat id="eip-id1220469">
+         A. By protecting the property rights of inventors, the wellsprings of creation do not dry up 
+             for lack of incentive.
+         B. Patent rights ensure equal treatment for all.
+         C. From each according to his ability, to each according to his need.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-520">
+  <para id="eip-552">A. By protecting the property rights of inventors, the wellsprings of creation do not dry up for lack of incentive.
+  </para></solution>
+</exercise><exercise id="eip-634"><problem id="eip-79">
+  <para id="eip-735">
+    Through which of the following means do patents also promote knowledge sharing?
+<preformat id="eip-id1170510780346">
+         A. To get a patent, inventors must disclose the secrets of their inventions. 
+         B. Patents represent the world’s greatest library of technical knowledge.
+         C. Innovators keep up with technical trends by reading other inventors’ patents.
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-34">
+  <para id="eip-430">D. All of the above
+  </para></solution>
+</exercise></section><section id="eip-846"><title>Section 1.2: The Weakness of Early Patent Systems</title><list id="eip-240"><title>After completing this section, you will be able to:</title><item>Outline the history of patents from antiquity through the 1700s.</item>
+<item>Identify flaws in early European patent systems.</item>
+ </list><para id="eip-523"><title>History of Patents: 500 BC to the 1700s</title>Given the commonsense logic of granting patents to stimulate invention, it comes as no surprise that patent- like incentives date all the way back to antiquity. In the ancient Greek city of Sybaris (located in what is now southern Italy) in 500 BC, “encouragement was held out to all who should discover any new refinement in luxury, the profits arising from which were secured to the inventor by patent for the space of a year.”<footnote id="footnote8">
+Charles Anthon, <foreign>“A Classical Dictionary,”</foreign> Harper &amp; Bros, 1841. 
+</footnote>
+</para><para id="eip-935">The first formal patent legal institutions were developed in the Republic of Venice in the mid-1400s. The Venetian Statute of 1474 decreed that the inventors of new and useful devices would be protected from infringers and copiers for ten years so long as they disclosed the details of their inventions. Most Venetian patents were granted in the field of glass making, and when a large number of these glass makers emigrated to other countries in Europe, they sought similar protections from the local authorities. This is how the notion of patent rights, and their expression in patent legal systems, began to spread and gain acceptance throughout Europe.</para><para id="eip-171">Initially, however, English and French monarchs used patents not simply to stimulate invention, but also to grant exclusive trade monopolies to those favored by the court. In the reign of Elizabeth I in the latter 1500s, some 50 patent monopolies were granted over the trade in such staples as salt, soap, starch, iron, and paper. Critics said these “enriched the monopolist and robbed the community” while doing absolutely nothing to stimulate new technology or industry.</para><para id="eip-802">A growing public outcry ultimately forced Elizabeth’s successor James I to revoke these grants of trade monopolies in 1610. In 1624, the Statute of Monopolies formally repealed the practice and henceforth restricted patent rights solely to new inventions.</para><para id="eip-539">European countries made several other important innovations in their early patent systems. In the mid-1500s, France became the first to publish patent descriptions from inventors who chose to submit them. England under the reign of Queen Anne (1702–1714) was the first to require inventors to submit a written description of their patent to “describe and ascertain the nature of the invention and the manner in which it is to be performed.” And in 1729, France began to publish abbreviated digests of patent descriptions, but these were intermittent and subject to delays of up to 60 years after the patents were originally granted. As might be expected, this lack of regularity limited the technological knowledge sharing that is one of the great benefits of a patent system.</para><para id="eip-271"><title>Flaws of Early Patent Systems</title>Old World patent systems suffered from other major weaknesses as well. Patents for inventions imported from other countries were regularly granted, increasing the incentive for would-be patentees to copy the creative work of others rather than invent for themselves. And there was generally no systematic examination of patents by technical experts, in part because this was viewed as an intrusion upon the prerogatives of the Crown.</para><para id="eip-981">But the biggest problem with early patent systems was that they all shared a tendency to reinforce the wealth and prerogatives of elites, not the welfare and productive capacity of the whole of society. In Britain, patents were favors granted “by grace of
+the Crown” and were often only secured through court connections. They were also “subject to any restrictions the government cared to impose, including the expropriation of the patent without compensation.”<footnote id="footnote9">			
+Op. cit., Khan. 
+</footnote>
+</para><para id="eip-679">What’s more, patent application fees were prohibitively high—more than 11 times the per capita annual income of the average British citizen—which put the system out of reach of all but the wealthy. Yet ironically, in the parliamentary debates over the patent system, the exclusion of the “working classes” was regarded as one of the chief virtues of the British patent system.</para><para id="eip-38">British patent law also severely limited the ability of inventors to sell or license the rights to their discoveries, as noted in a contemporary 1832 book entitled <foreign>A Practical Treatise on the Law of Patents for Inventions.</foreign><footnote id="footnote10">					
+Google Books, found at bit.ly/QmPhaZ 
+</footnote> 
+This restriction, along with “working requirements”—these were regulations that forced patentees to manufacture products based on their patents within two or three years of issuance or lose their patent rights—limited innovation activity mainly to those who had the factories (or the ready capital to build them) needed to produce such products.</para><para id="eip-507">These rules had two significant effects upon the British economy. They restricted innovation to only a small sector of the population rather than unleashing the creativity and productivity of the whole people. And they created a bias toward inventions that enhanced the market dominance of incumbent, capital-intensive industries rather than opening up new markets for the sorts of disruptive new industries that usually drive economic progress.
+</para><para id="eip-761">“European societies were organized in ways that concentrated power in the hands of elites and facilitated [parasitic] rent-seeking by favored producers,” notes historian B. Zorina Khan. “The organization of invention was no exception. A society that restricts [invention] to elites can generate exceptional gains early on, but the initial spurt is unlikely to be maintained.”
+</para><para id="eip-486">Indeed, the result in Britain was unbalanced and narrowly focused economic growth.
+Inventors faced high transaction and monetary costs, a limited market for their inventions, and a great deal of uncertainty. Diffusion of new technological knowledge was severely inhibited, and the rate of technological change was adversely affected as a result. Eventually, Britain’s initial leadership of the Industrial Revolution had more to do with its large existing commercial holdings and manufacturing base, and its vast stores of amassed capital, than with systemic or broad-based encouragement of innovation within British society.</para><para id="eip-822"><title>The Changing Tide</title>The elitist nature of early patent systems reflected the feudal economic relations that dominated that era. But by the late eighteenth century, capitalist economies were beginning to emerge across Europe, and in Britain, nationwide lobbies of manufacturers and patentees called for an overhaul of the patent system to bring it in line with this new economy. The needed reinvention would come not from Britain, however, nor even from France, which had its own democratic revolution soon after America’s. Instead, it took place in the newly liberated United States, where a vibrant capitalism unburdened by centuries of entrenched feudalism was developing.</para><para id="eip-932">This, then, is the story of one of the most admired of all American inventions—the modern democratized patent system, now used widely throughout the world.</para><exercise id="eip-781"><problem id="eip-765">
+  <para id="eip-379">
+   The Statute of Monopolies in 1624 ended the practice of granting patents for which of the following?
+<preformat id="eip-id1171106777254">
+         A. Inventions that were not truly novel
+         B. The Crown’s favored inventors
+         C. Trade in staples such as salt or soap rather than for actual inventions
+         D. Inventions that helped industrialists monopolize whole industries
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-4">
+  <para id="eip-963">C. Trade in staples such as salt or soap rather than for actual inventions
+  </para></solution>
+</exercise><exercise id="eip-858"><problem id="eip-652">
+  <para id="eip-288">
+    Which of the following practices were common in early patent systems?  
+<preformat id="eip-id1165810377897">
+         A. Exorbitantly high patent fees
+         B. Limited or no disclosure of the details of the invention
+         C. No examination for patent validity
+         D. All of the above
+</preformat> 
+</para>
+</problem>
+
+<solution id="eip-810">
+  <para id="eip-424">D. All of the above
+  </para></solution>
+</exercise><exercise id="eip-49"><problem id="eip-205">
+  <para id="eip-869">
+    Early patent systems tended to have which of the following effects on the overall economy? 
+<preformat id="eip-id1169852104738">
+         A. Innovation was limited to a small sector of the population.
+         B. Biased toward incumbent industries, early patent systems did not encourage disruptive
+             change.
+         C. Early patent systems reinforced the wealth of elites, not the productive capacity of
+             society.
+         D. All of the above
+</preformat> 
+</para>
+</problem>
+
+<solution id="eip-326">
+  <para id="eip-742">D. All of the above
+  </para></solution>
+</exercise></section><section id="eip-429"><title>Section 1.3: America’s Uniquely Democratic Patent System</title><list id="eip-335"><title>After completing this section, you will be able to:</title><item>Explain the role of the Founding Fathers in developing the U.S. patent system.
+</item>
+<item>Explain the six unique features of the U.S. patent system.
+Never mind that intellectual capital accounts </item>
+ </list><para id="eip-585"><title>A Patent System For Everyone</title>Before reading this section, please watch this overview video covering why America developed the world’s first patent system for the common man, and what we got out of it as a result (hint: the strongest economy on the face of the earth).</para><para id="eip-396">Never mind that intellectual capital accounts for 55 percent of total U.S. GDP today.<footnote id="footnote11">
+Kevin A. Hassett and Robert J. Shapiro, <foreign>“What Ideas Are Worth: The Value of Intellectual Capital and Intangible Assets in the American Economy,”</foreign> Sonecon, 2012.
+</footnote> 
+Or that it represents up to 80 percent of the market value of all public companies in the U.S.<footnote id="footnote12">
+“Intangible Asset Market Value,” Ocean Tomo, derived from http://bit.ly/bAPJVH
+</footnote>
+To most citizens today, patents and other intellectual property are inscrutable mysteries. But to America’s Founding Fathers, they were matters of the highest national importance.
+</para><para id="eip-989"><title>The Challenge Facing the Founding Fathers</title>The men who led the revolution and were later tasked with writing a Constitution were not concerned simply with creating lasting political structures that could defend the hard-won freedom and sovereignty of the newly liberated colonies. They also struggled to stimulate the rapid growth of industry to ensure the new nation’s economic survival.</para><para id="eip-516">The survival of the United States of America was far from certain in those days. It was a backward agrarian economy, dependent on imports and lacking major domestic industry, with a population of barely three million inhabitants. Britain, meanwhile, with whom the United States had just fought a war and would soon fight another, had three times the U.S. population, boasted the most powerful economy on Earth, and was the unrivaled leader of the emerging Industrial Revolution.</para><para id="eip-920">It was, therefore, a critical task of the leaders of the new American nation to design institutions— including a patent system—that would encourage economic activity and investments to spur the growth of America’s primitive economy.</para><para id="eip-439">It’s important to note that although the Founders deeply believed in democratic ideals of government, they were not wild-eyed idealists. They were very practical men who faced an overwhelming challenge: How do you build a national economy from scratch, one that can prosper without British imports? To do that, they needed to mobilize every asset they had.</para><para id="eip-404">Unlike Britain, however, America had no significant capital or commercial assets. In fact, the American standard of living at that time was actually lower than in many of their South American neighbors.<footnote id="footnote13">
+Stanley Engerman and Kenneth Sokoloff,<foreign>“Factor Endowments, Institutions, and Differential Paths of Growth Among New World Economies,”</foreign> in Stephen Haber (ed), How Latin America Fell Behind, Stanford University Press, Palo Alto, California, 1997.
+</footnote>
+All America had was abundant, but still untapped, natural resources, and a population widely regarded in the world as uniquely enterprising and independent minded.</para><para id="eip-723">Ours was the world’s fastest-growing population, doubling in size every 20 years. Americans were also widely literate (albeit mostly lacking in higher education) and informed by what Washington Irving called “the general diffusion of knowledge.”</para><para id="eip-210">Most important, unlike the tenant farmers and laborers who made up the bulk of England’s rigid class society, the vast majority of Americans were free-holding small farmers, merchants, shopkeepers, artisans, and mechanics—the forerunners of what we today call the middle class—who were possessed with what publisher Hezekiah Niles called “a universal ambition to go forward.”
+</para><para id="eip-327">This was America’s principal asset, their ace in the hole. And men such as George Washington, Thomas Jefferson, and James Madison knew they had to find a way to unleash the creative and productive potential of these independent citizens if the country was to industrialize and survive.
+</para><para id="eip-346"><title>Incentives Needed to Spur Economic Growth</title>As Jefferson wrote to his daughter Martha in 1787, it was precisely because America was bereft of Europe’s vast resources and left to its own devices that “we are obliged to invent and execute; to find means within ourselves, and not to lean on others.”
+</para><para id="eip-624">But how to do that? From the historical record, it appears that the Founders quite consciously sought to construct a patent system that would do what no other patent system in the world had ever done before—namely, stimulate the inventive genius and entrepreneurial energy of the common man.
+</para><para id="eip-355">As noted earlier, the first thing they did was to affirm inventors’ and authors’ rights in the U.S.Constitution itself. Although the <emphasis>intellectual property clause</emphasis> was ultimately adopted by unanimous consent of the delegates on September 5, 1787, there had been some debate about the issue. Thomas Jefferson in particular had expressed reservations about the wisdom of granting “temporary monopolies” (i.e., patent rights), given that Americans had just waged a bloody war of independence to overthrow the British monopoly of trade and political power. But as other delegates noted, and Jefferson eventually came to realize, a monopoly of trade is a far cry from the temporary incentives granted to inventors in return for the benefits they provide society.
+</para><para id="eip-574">“How can the exclusive right of an invention be compared with a monopoly in trade?” D.P. Holloway, a Commissioner of Patents, would later argue in his 1863 annual report to Congress. “How can the exclusive privilege to sell salt in Elizabeth’s time, which added not one bushel to the production, but which enriched the monopolist and robbed the community, and the exclusive right of Whitney to his cotton gin, which has added hundreds of millions [of dollars] to the products and exports of the country, be both branded, with equal justice, with the odious name of monopoly?”<footnote id="footnote14">					
+Courtesy of Google Books, derived from: http:// bit.ly/Meh0Pv 
+</footnote>
+</para><para id="eip-28">In the words of Louis Wolowski, Chair of Industrial Economics at the Conservatoire des Arts et Métiers: “[Inventors’] rights under patents, are called ‘monopolies’ only from the poverty of language, which has failed to express in words a distinction which no less clearly exists.”</para><para id="eip-358">The Founders understood this distinction clearly. “Rather than monopolists,” says historian Khan, “patentees were viewed as beneficent contributors to progress, and the consistent goal of those who shaped the system was to encourage domestic ingenuity, whatever the social class of the inventor.”<footnote id="footnote15">					
+Opt. cit., Khan.
+</footnote></para><para id="eip-914">Or as James Madison put it in Federalist Paper 43, “The public good fully coincides with the [patent rights] of individuals.”</para><para id="eip-693"><title>Creating a New Type of Patent System</title>The real genius of the Founders, however, lay in the way they consciously integrated democratic principles into the design of the world’s first modern patent system—principles that had a profound impact on the pace and direction of U.S. economic growth. These were reflected in six fundamental innovations in our patent system that departed from European practice.
+</para><para id="eip-324"><title>Low Fees: Making Patents Affordable</title>The original patent law passed by Congress on April 10, 1790, deliberately set patent fees to a level any ordinary citizen could afford—initially $3.70, but three years later raised to $30. This was still less than 5 percent of the rate in Britain. Patent fees remained $30 for the next 70 years, ensuring that virtually any citizen could participate in the Industrial Revolution.</para><para id="eip-187">The results were dramatic. Whereas most of Britain’s handful of inventors came from privilege, the vast majority of America’s thousands of inventors came from humble beginnings. They included farmers, factory workers, merchants, mechanics, and other artisans.</para><para id="eip-146">Of the 160 so-called “great inventors” of nineteenth-century America, over 70 percent had only a primary or secondary school education. Many had no formal schooling at all. And some of the most famous names in American invention—Matthias Baldwin (locomotive), George Eastman (roll film), Elias Howe (sewing machine), and Thomas Edison (electric light and phonograph)—had to leave school early to support their families.</para><para id="eip-797">What’s more, in another sign of economic democratization, most U.S. inventors had no formal scientific or technical training. They had only the general knowledge common to citizens of the day, plus whatever they taught themselves. What distinguished them was their ingenuity in applying that general knowledge to the practical problems of daily existence, and then exploiting the commercial opportunities that arose as a result. In short, they were entrepreneurial.</para><para id="eip-488">The rapid growth of inventive activity during early American industrialization was characterized by a disproportionate increase in the involvement of segments of the population with relatively common sets of skills and knowledge,” note Sokoloff and Khan. “Rather than being accounted for by an elite who possessed rare technical knowledge or commanded large amounts of financial resources, the rise in patenting coincided with a broadening of the ranks of patentees to encompass many individuals, occupations, and geographic districts.”<footnote id="footnote16">					
+Kenneth Sokoloff and B. Zorina Khan, <foreign>“The Democratization of Invention During Early Industrialization, 1790O1846,”</foreign> Working Paper No. 578, Department of Economics, University of California, Los Angeles, December, 1989.
+</footnote></para><para id="eip-201">Making the patent system inexpensive invited everyone’s participation. In the words of Englishman John Standfield, quoted in an 1880 issue of <foreign>Scientific American</foreign>, “The cheap patent law of the United States has been and still is the secret of the great success of that country.”</para><para id="eip-435"><title>Simplifying Application Procedures</title>The Founders greatly simplified administrative procedures in applying for a patent. This was no small thing when you consider that British applicants were forced to seek approval from seven
+different offices, and then twice—twice!—obtain the signature of the King. If they wanted a patent that covered Scotland and Ireland as well, they needed approval from ten more offices. British patent procedures were so Byzantine, in fact, that author Charles Dickens wrote a spoof of them entitled <foreign>A Poor Man’s Tale of a Patent</foreign>, in which his main character, an inventor, is forced to seek approvals from 34 offices, some of which had been abolished years before and no longer existed. Obviously, few inventors could hope to run this gauntlet successfully unless they had the wherewithal to hire very expensive patent agents to assist them.</para><para id="eip-182">In the United States, on the other hand, applications only needed the approval of a single patent office, which created repositories throughout the country where inventors could drop off their applications and models and have them forwarded to the patent office at government expense. Rural inventors could even apply for a patent through the mail— postage free!</para><para id="eip-341">This last perk for rural inventors turned out to have a big impact on the course of U.S. economic development. While most British industrial breakthroughs were confined to London or other big cities, U.S. inventions were widely distributed across the country, in urban and rural areas both. The result was broader- based economic growth and less income inequality in the United States.</para><para id="eip-115"><title>Spreading New Technological Knowledge</title>Another unique feature of the U.S. patent system was its systematic effort to spread new technological knowledge throughout society, thereby creating a virtuous circle of innovation begetting more innovation. In Britain, patents were only open to public inspection after paying a fee, and until 1852 were not even officially printed, published, or indexed. In France, printed information about patents was limited to brief titles in patent indexes, intermittently published and only available in the office in which these had been originally filed.</para><para id="eip-530">By contrast, the first U.S. patent law explicitly stated that “copies of patent Specification together with similar Models [are] to be made at the public Expence and lodged in each state.”<footnote id="footnote17">			
+Patent Act of 1790, HR-41, 
+</footnote> 
+In addition, as noted in the previous section, a plethora of publications by government and industry enabled any citizen with an interest to keep abreast of the latest patented technologies.</para><para id="eip-448"><title>Examining Patents for Validity</title>In a very crucial departure from Old World practice, the Founders created the world’s first examination system for patents to ensure their <emphasis>novelty</emphasis>, <emphasis>non-obviousness</emphasis>, and <emphasis>utility</emphasis>. The examinations were initially conducted by a committee composed of the Secretary of State (Thomas Jefferson), Secretary of War (Henry Knox), and Attorney General (Edmund Randolph). But this was found to be cumbersome, so in 1793 a simple registration system was established. It turned out, however, that without the examination of applications for novelty, non-obviousness, and utility, the validity of issued patents began to be questioned. So the reforms of the <emphasis>1836 Patent Act</emphasis> specified that henceforth applications would be scrutinized by technically trained examiners to ensure that the invention represented a genuine advance in the state of the art.
+</para><para id="eip-148">For the first time anywhere in the world, the criteria for granting a patent depended solely upon the merits of the application rather than the identity or the mere say-so of the inventor.</para><para id="eip-982">The situation was very different in Europe. In France, the following caveat was printed on each patent: “The government, in granting a patent without prior examination, does not in any manner guarantee either the priority, merit or success of an invention.” Imagine trying to interest a group of investors in your new invention with that kind of warning label attached to it!</para><para id="eip-455">In Britain, meanwhile, the lack of any examination of patent validity made the purchase of a patent right highly speculative and costly, thereby limiting investment in new technology.</para><para id="eip-924">By contrast, says Khan, “the U.S. examination system reduced uncertainty about the validity of patents, and provided [interested parties] with a signal of [their] potential value.” This proved to be crucial in facilitating the growth of an extensive market in the sale and licensing of valuable patent rights—the first large-scale market of this type in the world.</para><para id="eip-20"><title>No “Working Requirements” Reduced Monopoly Control</title>The fifth distinguishing feature of the U.S. patent system was the lack of any sort of “<emphasis>working requirements</emphasis>.” In the debate over HR-41, the bill that became the first U.S. patent law in 1790, “the Senate suggested requiring patentees to make products based on the patent or license others to do so. But the House rejected this as an infringement of patentees’ rights.”<footnote id="footnote18">				
+Op. cit., Khan. 
+</footnote></para><para id="eip-491">Indeed, the Founders believed working requirements would only strengthen monopoly power and skew invention toward incumbent industry by limiting patents to those with the factories (or the capital to build them) needed to manufacture products from their inventions.<footnote id="footnote19">				
+B. Zorina Khan, <foreign>“Antitrust and Innovation Before the Sherman Act,”</foreign> Antitrust Law Journal, No. 3, 2011.
+</footnote></para><para id="eip-198">In short, the Founding Fathers of this nation deliberately and quite consciously created what we now call “<emphasis>non-practicing entities</emphasis>” (NPEs) in order to expand the pool of inventors in their then-backward economy to include ordinary citizens without the wealth or resources to commercialize their own inventions. And it worked, leading to a dramatic surge in innovation in nineteenth-century America as large numbers of ordinary citizens started inventing and then licensing their discoveries to enterprises for commercialization.</para><para id="eip-162">By 1865, the U.S. per capita patenting rate was more than triple that of Britain’s, according to the annual reports from the commissioners of patents in both countries, and by 1885, it was more than quadruple that of Britain. Each U.S. patentee was also far more prolific than his or her British counterpart, so by mid-century, the United States was patenting five times the number of inventions as Britain each year, even though the populations were then equal in size.</para><para id="eip-677"><title>Creating a Market for New Technology</title>The sixth unique feature of the U.S. patent system—and along with the refusal to impose working requirements, the one that had the greatest impact on future U.S. economic growth—was “an explicit provision for the sale of patent rights [that] both the courts and the U.S. Patent Office acted to facilitate.”<footnote id="footnote20">				
+Naomi R. Lamoreaux and Kenneth L. Sokoloff, <foreign>“Inventive Activity and the Market for Technology in the United States: 1840O1920,”</foreign> Working Paper 7107, National Bureau of Economic Research, Cambridge, Mass. 1999.
+</footnote>
+</para><para id="eip-696">Why facilitate the buying and selling of patents? Because doing so enabled ordinary worker or farmer inventors without the capital to commercialize their own discoveries to still participate in inventive activity and earn income by licensing or selling their patents to enterprises that could. This ability to license patent rights (along with the low application fees) turned inventing into a new career path for thousands of poor but technically creative citizens.<footnote id="footnote21">				
+B. Zorina Khan, <foreign>“Institutions and Technological Innovation During Early Economic Growth: Evidence From the Great Inventors of the United States, 1790-1930,”</foreign> Working Paper 10966, National Bureau of Economic Research, Cambridge, Mass., 2004. 
+</footnote> 
+It also proved to be a powerful means of mobilizing capital for investment in new technologies and their commercialization into new products and services for society.</para><para id="eip-978">That patents could be used as tradable assets by non-practicing entities without the wealth to commercialize their own discoveries was a wholly unique feature of the American patent system. By 1880, 85 percent of all U.S. patents were licensed by their inventors, compared with 30 percent of British patents.<footnote id="footnote22">				
+B.Zorina Khan,<foreign>The Democratization of Invention Patents and Copyrights in American Economic Development, 1790-1920,</foreign> Cambridge University Press, 2005.
+</footnote>
+
+</para><para id="eip-138">Patent licensing, in fact, was the principal means by which new discoveries were commercialized in the decades before the early twentieth- century emergence of in-house corporate R&amp;D departments. Publications such as <foreign>Scientific American</foreign> were founded specifically to facilitate the trade in patents, and it regularly featured lists of new and interesting patents, which commercial enterprises then licensed or purchased to use in their product development efforts.</para><para id="eip-62">American Bell Telephone’s new product pipeline, for example, operated like most others at the time. According to its 1894 annual report, the company’s R&amp;D department licensed 73 patents from outside inventors, while developing only 12 from its own employees.</para><para id="eip-510">Thomas Blanchard was a typical inventor-licensor. He was the son of a small farmer who invented and patented a mechanical tack-maker in 1806 that could fabricate five hundred tacks per minute, each superior to tacks made by hand. He sold the rights to his machine for $5,000, quite a sum in those days. He then invented a lathe to produce uniform gun stocks, and the patent he received for it enabled him to attract investors for the production of those gun stocks for the local Boston market. Blanchard also leased his patent rights to gun producers nationwide, as well as to manufacturers of tool handles and wheel spokes. The income he generated from patent licensing enabled him to make inventing his full-time career. He went on to invent a wood-bending machine, an upriver steamboat, and a steam wagon that was used until the introduction of railroads in the United States, and received a total of 25 patents during his career.</para><para id="eip-440">According to a 2013 Congressionally mandated Government Accountability Office (GAO) report on NPEs, “History is filled with examples of successful inventors who did not develop products based on the technologies they patented.” It specifically cited the case of Elias Howe, who patented a method of making a lockstitch but did not produce sewing machines. Instead, Howe licensed his patents to the Singer Company, which then deployed Howe’s invention in its sewing machines.<footnote id="footnote23">				
+<foreign>“Intellectual Property: Assessing Factors that Affect Patent Infringement Litigation Could Improve Patent Quality,”</foreign> U.S. GAO, August 2013.
+</footnote></para><para id="eip-155">Patent licensing, scholars have found, was facilitated by an array of intermediaries— lawyers, venture financiers, and patent licensing agents—who “lowered the transaction costs and improved the efficiency” of the trade in and commercialization of patented technology. “By enabling, indeed encouraging, inventors to focus on what they did best [i.e., invention], this division of labor gave rise to the most technologically fertile period in American history.”<footnote id="footnote24">				
+Naomi Lamoreayx and Kenneth Sokoloff, <foreign>“Intermediaries in the U.S. Market for Technology, 1870-1920,”</foreign>  Working Paper No. 9017, National Bureau of Economic Research, Cambridge, MA. June, 2002.
+</footnote>
+</para><para id="eip-163"><title>The Positive Effects of Licensing</title>The Founders’ decision to foster NPEs and patent licensing proved crucial to America’s rapid technological progress and economic growth. Indeed, patent records from the nineteenth century reveal that more than two-thirds of the “great inventors” of the Industrial Revolution, including Thomas Edison and Elias Howe, were NPEs who specialized in invention and licensed some or all of their patents to outside enterprises for development into new products.<footnote id="footnote25">					
+B.Zorina Khan and Kenneth L.Sokoloff,<foreign>“Intellectual Property Institutions in the United States: Early Development and Comparative Perspective,”</foreign> World Bank Research Workshop, July 17-19, 2000
+</footnote>
+</para><para id="eip-794">Had the United States followed the approach of older European patent systems and limited patent rights solely to inventors who made or sold products—or prevented them from licensing their patents—America might not have even had an Industrial Revolution.</para><para id="eip-586">In any event, the result of this division of labor between invention and production was exactly as Adam Smith predicted:
+<preformat id="eip-id6942441">
+       “The growth of market trade in patents raised the 
+        returns to invention and encouraged a division of 
+        labor whereby technologically-creative individuals 
+        increasingly specialized in their comparative 
+        advantage—invention,” noted Lamoreaux and Sokoloff. 
+        “It was the expanded opportunities to trade in 
+        patented technologies that enabled the independent 
+        inventors of this golden age to flourish— and that 
+        stimulated the growth of inventive activity generally.”
+</preformat></para><para id="eip-883">The benefits of that division of labor remain visible today, embodied in the thousands of university and other NPE patents licensed by companies large and small each year, as well as by the positive U.S. balance of trade in patent licensing, estimated to be worth at least $150 billion annually as of 2006. More than 5,000 new products and 7,000 new companies have been created with the help of university NPE patents alone in the last 30 years.<footnote id="footnote26">				
+Joseph Hornett and David Johnson, Purdue Research Foundation. Derived from: bit.ly/O7iA18 
+</footnote>
+And licensors of patented technology help the United States maintain its technology leadership in critical economic sectors.</para><para id="eip-17"><title>A New Species called “Patent Trolls”</title>To be sure, there is new a species of NPE known as “patent trolls” who use low-quality patents to extort so-called “license fees” from small businesses unable to pay the cost of standing up to them in court. But their activities have nothing in common with real patent licensing.</para><para id="eip-125">Typically, these patent owners send form letters to hundreds, or in some cases thousands, of random small businesses, claiming with little or no evidence that they are “infringing” their patents. These letters then demand so-called “licensing fees” ranging from one to several thousands of dollars to avoid a patent infringement lawsuit that could cost those businesses far more to defend against in court—even if the business owner is innocent of any infringement.</para><para id="eip-796">Beginning in mid-2013, a tsunami of bad faith demand letters began targeting small businesses, sparking wide protest. The National Federation of Independent Businesses (NFIB) and many other business groups and trade associations demanded action, and Washington responded in 2014 with several pieces of proposed reform legislation. By early 2015, the Federal Trade Commission (FTC) had acted against one sender of bad faith demand letters, and federal legislation to rein in such abuses seemed likely to pass.</para><para id="eip-42">At the state level, meanwhile, by early 2015, 15 states had enacted laws to curb abusive patent demand letters, and 11 others were actively considering similar bills. In addition, the attorneys general of several states have used consumer protection laws against making false claims to force these “patent trolls” to stop sending their extortionist demand letters.</para><para id="eip-362">These abusive patent litigants should not be confused with legitimate NPEs, however, whose primary business is invention and technology licensing, not extorting so-called “license fees” from innocent businesses. Patent licensing facilitates the transfer and commercialization of
+technology into new products and services and promotes U.S. economic growth.</para><para id="eip-560"><title> A Patent System for the Common Man</title>In sum, these six unique features of the U.S. patent system—low fees, simplified procedures, examination of applications by trained experts, systematic disclosure of new technological knowledge, lack of “working requirements,” and encouragement of robust trade in patent rights—all had a powerfully beneficial impact on the nation’s economic growth.</para><para id="eip-710">But none of that would have been possible were it not for the broad-based democratic rule of law in the United States and the critical role played by the U.S. legal system in interpreting and enforcing America’s revolutionary patent laws.</para><exercise id="eip-193"><problem id="eip-609">
+  <para id="eip-371">
+    The Founding Fathers created the U.S. patent system with which overarching goal in mind?
+<preformat id="eip-id1164448283903">
+         A. To defend America’s newly won independence
+         B. To rapidly stimulate the growth of domestic industry
+         C. To create advanced new weapons for America’s young army
+         D. None of the above
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-880">
+  <para id="eip-58">B. To rapidly stimulate the growth of domestic industry
+  </para></solution>
+</exercise><exercise id="eip-492"><problem id="eip-282">
+  <para id="eip-587">
+    The U.S. patent system was designed to tap the creative and productive potential of which of the following?
+<preformat id="eip-id1168641369419">
+         A. Their abundant natural resources
+         B. Their large stock of imported goods and machinery
+         C. Rich agricultural lands
+         D. An enterprising population with a “universal ambition to go forward”
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-159">
+  <para id="eip-245">D. An enterprising population with a “universal ambition to go forward”
+  </para></solution>
+</exercise><exercise id="eip-292"><problem id="eip-697">
+  <para id="eip-234">
+    Which of the following was NOT a unique feature of the U.S. patent system?  
+<preformat id="eip-id7410535">
+         A. It was affordable by the common man.
+         B. It had an examination system to determine patent validity.
+         C. Patentees were required to make or sell products based on their inventions.
+         D. It had simplified application procedures.
+         E. It required full disclosure of the details of the invention.
+         F. It allowed for the sale and licensing of patent rights.
+</preformat>
+</para>
+</problem>
+
+<solution id="eip-373">
+  <para id="eip-484">A. It was affordable by the common man.
+  </para></solution>
+</exercise></section><section id="eip-953"><title>Section 1.4: The Role of the U.S. Legal System</title><list id="eip-544"><title>After completing this section, you will be able to:</title><item>Describe the differences between U.S. and European patent laws.</item>
+<item>Describe the history of patent litigation in the United States.</item>
+ </list><para id="eip-261"><title>U.S. Patent Law vs. European Patent Law</title>Just as with any other property right, patent rights would be meaningless without the ability to enforce them in court. And from the earliest days of the patent system, says Khan, “Our legal system remained true to the Constitution in the belief that the defense of rights in patented invention was important in fostering industrial and economic development.”</para><para id="eip-683">In Britain and other European countries, patents were viewed as “pernicious monopolies that restricted community rights and [Had] to be carefully monitored and narrowly construed.”<footnote id="footnote27">
+B.Zorina Khan,<foreign>The Democratization of Invention: Patents and Copyrights in American Economic Development, 1790-1920,</foreign> Cambridge University Press, 2005.
+</footnote> 
+The enforcement and interpretation of patent laws by the courts in Europe also tended to be highly variable and dependent upon the whims of each individual judge.</para><para id="eip-921">In the United States, however, early courts treated inventors’ patent rights with deference, just as they did the rights of other property owners. Famed Supreme Court Justice Joseph Story repeatedly declared that patent rights were “sacred” and were the just reward for inventive ingenuity. As he noted in <emphasis><foreign>Lowell v. Lewis</foreign></emphasis> (1817), “the proper duty of the court” is to ensure that “wrongdoers may not reap the fruits of the labor and genius of other men.”</para><para id="eip-600">The relative uniformity and certainty of enforcement of patent rights by the courts also proved critical in encouraging capital to invest in commercializing those patent rights.</para><para id="eip-368">Contrasting the patent laws and policies of the United States and Britain, Supreme Court Justice Henry Baldwin went to some lengths in <emphasis><foreign>Whitney v. Emmett</foreign></emphasis>(1831) to show how English courts saw patents as a zero-sum trade-off between private rights and the public good. The explicit intention of U.S. patent law, however, was “to benefit the inventor, in the belief that maximizing individual welfare leads to maximum social welfare.”</para><para id="eip-284">Nonetheless, U.S. intellectual property laws did try to strike a balance between the needs of the many and the few. “Patent laws ensured the security of private property rights in invention. However, it was also necessary to balance the just claims of inventors against the dangers of exclusive monopolies that might restrict the scope of current and future invention.”<footnote id="footnote28">				
+Op. cit., Khan.
+</footnote>
+</para><para id="eip-279"><title>Changes in U.S. Patent Law Through the Years</title>Over the years, of course, that balance has moved back and forth between relatively stronger versus weaker enforcement of patent rights. With the rise of the robber barons in the late nineteenth century, government and the courts increasingly viewed patents through the prism of antitrust, in some cases even compelling large firms like IBM to license their patents to competitors. Then with the advent of the high-tech revolution in the 1980s, antitrust concerns faded and the courts began once again to view stronger patent rights as helpful in fostering innovation.</para><para id="eip-991">Interestingly, the U.S. legal system has always operated on the theory that the best way to achieve the proper balance between private rights and public interest was not through government decree, centralized management, or compulsory licensing but rather through the decentralized decision making and market interactions of inventors themselves. The court’s role was to resolve the inevitable conflicts that arose, on a case by case basis.</para><para id="eip-515">Throughout all the twists and turns in patent enforcement over the centuries, however, the federal courts have remained unwavering on four key principles of U.S. patent law.
+</para><para id="eip-979"><title>An “Explosion” of Patent Litigation?</title>Patent litigation, of course, has always been an integral feature of the U.S. patent system. The first patent case on record was that of Benjamin Folger, whose patent for the production of candles was invalidated by the district federal court for New York in 1792. This was merely the first of many hundreds (and eventually thousands) of cases in which patent litigation served the important function of settling either the validity or the disputed ownership of the rights to critical new technologies—the litigation between telephone inventors Alexander Graham Bell and Elisha Gray being perhaps the most famous case in point. By doing so, the courts provided greater certainty regarding the value of such rights to entrepreneurs and investors alike.</para><para id="eip-714">Today, some critics contend that an “explosion of patent litigation” unlike any in history is harming business and diverting resources better spent on innovation. No responsible observer would deny that the courts have seen an increase in patent infringement suits in recent years, just as they have seen a rise in personal injury claims and product liability suits. But that said, the evidence shows that the rate of patent litigation today is actually below historical norms.</para><para id="eip-416">According to <link document="m10275" version="2.1">USCourts.gov</link><link url="USCourts.gov" window="new"/> figures, the number of patent infringement suits filed in the United States increased 59 percent between 2001 and 2011—from 2,520 cases in 2001 to 4,015 cases in 2011. Meanwhile, the number of patents granted in that same period increased by only 35 percent, which supports the view that patent litigation has become more frequent over the last decade as the role and value of intellectual property has increased in the Knowledge Economy.</para><para id="eip-625">Statistics from <link document="m10275" version="2.1">USCourts.gov</link><link url="USCourts.gov" window="new"/> show an even sharper rise in the number of patent suits filed in 2012, to 5,189 cases. But analysts attribute most of this increase to the anti-joinder provisions of the Patent Act of 2011, which curtailed the practice of naming multiple defendants in a single infringement suit. According to Carla Rydholm of the patent analytics firm Lex Machina, “Plaintiffs must [now] meet more stringent requirements to file a case against multiple defendants. So instead of Plaintiff X filing one case naming 20 defendants, Plaintiff X might file 20 lawsuits (one per defendant) each with unique civil action numbers.”</para><para id="eip-298">When looked at over the longer term, however, it turns out that 96 percent of all the increase in patent infringement suits since 1991 can be explained by a corresponding increase in patents granted, reports the PricewaterhouseCoopers’s 2013 Patent Litigation Study.<footnote id="footnote29">
+Http://www.pwc.com/en_US/us/forensic-services/publications/assets/2012-patent- litigation-study.pdf
+</footnote></para><para id="eip-632">In case you’re wondering if the increase in patents granted is itself a sign of a patent system being increasingly gamed by speculators wanting to cash in on the new “patent gold rush,” note that the average number of patents issued per billion dollars of GDP has remained at or below the same level—13 patents per billion dollars of GDP—since 1963.<footnote id="footnote30">					
+Sean Connolly, “Patent Litigation Rates: What They Tell Us and What They Don’t,” derived from: http://connollyip.com/patent-litigation-rates-what-they-tell-us-and-what-they-dont/
+</footnote>
+</para><para id="eip-477">Interestingly, although the number of suits filed has increased in rough correlation to patent grants, the number that actually go to trial has remained fairly constant over the last 30 years. About 90 percent of the suits filed each year are abandoned or settled. Of the three hundred that remain, two-thirds never go to trial, and are adjudicated on summary judgment (of noninfringement in most cases).</para><para id="eip-650">The nation is thus left with, at most, between 90 and 112 patent infringement trials per year—exactly the same number that went to trial 10, 20, and even 30 years ago.<footnote id="footnote31">
+Gene Quinn, “Patent Litigation Statistics: 1980- 2010, <foreign>IP Watchdog,</foreign> derived from: http://www.ipwatchdog.com/2011/08/02/patent-litigation-statistics-1980-2010/id=17995/  
+</footnote></para><para id="eip-254">To be sure, there can be significant costs to business even in litigating and settling patent suits that never go to trial. But no one has shown that the relative cost of patent litigation today is higher than it was historically, or that the cost of patent litigation is more burdensome than other customary legal costs in business, especially the huge cost of regulatory compliance.</para><para id="eip-212">The evidence does not suggest that patent litigation is “out of control” today. As retired Chief Judge Paul Michel of the U.S. Court of Appeals for the Federal Circuit, the main court for patent appeals since 1982, notes, “The level of patent litigation today is rather modest for a nation with two million active patents and hundreds of thousands of businesses competing against each other.”</para><para id="eip-766">History supports Judge Michel on this point. The estimated 124-plus smartphone patent suits filed between 2009 and 2012<footnote id="footnote32">				
+http://en.wikipedia.org/wiki/Smartphone_wars.		
+</footnote>
+are less than one- quarter the number of patent suits filed during the first “Telephone Wars” of Alexander Graham Bell’s time. Back then, the American Bell Telephone Company and its successor, AT&amp;T, litigated 587 patent cases alone.<footnote id="footnote33">					
+“The Telephone Cases,” Wikipedia, http://en.wikipedia.org/wiki/The_T elephone_Cases. 		
+</footnote>
+</para><para id="eip-304">Even more surprising, given the common belief in a patent litigation “explosion” today, patent and legal records from the golden age of invention during the mid-nineteenth century U.S. Industrial Revolution show that the patent litigation rate at that time—defined as the number of patent suits filed in a decade divided by the number of patents issued in that decade— reached 3.6 percent.<footnote id="footnote34">			
+B. Zorina Khan, <foreign>“Property Rights and Patent Litigation in Early Nineteenth-Century America,”</foreign> Journal of Economic History, 1995, vol. 55, issue 01, pages 58-97.	
+</footnote>
+</para><para id="eip-199">In contrast, <link document="m10275" version="2.1">USCourts.gov</link><link url="USCourts.gov" window="new"/> figures show the patent litigation rate during the decade 2001 to 2011 was less than half that—only 1.52 percent. From 2002 to 2012, reflecting the increased suits but also the increased (276,788) patents issued, the litigation rate was 1.57 percent.</para><para id="eip-85">Over the entire period from 1790 to 1860, the patent litigation rate averaged 1.65 percent.</para><para id="eip-94">Today’s smartphone wars, then, are simply “back to the future” when it comes to the ways in which disruptive new industries are developed. Historians have noted that every major industrial breakthrough of the last 150 years—from the development of the sewing machine, telephone, automobile, radio, aircraft, medical stent, and even disposable diaper industries, to the birth of the semiconductor and Internet e-commerce industries—witnessed exactly the same surge in patenting and patent litigation that we see in today’s smartphone field.<footnote id="footnote35">					
+Adam Mossoff, “The Rise and Fall of the First American Patent Thicket: The Sewing Machine War of the 1850s, <foreign>”Arizona Law Review,</foreign> Vol. 53, pp.165-211,2011. 
+</footnote>
+</para><para id="eip-519">And just as with smartphones today, the most competitive technology arenas have always been the most litigious. In Edison’s time, the inventors of electrical discoveries were four times more likely than other inventors to be involved in patent litigation, and accounted for 41 percent of all patent suits filed during that period.<footnote id="footnote36">				
+B.Zorina Khan,<foreign>The Democratization of Invention: Patents and Copyrights in American Economic Development, 1790-1920,</foreign> Cambridge University Press, 2005.
+</footnote></para><para id="eip-250">In any event, by early 2015, it had already become clear that a noticeable decline in patent litigation was under way. Most analysts attributed the decline to a series of U.S. Supreme Court rulings in 2014 limiting the patentability of software and increasing the ability of the courts to impose sanctions on abusive litigants, which will be discussed later in this chapter. Also driving this decline in litigation was the availability of new post-grant review proceedings under the new America Invents Act, which allow third parties to challenge patents and, if the evidence so warrants, have their claims invalidated by the USPTO’s Patent Trial and Appeal Board.</para><para id="eip-554">Although patent litigation is costly, the historical record suggests that it serves a vital function by settling the validity and disputed ownership of patent rights so these can be commercialized into new products, new services, and new medical treatments.</para><para id="eip-89">This is, in fact, the proper role of the courts.</para><exercise id="eip-482"><problem id="eip-762">
+  <para id="eip-656">
+    Which of the following is NOT true of the U.S. patent system?  
+<preformat id="eip-id8187194">
+         A. Novelty, non-obviousness, and utility determine patent validity, not the identity or 
+             business model of the inventor.
+         B. Patents are freely transferable and tradable property rights.
+         C. You can’t infringe a patent if you honestly don’t know that it exists.
+         D. Patent holders are not required to make or sell products based on their inventions.
+</preformat>
+</para>
+</problem>
+
+</exercise><exercise id="eip-773"><problem id="eip-475">
+  <para id="eip-579">
+    Compared with the Industrial Revolution, what is the overall patent litigation rate today?
+<preformat id="eip-id1169845645957">
+         A. It is twice what it used to be.
+         B. It is about the same as it used to be.
+         C. It is less than half what it used to be.
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-312">
+  <para id="eip-257">C. It is less than half what it used to be.</para></solution>
+</exercise><exercise id="eip-704"><problem id="eip-623">
+  <para id="eip-390">
+    Historically speaking, patent litigation has served to which of the following?
+<preformat id="eip-id1167414652167">
+         A. Slow innovation and R&amp;D
+         B. Settle disputed rights to new technology so commercialization can proceed
+         C. Block others from designing around patents
+</preformat>
+  </para>
+</problem>
+
+<solution id="eip-859">
+  <para id="eip-960">
+    B. Settle disputed rights to new technology so commercialization can proceed
+  </para>
+</solution>
+</exercise></section><section id="eip-320"><title>Section 1.5: What the U.S. Patent System Wrought</title><list id="eip-101"><title>After completing this section, you will be able to:</title><item>Explain the effects of the U.S. patent system on American economic development.</item>
+<item>Describe trends in U.S. patenting over the years.</item>
+ </list><para id="eip-692"><title>Creating the World’s Most Successful Economy</title>In 1630, the puritan John Winthrop, future governor of Massachusetts colony, declared that “We shall be as a city upon a hill, the eyes of all people are upon us.”</para><para id="eip-535">One hundred and fifty years later, the Founders of the United States of America proved Winthrop right, offering the world a vision of liberty and democratic governance that continues to inspire people to this day. As noted previously, the men who led the Revolution and wrote the Constitution were not wild-eyed revolutionaries. They were eminently practical people who managed to create the longest- living modern democratic political and economic system on the planet.</para><para id="eip-10">In other words, they must have done something right. And one of those things was surely the patent system they created. Because almost from the moment of its inception, it began to spark innovation and economic growth on a scope and scale never before seen in the world.</para><para id="eip-474">Only two months after America’s first patent law was signed in 1790, in fact, Thomas Jefferson himself noted that it had “given a spring to invention beyond my conception.” Within 13 years, America surpassed Britain— until then, the unrivaled leader of the industrial revolution—in the number of new inventions patented, even though Britain still had more than twice America’s population. By 1870, as noted earlier, the United States was patenting more than five times the number of inventions as Britain, although their populations were by then roughly equal in size.</para><para id="eip-32">At first, most British observers were dismissive of American innovation efforts, declaring that the former colony would never be able to progress beyond the simple imitation of superior European technologies. But eventually Britain and other nations took note of the way the U.S. patent system seemed to be stimulating invention and economic growth at an unheard-of pace.</para><para id="eip-434">Sir William Thompson, a British inventor and scientist attending the 1876 Centennial
+Exhibition in Philadelphia, looked at the amazing array of American inventions—including Bell’s telephone, the Westinghouse airbrake, Singer’s sewing machines, and Edison’s improved telegraph—and had this to say: “If Europe does not amend its patent laws, America will speedily become the nursery of useful inventions for the world.”<footnote id="footnote37">				
+<foreign>Scientific American,</foreign> October 21, 1876, courtesy of B. Zorina Khan.
+</footnote></para><para id="eip-699">Meanwhile, the Swiss Commissioner in attendance, the shoe manufacturer Edward Bally, offered a similar warning to his Old World countrymen: “American industry has taken a lead which in a few years may cause Europe to feel its consequences in a very marked degree.”</para><para id="eip-648">Then, there’s Japan’s Assistant Secretary of State Korekiyo Takahashi, who visited the U.S. Patent Office. Upon his return home, he said, “What is it that makes the United States such a great nation? We investigated, and we found it was patents. And we will have patents.”</para><para id="eip-964">Even the British jurist Sir Henry Sumner Maine, who had once argued that “the establishment of the masses in power is the blackest omen” for the future of invention, later changed his tune. He conceded that the U.S. patent system was “one of the provisions of the Constitution that have most influenced the destinies of the American people” and that it had made the United States “the first in the world for the number and ingenuity of [its] inventors”.<footnote id="footnote38">				
+Henry Sumner Maine,  <foreign>Popular Government,</foreign> courtesy of B. Zorina Khan. </footnote></para><para id="eip-739">As historians Lamoreaux and Sokoloff noted, “[Foreign] observers attributed much of the country’s rapid technological progress to its distinctive patent system. Quite revolutionary in design at inception, the U.S. patent system came to be much admired for providing broad access to property rights in new technological knowledge and for facilitating trade in patented technologies. These features attracted the technologically creative, even those who lacked the capital to directly exploit [i.e., commercialize] their inventions . . . and also fostered a division of labor between the conduct of inventive activity and the application of technical discoveries to actual production. It is no coincidence that Britain and many other European countries [later] began to modify their patent institutions to make them more like those of the Americans.”<footnote id="footnote39">				
+Naomi R. Lamoreaux and Kenneth L. Sokoloff, <foreign>“Financing Innovation in the United States: 1870 to Present,”</foreign> MIT Press, Cambridge, Mass. 2007.
+</footnote></para><para id="eip-588"><title>Every Breakthrough Spurs Patenting Spikes</title>The patent system’s central role in fostering innovation can be seen in the patenting spikes that occur with every major industrial breakthrough. A major surge in patenting took place in the 1880s, for example, when the number of new patents issued each year jumped 56 percent to about 20,000, compared with the 12,000 issued yearly during the previous decade. This patent boom corresponded with rapid advances in the emerging railroad, telegraph, telephone, and electric light and power industries that signaled the industrialization of the U.S. economy.</para><para id="eip-383">The next sharp surge in patent issuances began around 1902 and lasted until 1916 or so, when the number of patents granted doubled from 20,000 per year to around 40,000 per year. This was the period of the newborn automobile and aircraft industries’ most rapid early-stage growth. Patenting levels then remained relatively stable at about 40,000 per year until around 1960 or so, when the revolution in plastics and other synthetic materials along with boom-time growth
+in the aerospace and computer industries pushed patenting levels to 60,000 per year. There they remained until the mid- 1980s, when the personal computer and emerging high-tech industries of Silicon Valley began to power the whole of the U.S. economy and propel us toward the age of the Internet. Patenting levels then rose to around 80,000 to 100,000 yearly</para><para id="eip-428">With the rise of the Internet, social media, mobile telephony, and smartphones over the last two decades, the number of patent applications filed each year with the U.S. Patent and Trademark Office (USPTO) has surged fourfold. In 2014, the USPTO received 578,802 applications, finding 300,678 of these applications worthy of receiving a patent. This is but the latest spike in innovation and patenting.
+</para><para id="eip-21">Clearly, whenever the United States has undergone a major industrial renaissance during which technology advances lead not only to the birth of new industries, but also to the reshaping of existing ones, patenting levels rise dramatically. It is no surprise, therefore, that Silicon Valley, midwife of many of the new Knowledge Economy industries of the past 60 years, is home to less than 1 percent of the nation’s population but earns 12 percent of its patents each year. The Valley is now the site of a new USPTO satellite office serving high-tech innovators there.<footnote id="footnote40">					
+<foreign>“Silicon Valley wins in securing U.S. patent office,”</foreign> San Francisco Chronicle, July 3, 2012.
+</footnote>
+</para><para id="eip-508">The patent system has also been crucial in facilitating the growth of new start-up businesses, with 67 percent of entrepreneurs reporting that they find patents valuable in obtaining venture financing.<footnote id="footnote41">				
+<foreign>“Patenting by Entrepreneurs: The Berkeley Patent Survey Part III of III,”</foreign> PatentlyO, July 21, 2010. 
+</footnote>
+This is important because although large companies contribute enormously to American innovation and industrial growth through their in-house research and development operations as well as via their partnerships with research universities, start-up companies play a particularly strong role in the creation of entirely new industries. Indeed, virtually every innovative new industry of the last 150 years— From the telegraph, telephone, and electric power industries of the 1800s, to the auto, aircraft, materials, and aerospace industries of the twentieth century, to the semiconductor, personal computer, software, biotech and Internet e-commerce industries of the last 60 years—was launched by an entrepreneurial start-up company.</para><para id="eip-855">The Founders would not be surprised by this. They created the world’s first democratized patent system, after all, for a reason: to stimulate the ingenuity of the common man. They had asked themselves a question—the same question reiterated two generations later by Supreme Court Justice Joseph Story when he spoke before an audience of ordinary mechanics: “Ask yourselves, what would be the result of one hundred thousand minds ... urged on by the daily motives of interest, to acquire new skill, or invent new improvements.”<footnote id="footnote42">				
+Reported in <foreign>American Jurist and Law Magazine,</foreign> vol. 1 (1829), courtesy of B. Zorina Khan. 
+</footnote>
+</para><para id="eip-902">The result was the most successful economy on the face of the earth.</para><para id="eip-418"><title>Patents and the American Dream</title>It’s not only the economy that the patent system helped shape, but the culture and consciousness as well. As the eminent historian Gordon S. Wood observed in his 2010 book <foreign>Empire of Liberty</foreign>,
+<preformat id="eip-id8093068">
+       “By the early nineteenth century, technology 
+        and prosperity were assuming for Americans 
+        the same sublime and moral significance that 
+        the enlightenment had reserved for the classical 
+        state and the Newtonian universe. Eli Whitney, 
+        inventor of the cotton gin, and Robert Fulton, 
+        creator of the steamboat, became national heroes.”
+</preformat>
+ </para><para id="eip-896">And for the first time in human history, a nation had come to see its greatness not in empire or military might or royal lineage, but in its capacity for technological progress.</para><para id="eip-135">There was nothing preordained about America’s economic success, no special “Yankee ingenuity” gene in their hereditary stock. As Scientific$ American$ noted in 1876, the United States advanced “not because we are by nature more inventive than other men. Every nationality becomes inventive the moment it comes under our laws.”</para><para id="eip-322">Rather, the secret of America’s success was a uniquely democratic patent system that “added the fuel of interest to the fire of genius” in generations of ordinary citizens—and in so doing, helped in a very real way to give birth to the American Dream itself.</para><para id="eip-213">Ironically, few people today even know the origin of the term “the American Dream.” In fact, it was coined in 1931, by the historian James Truslow Adams in his book <foreign>Epic of America</foreign>, and it is instructive to read what Adams meant by it:
+<preformat id="eip-id1169836777729">
+       “The American Dream, that has lured tens of 
+        millions of all nations to our shores in the 
+        past century, has not been a dream merely of 
+        material plenty, though that has doubtless 
+        counted heavily. It has been much more than 
+        that. It has been a dream of being able to 
+        grow to fullest development as a man and woman, 
+        unhampered by the barriers which had slowly 
+        been erected in the older civilizations, 
+        unrepressed by social orders which had 
+        developed for the benefit of classes rather 
+        than for the simple human being of any and 
+        every class.”
+</preformat></para><para id="eip-61">Only in America could a working class youth named Thomas Edison with less than three years
+of schooling develop himself into the world’s greatest inventor—a visionary who gave the world some of the most important technologies of late nineteenth- and early twentieth-century life.</para><para id="eip-706">This is exactly what the Founders had in mind when they created the U.S. patent system.</para><exercise id="eip-923"><problem id="eip-116">
+  <para id="eip-584">
+    How many years after the first patent law was signed in 1790 did it take for the United States to surpass Britain in the number of new inventions being patented?
+<preformat id="eip-id7323040">
+         A. 75 years
+         B. 40 years
+         C. 100 years
+</preformat>
+  </para>
+</problem>
+
+</exercise><exercise id="eip-725"><problem id="eip-82">
+  <para id="eip-471">
+    Historically, in the United States, there have been major surges in new patent filings after which of the following?
+<preformat id="eip-id1166285397813">
+         A. A sharp increase in patent litigation
+         B. New technological advances leading to the birth of new industries
+         C. A Supreme Court decision on a major patent case
+         D. None of the above
+</preformat>
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-330"><problem id="eip-6">
+  <para id="eip-388">
+    What percentage of entrepreneurs say that patents are vital to securing venture funding?
+<preformat id="eip-id2146216">
+         A. 20 percent
+         B. 40 percent
+         C. 67 percent
+</preformat>
+  </para>
+</problem>
+
+ 
+</exercise><exercise id="eip-502"><problem id="eip-290">
+  <para id="eip-111">
+    The United States was the only nation to define its greatness in its capacity for which of the following?  
+<preformat id="eip-id1169843850106">
+         A. Economic growth
+         B. Military superiority
+         C. Bringing freedom to oppressed elsewhere in the world
+         D. Technological progress
+</preformat>
+</para>
+</problem>
+ </exercise></section><section id="eip-893"><title>Section 1.6: Patent-Eligible Inventions</title><list id="eip-91"><title>After completing this section, you will be able to:</title><item>Identify the characteristics of a patentable invention.</item>
+<item>Understand what is not patentable and why.</item>
+</list><para id="eip-452"><title>What, Exactly, Can You Patent?</title>Title 35 of the United States Code (<emphasis>the Patent Act</emphasis>) allows anyone who invents or discovers any new, non-obvious, and useful machine, manufacture, process, or composition of matter—or who makes an improvement of any of the above—to obtain a patent.<footnote id="footnote43">				
+35 U.S.C § 101. 
+</footnote>
+</para><para id="eip-311">These four kinds of patentable inventions fall into one of two categories: They are products or processes.<footnote id="footnote44">				
+Arthur R. Millerand Michael H. Davis, <foreign>Intellectual Property: Patents, Trademarks, and Copyright in a Nutshell.</foreign> (5th ed., p. 25). St. Paul MN: West Publishing Co., 2007.
+</footnote></para><para id="eip-436"><title>Product or Process?</title>Products are physical things—whether they be machines (a new type of robotic welder), manufactures (an artificial knee made of titanium), or compositions of matter (a new chemical “superglue” for binding materials together). In this photo, Elon Musk observes the robotic arms in the Tesla Motors factory. Specialized manufacturing equipment like this are patentable products.</para><para id="eip-626">Processes (or methods), on the other hand, are a means to an end—either a means of doing something new (being able to pay for purchases directly from your smartphone), or a new way of doing something old (using “pinch, swipe, and zoom” gestures on a touchscreen, rather than clicking drop-down menus, to manipulate text, music, and images on a smartphone).</para><para id="eip-345"><title>Product or Process?</title></para><para id="eip-657"><title>You Cannot Patent Ideas</title>All patented inventions fit into one of these four categories: machine, manufacture, process, or composition of matter. But not everything that fits in one of these four categories can be patented. And the most important reason why one thing is patentable and another is not lies in the difference between ideas and applications.</para><para id="eip-496">You cannot patent an idea for a better mousetrap—not unless it can be developed into a new, non-obvious, and useful machine, manufacture, process, or composition of matter that can actually accomplish the task. You may have a genius idea for faster-than-light travel, but that will not get you a patent unless you can outline how to develop a tangible process or device for actually doing so, in which case you can seek to patent it.</para><para id="eip-806">Put another way, “talk is cheap” when it comes to securing a patent. The U.S. Patent and Trademark Office offers no judgment as to the wisdom or desirability of any particular invention—<emphasis>patent No. 2,882,858</emphasis> for a bird diaper is certainly proof of that. But it absolutely will insist that every invention include a tangible device or process for achieving its intended purpose before it deems the invention worthy of a patent.
+</para><para id="eip-776"><title>Mathematical Formulas Not Patentable</title>There are other discoveries that fall into the broad category of abstract ideas and are thus unpatentable. You cannot patent a mathematical formula. You cannot patent a law of nature, such as Einstein’s E=MC<sup>2</sup>. And you cannot patent natural phenomena like electricity (discovered by William Gilbert in 1600) or the Higgs particle that gives all matter its mass (discovered by researchers at the Large Hadron Collider on July 4, 2012). These all exist independently of human intervention, whether we have discovered them or formulated their rules yet or not, and must be freely available to all of humanity for its understanding and betterment.</para><para id="eip-631">To restate the distinction, you cannot patent electromagnetism but you can patent a telegraph that uses electromagnetism to communicate rapidly over great distances, as Samuel Morse did in 1840 with patent no. 1647. And although you cannot patent light waves, you can patent a fiber optic wire that employs light waves to communicate even more rapidly and over greater distances, as Corning Glass researchers did in 1970 with patent no. 3,711,262.</para><para id="eip-894"><title>Can You Patent Computer Software?</title>The boundary between ideas and applications might seem clear, but it has become blurred since the advent of computer technology 40 years ago, especially regarding the patentability of software.</para><para id="eip-268">To learn more, watch the video below, from PBS Digital Studios, about the first software patent ever awarded and to learn a bit about the debate around software patentability.</para><para id="eip-790"><title>Mixed Verdicts on Software Patentability</title>The federal courts and the U.S. Supreme Court have tried to clarify the limits of patentability in the computer age. Three Supreme Court cases in particular—often called the “patent-eligibility trilogy”— reveal the evolution of its thinking about software patentability.</para><para id="eip-922">In 1972, the Supreme Court held in <emphasis><foreign>Gottschalk v. Benson</foreign></emphasis> that an algorithm in a computer program—in this case, a mathematical procedure executed electronically that was similar to long division with paper and pencil—was in and of itself not patentable. Phenomena of nature, mental processes, and abstract intellectual concepts are the basic tools of scientific and technical research, the court noted, and therefore could not be patented lest it foreclose others from using the algorithm and thereby stifle rather than promote technological progress. Granting a patent in this case, the court said, would be analogous to having granted Samuel Morse a patent covering all possible uses of electromagnetism in communications, rather than for the specific method and apparatus he actually invented.</para><para id="eip-92">The court made a point of saying, however, that its decision did not mean that computer software could not be patented—only that software whose only useful characteristic was an abstract algorithm could not be patented.</para><para id="eip-328">The Supreme Court further refined its thinking on software patentability in the 1978 case <emphasis><foreign>Parker v. Flook.</foreign></emphasis> Unlike the attempt to patent all uses of an algorithm in the Benson$ case, here the use of a software algorithm was limited to a specific application — setting off an alarm during the catalytic chemical conversion of hydrocarbons. This was a specific and tangible use of an algorithm, but the Court still ruled the software unpatentable because it felt the application itself was not inventive.
+</para><para id="eip-849">But once again, the Court left the door open: “Even though a phenomenon of nature or mathematical formula may be well known, an inventive application ... may be patented.”</para><para id="eip-169">Three years later, the Supreme Court made its third attempt to define the patent-eligibility of software. In <emphasis><foreign>Diamond v. Diehr</foreign></emphasis>, the Court ruled that although algorithms by themselves are not patentable, a software program that used algorithms to govern the molding of raw synthetic rubber into cured precision products was in fact patentable because it involved “transforming or reducing an article to a different state or thing.”</para><para id="eip-645"><title>The Software Picture Blurs Even More</title>Taken together, the three rulings appeared for a time to arrive finally at a coherent definition of software patentability— namely, that although algorithms by themselves are abstract concepts and therefore unpatentable, software programs may be patented if they employ algorithms to produce a tangible and inventive or transformative result. This view was further augmented by a 1998 U.S. Court of Appeals for the Federal Circuit decision in <emphasis><foreign>State Street Bank v. Signature Financial Group</foreign></emphasis>, which extended software patentability to software-enabled methods of doing business so long as these produced a “useful, concrete, and tangible result.”</para><para id="eip-933">But this definitional equilibrium was not to last. The “useful, concrete, and tangible result” test in <foreign>State Street Bank</foreign> was rejected ten years later by the same court in <emphasis><foreign>In re Bilski</foreign></emphasis>, which upheld the USPTO’s denial of a patent for a method of hedging risk in commodities trading. The court instead offered a “machine or transformation” test, which allows a software program or business method to be patented only if it is implemented on a specific machine to achieve a special purpose that is novel, non-obvious, and useful; it transforms an article from one thing or state to another.</para><para id="eip-729">But in its review of <emphasis><foreign>Bilski v. Kappos</foreign></emphasis>, the Supreme Court ruled that while the “machine or transformation” test was useful, it was not the only test for patentability. In addition to the “machine or transformation” test, the court decreed (rather vaguely) that any future test should be “grounded in the examples and concepts” expressed in its original “patent-eligibility trilogy” of opinions. They thus reaffirmed that business methods may indeed be patentable.</para><para id="eip-144"><title>Finally, a “Pretty Clear” Message</title><preformat id="eip-id1164172996571">
+     <foreign>“You can’t take a commonplace human 
+      activity, do it with a computer, and call 
+      that a patentable invention.”</foreign>
+                                  -Timothy B. Lee
+</preformat></para><para id="eip-569">While businesses and the courts were trying to figure out what the other tests for patentability might be, the Supreme Court provided further input with its March 2012 decision in <emphasis><foreign>Mayo Collaborative Services v. Prometheus Laboratories</foreign></emphasis>. Here, the court ruled that a process enabling physicians to correlate blood test results with medication levels to achieve the most appropriate dosages was ineligible for patent protection.”</para><para id="eip-871">But then in June of 2014, The Supreme Court issued what may prove to be its most consequential decision on the patentability of software in the 33 years since <foreign>Diamond v. Diehr.</foreign> In <foreign>Alice v. CLS Bank,</foreign> the Court ruled that taking some activity that people have been doing for centuries — in this case, holding funds in escrow until a transaction is completed — and then merely “doing it through a computer” did not turn this age-old activity into a patentable new invention.</para><para id="eip-132">At first, many observers believed that the effects of the <foreign>Alice v. CLS Bank</foreign> ruling would be very limited. Only the patent in the suit was invalidated, after all, not all software patents. What’s more, the abstract reasoning of the court in its decision did not provide clarity on how the ruling may or may not apply to other kinds of software patents — for example, the sort of software used in manufacturing that was ruled patentable in the 1981 <foreign>Diamond v. Diehr</foreign> case.</para><para id="eip-728"><preformat id="eip-id2761797">
+       <foreign>“The courts are sending a pretty clear 
+        message: you can’t take a commonplace human 
+        activity, do it with a computer, and call that 
+        a patentable invention.”</foreign> 
+                                       -Timothy B. Lee
+</preformat></para><para id="eip-873">But by October of 2014, a series of lower court decisions applying the new <foreign>Alice v. CLS$ Bank</foreign> standard had invalidated 13 additional software patents. As technology policy journalist Timothy B. Lee noted, “The courts are sending a pretty clear message: you can’t take a commonplace human activity, do it with a computer, and call that a patentable invention.”</para><para id="eip-391">How far reaching will the impact of <foreign>Alice v. CLS Bank</foreign> be? “This doesn’t necessarily mean that all software patents are in danger,” Lee noted, because the patents involved “were particularly vulnerable to challenge under the new <foreign>Alice</foreign> precedent. But it does mean that the pendulum of patent law is clearly swinging in an anti-[software] patent direction.”</para><para id="eip-173"><title>Overcoming the Alice Paradox</title>By late 2015, however, it was clear that the <foreign>Alice</foreign> ruling was having an impact not only on patent law, but also on the innovation process itself within corporate America.</para><para id="eip-550">As John Cronin, a former top inventor at IBM and now the CEO of the innovation-on-demand firm ipCreate, observes: “The highest-value products and services today—the ones that increasingly drive margins in business—involve cloud computing, Big Data, machine learning, connectivity, mobility and location-based services, and on-demand and anything-as-a-service software applications and business processes. But ironically, these high-value innovations are also the most difficult to patent nowadays as a result of the Supreme Court’s <foreign>Alice</foreign> decision.”</para><para id="eip-251">Cronin calls this the “<foreign>Alice</foreign> Paradox,” and it has left many in-house patent groups struggling for a solution. One thing is clear: To be patentable nowadays, software has to take a genuinely-inventive step and either trigger an action, employ a device, or in some other way produce a tangible transformative result.</para><para id="eip-533">In addition, smart companies are trying to address patentability issues involving software and business processes much earlier in the innovation cycle, before huge investments are made in R&amp;D that may turn out to be not patentable.
+</para><para id="eip-620">Overall, addressing the “<foreign>Alice</foreign> Paradox” will be critical for many companies because patenting clearly adds value to a new product or service. In a groundbreaking joint study from Carnegie Mellon University, Georgia Institute of Technology, and Duke University entitled “R&amp;D and the Patent Premium,” economists found that “the patent premium for innovations that were patented is substantial. Firms earn on average a 50% premium over the no patenting case, ranging from 60% in the health-related industries to 40% in electronics.”<footnote id="footnote45">					
+Ashish Arora, Marco Ceccagnoli, and Wesley M. Cohen, <foreign>“R&amp;D and the Patent Premium,”</foreign> Science Direct, International Journal of Industrial Organization Issue 26, 2008.
+</footnote></para><para id="eip-359"><title>The Debate on Software Continues</title>The debate over the dividing line between patentable versus unpatentable computer software-related inventions continues—in corporate R&amp;D  labs  and in the courts.</para><para id="eip-514">However, there are some who don’t believe that software and business methods should be patented under any conditions. They argue first of all that software is different from other industries—more iterative and more incremental, with each advance building upon thousands of previous advances. Therefore, their thinking goes, software should not be entitled to patents that ought to be more properly reserved for truly breakthrough or revolutionary inventions.</para><para id="eip-35">There are two problems with this argument. First, as anyone in the semiconductor,  chemical,  or  medical device industries can attest, innovation is no more iterative, incremental, or cumulative in software than is innovation in many other industries. Indeed, there are probably just as many or more patents for incremental semiconductor inventions that build modestly upon earlier work as there are patents for incremental software inventions that do the same.</para><para id="eip-547">As patent scholar and veteran practitioner Paul Janicke of the University of Houston put it, “There really are no breakthrough inventions—at least not in the sense imagined by these critics. Everything moves one step at a time. In fact, every time I thought I encountered a large leap, it turned out that I didn’t know the full extent of the prior art.”</para><para id="eip-441">The second problem with their  logic  is  that the Founding Fathers specifically designed the patent system to encourage precisely this kind of incremental invention, so that ordinary people— using only the basic technical skills possessed by most citizens—could participate in rapidly developing the economy from the ground up. This was a very different approach than that of elitist European patent systems of the day, and it produced results that the rest of the world very soon came to envy (see “Section 1.5: What the U.S. Patent System Wrought”).</para><para id="eip-958">As the October 21, 1876, issue of Scientific American noted, “In the aggregate the little things—which in England or the continent would not or could not be patented—probably add more to the wealth and wellbeing of the community … than the great things do.” Or to quote Thomas Jefferson himself: “A smaller [invention], applicable to our daily concerns, is infinitely more valuable than the greatest which can only be used for great objects.”<footnote id="footnote46">					
+From Jefferson’s letter to George Fleming in 1815,
+excerpt from <foreign>The Jefferson Cyclopedia,</foreign> courtesy of
+B. Zorina Khan.
+</footnote>
+Any uncertainty  over  the  validity  of  incremental patenting was removed once and for all by the Patent Act of 1952. Consistent with the Founders’ intentions, U.S. law now explicitly holds that patent eligibility is not restricted solely to revolutionary inventions or “flash of genius” discoveries, but also includes more iterative advances in the state of the technological art so long as these meet the requisite novelty, non-obviousness, and utility criteria.
+</para><para id="eip-332"><title>Evidence Shows Software Patents Don’t Hinder Innovation</title>Another argument made by critics of software patenting is that patents stifle innovation and foster monopolization in the software industry. Research, however, suggests that this is decidedly not the case.<footnote id="footnote47">					
+Robert Merges, <foreign>“Patents, Entry and Growth in The Software Industry,”</foreign> University of California at Berkeley School of Law, Berkeley, California, 2006. Retrieved from: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=926204 
+</footnote> 
+If anything, in fact, the software industry has become even more innovative, more diversified, and more start-up friendly since patenting became common in the 1990s. You need only look at the huge proliferation of highly innovative start-ups in today’s social media and apps software fields to see just how erroneous the claim is that software patents stifle innovation. Or consider for a moment the fate of the Blackberry, once dominant but within the space of a couple of years superseded by more innovative competing smartphone makers.</para><para id="eip-851">Finally, some critics insist that the intangible nature of software ought to disqualify it from patentability. But as noted earlier, the Supreme Court has affirmed repeatedly that although abstract concepts cannot be patented, software that employs algorithms to produce a tangible and inventive result — e.g., software that governs the molding of raw synthetic rubber into cured precision products — may be patented.</para><para id="eip-158">It’s also helpful to view this issue in a larger context. Forty years ago, 80 percent of the market value of all public companies resided in their tangible physical assets—their plant, equipment, and raw materials. In today’s Knowledge Economy, however, it is intangible assets—intellectual property—that make up 80 percent of the market value of public companies.<footnote id="footnote48">					
+Op. cit., Ocean Tomo.
+</footnote></para><para id="eip-300">Indeed, the entire history of economic progress on our planet may be described as one long climb by humanity up the ladder of abstraction—from brute force to the subtle use of energy, from wealth derived from tangible resources and industrial machinery to wealth derived from  ever-more  ingenious  ways  to deploy that energy and those resources. It seems only logical, therefore, to expect that invention itself should follow a similar trajectory—from the realm of the tangible to the realm of the intangible.</para><para id="eip-663">Ironically, the debate over patents for software, business methods, and other intangible inventions is nowhere more heated than on the Internet, itself an intangible realm in which “virtual” businesses launched with little more than hope and electrons (e.g., Facebook) are creating real and substantial wealth in the form of new products, new services, new jobs, and new economic growth for society. Yet strangely, those who have no trouble accepting the Internet as the intangible fruit of information age invention seem to get stuck in industrial age conceptions of what should and should not be patentable.</para><para id="eip-881">Odd perhaps, but not surprising. The expansion of patentable subject matter into new and more intangible realms has always met with resistance. Patents involving the use of electricity were condemned 140 years ago, as were biotechnology patents 30 years ago, and of course software patents when they began to appear in large numbers 20 years ago. In each case, critics warned that these new kinds of patents would hold back further scientific discovery and innovation. Yet in each case, innovation and discovery actually intensified and their benefits to society multiplied.
+</para><para id="eip-14"><title>When Gene-Related Inventions Are Patentable</title>A similar resistance is also developing toward gene-related patents. These began to be issued in significant numbers after the Supreme Court’s 1980 ruling in <foreign>Diamond v. Chakrabarty</foreign>, which upheld the first patent on a newly-created living organism — a bacterium for digesting crude oil in oil spills. Since then, patents have been granted for isolated gene sequences, but so far only on those with known functions and not on naturally- occurring genes in humans or other organisms. Patents have also been granted for gene sequences used in diagnostic testing, and on gene sequences that have been altered to make them more useful in a specific application.</para><para id="eip-443">In March of 2010, however, a federal district court judge ruled in the case of <foreign>Myriad Genetics</foreign> that even isolated DNA is fundamentally the same as naturally- occurring DNA and is therefore ineligible for patenting. His ruling was reversed by the U.S. Court of Appeals for the Federal Circuit in July, 2011. But the Supreme Court then set aside that decision and directed the appeals court to once again review the case in light of its March, 2012 <foreign>Prometheus</foreign> decision. On August 16, 2012, however, the U.S. Court of Appeals for the Federal Circuit once again reaffirmed Myriad’s right to patent the isolated genes BCRA1 and BCRA2, which are involved in most inherited forms of breast and ovarian cancer.</para><para id="eip-705">On June 13, 2013, however, the U.S. Supreme Court finally determined in a unanimous decision that a naturally occurring DNA segment is a product of nature and cannot be patented merely because it has been isolated, thereby invalidating Myriad’s patents on the BRCA1 and BRCA2 genes. The Court did rule, however, that the manipulation of a gene to create something not found in nature — such as a strand of synthetically-produced complementary DNA (cDNA) — could still be eligible for patent protection.</para><para id="eip-325">To the average citizen—and perhaps to many patent lawyers as well—all this legal hairsplitting over the limits of patentability in the computer age must seem a bit like the debates in medieval times over how many angels can dance on the head of a pin. But two critical points must be borne in mind regarding these debates.</para><para id="eip-644">First, no matter what anyone thinks the limits of patentability in an ideal world ought to be, out in the real world where we actually live, software, business method, and gene patents are multi- billion-dollar facts of life that businesses ignore only at their peril.</para><para id="eip-529">Second, whatever confusion may exist today, the debates over patentability in the computer age will almost certainly be resolved eventually to most people’s satisfaction, just as all previous debates over patentability have. For if nothing else, the two hundred year-plus history of the courts and the patent office demonstrate a remarkable ability on the part of these institutions to adapt to the challenges posed by new technologies and new economic conditions.</para><exercise id="eip-247"><problem id="eip-408">
+  <para id="eip-164">
+    A patentable invention is a new, novel, and non-obvious machine, manufacture, process, or composition of matter. Which of the four types of inventions categories do these hypothetical mousetrap inventions represent?
+<preformat id="eip-id1164446353400">
+         A. A mouse ray gun 
+         B. Exploding mouse glue
+         C. A new way to catch mice using sound waves
+         D. A mouse-destroying missile
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-457"><problem id="eip-895">
+  <para id="eip-106">
+    All patentable inventions fall into two broad categories—they are products or processes. Which category do the following fall into?
+<preformat id="eip-id2096164">
+         A. A machine
+         B. A means to an end
+         C. A composition of matter 
+         D. A manufacture
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-952"><problem id="eip-103">
+  <para id="eip-786">
+    Can an idea for a better mousetrap be patented?
+<preformat id="eip-id1169833876787">
+         A. Yes, so long as you outline the idea in detail. 
+         B. No, you can’t patent a mere idea.
+</preformat>
+  </para>
+</problem>
+ </exercise><exercise id="eip-27"><problem id="eip-459">
+  <para id="eip-666">
+    Which of the following is NOT patentable?
+<preformat id="eip-id1169524322180">
+         A. Electricity
+         B. A random number generator
+         C. A device that uses electricity to communicate
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-209"><problem id="eip-598">
+  <para id="eip-361">
+    When might a software be patentable?
+<preformat id="eip-id1165785548478">
+         A. If it contains a new, non-obvious, and useful algorithm 
+         B. If it uses algorithms in a GPS navigation system
+         C. If it records the sale of T-shirts over the Internet 
+         D. None of the above
+</preformat>
+  </para>
+</problem>
+
+ 
+</exercise><exercise id="eip-581"><problem id="eip-340">
+  <para id="eip-559">
+    Which of the following cases was NOT one of the Supreme Court’s “software-eligibility trilogy” of cases?
+<preformat id="eip-id1164168071178">
+         A. <foreign>Gottschalk v. Benson</foreign>
+         B. <foreign>Williams &amp; Wilkins v. United States</foreign>
+         C. <foreign>Parker v. Flook</foreign>
+         D. <foreign>Diamond v. Diehr</foreign>
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-621"><problem id="eip-46">
+  <para id="eip-286">
+    Which court case most severely limited software patentability?
+<preformat id="eip-id1167414338217">
+         A. State Street Bank v. Signature Financial Group 
+         B. In re Bilski
+         C. Mayo Collaborative Services v. Prometheus Laboratories 
+         D. Alice v. CLS Bank
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-112"><problem id="eip-145">
+  <para id="eip-906">
+    What is the so-called “Alice paradox”?
+<preformat id="eip-id1166284141785">
+         A. The highest-value new software products and services are also hardest to patent.
+         B. You can get software patents, but you can’t enforce them. 
+         C. You can only patent software that replicates human activity. 
+         D. None of the above
+</preformat>
+</para>
+</problem>
+ 
+</exercise><exercise id="eip-541"><problem id="eip-221">
+  <para id="eip-823">
+    Patents should only be granted for big revolutionary breakthroughs. True or False?
+<preformat id="eip-id1169850492664">
+          True
+          False
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-386"><problem id="eip-724">
+  <para id="eip-69">
+    Which of the following Supreme Court cases held that a naturally occurring DNA segment CANNOT be patented?
+<preformat id="eip-id1167414464366">
+         A. <foreign>Mayo Collaborative Services v. Prometheus Labs., Inc. </foreign>
+         B. <foreign>Association for Molecular Pathology v. Myriad Genetics, Inc.</foreign>
+         C. <foreign>Nautilus, Inc. v. Biosig Instruments, Inc.</foreign>
+</preformat>
+  </para>
+</problem>
+ 
+</exercise></section><section id="eip-969"><title>Section 1.7: Criteria for Patenting</title><list id="eip-944"><title>After completing this section, you will be able to:</title><item>Identify the criteria that an invention must meet to earn a patent.</item>
+<item>Understand why non-obviousness is the most difficult hurdle to overcome.</item>
+ </list><para id="eip-782"><title>Can I Patent That?</title>Before reading this section, please watch this overview video covering what you can and cannot patent. You can’t patent an idea (like an idea for a better mousetrap), only an application of that idea in a practical invention. Novelty, utility, and non-obviousness — the holy trinity of patents.</para><para id="eip-70">Now that you’ve learned what can be patented and what cannot, we will next examine the criteria for determining if a patent-eligible invention actually merits one. These criteria center around three concepts mentioned in the previous section and enumerated in the Patent Act: novelty, utility, and non- obviousness.<footnote id="footnote49">					
+35 U.S.C.§101, §102, and §103
+</footnote></para><para id="eip-730">Let’s discuss these three concepts in greater detail.</para><para id="eip-845"><title>Novelty</title>The requirement in Sections 101 and 102 of the Patent Act for  <emphasis>novelty</emphasis> in an invention means that to qualify for a patent, a machine, manufacture, process, or composition of matter must not have been previously described or known. Specifically, it must not have been patented, described in an unpublished or published patent application, explained in a printed publication such as an article or technical paper, or publicly known prior to the filing date of the new patent application. In addition, it must not have been published, used in public, or offered for sale by the applicant or his colleagues more than 12 months prior to the filing of a patent application.</para><para id="eip-842">If any of the above is true of an invention, it is said to have been “anticipated” and cannot be patented. These novelty requirements exist whether the “prior art”—the catchall term for any previous patent, publication, or use—is domestic or foreign.</para><para id="eip-150">This does not mean, of course, that your faster-than-light warp drive is unpatentable simply because it was envisioned in a general way in episodes of <foreign>Star Trek</foreign> and its successors’ television shows, and in many <foreign>Star Trek</foreign> books.</para><para id="eip-947">“It is not enough that an invention be suggested by the literature,” explains the eminent New York University scholar Arthur R. Miller and his coauthor Michael H. Davis’ in  their  textbook for law students.<footnote id="footnote50">					
+Op. cit., Miller &amp; Davis.
+</footnote>
+“Nor is it sufficient that the literature made the invention inevitable—that bears on the question of non-obviousness. The test, with one major exception, is whether enough of the invention has been disclosed to enable a person skilled in the applicable art to duplicate the product or process.”</para><para id="eip-945">That one exception, writes Miller and Davis, is public use of the invention. In that case, even a limited disclosure that does not reveal the secrets of the invention can still foreclose a patent if the public use of it “discloses the invention’s benefits.”</para><para id="eip-414"><title>Prior Art Must Be Enabling</title>In the era of social media, the previously mentioned requirements could pose a novelty barrier if not handled properly.</para><para id="eip-833">For instance, if you develop a new watch that displays information from an iPhone, and then disclose it on the crowdsourced funding site Kickstarter in order to raise capital from thousands of small-time investors, then you will probably want to file a patent application prior to, or certainly no later than a year after, your disclosure of the benefits of your watch to the public.</para><para id="eip-627">But in the absence of such public use, disclosure in prior art must be substantial and enabling to be disqualifying.</para><para id="eip-755">As patent attorney and writer of the widely read <foreign>IP Watchdog</foreign> blog Gene Quinn explains:
+<preformat id="eip-id3430252">
+       “What <foreign>Star Trek</foreign> teaches is the idea of warp speed 
+        wit some suggested articulation of how it could be 
+        achieved. But that’s not informing enough. Someone 
+        could not make and use the device based on what is 
+        taught in <foreign>Star Trek</foreign>. So if you actually figure out 
+        how to make a faster-than-light warp drive work— 
+        and can describe it sufficiently so that someone 
+        skilled in the science of space propulsion could 
+        build it—then yes, it would be patentable.”
+
+Take heart, <foreign>Star Trek</foreign> fans!
+</preformat>
+</para><para id="eip-407"><title>Utility</title>As the <foreign>Star Trek</foreign> example suggests, the novelty issue can also touch on the question of utility—the second patentability criteria. Utility has a special meaning in patent law, which is simply that an invention must function and be of some benefit qualitatively—although no minimum  quantum of benefit is necessary. The landscape of business is littered with companies that have invented not very useful or necessary products. But these may satisfy the requirement for utility if at least someone would find them useful.
+</para><para id="eip-183">But snake oil medicines and other products that do not work in any meaningful way will not meet the requirement for utility. “The inventor of an ineffective drug may not obtain a patent merely because he convinces gullible patients that it has a non-existent curative effect,” Miller and Davis note. “It is not so much that it lacks a minimum quantum of benefit (the patients may find it subjectively useful), but it is, instead, that it has an impermissible fraudulent quality.”</para><para id="eip-338">Even when no fraud is intended, the utility of a product or  process must  be demonstrate in a patent application—not presumed, but affirmatively demonstrated. Simply put, the thing or the method you have invented must actually work as it is intended and claimed to work.</para><para id="eip-206">“Forget <foreign>Star Trek</foreign> for a moment,” says Quinn. “On a more mundane level, the USPTO used to deny patents for methods and compositions for re-growing hair. These were seen as lacking utility because re-growing  hair  was  believed to be impossible. Finally, someone was able to prove that his method and composition actually re-grew hair on a bald scalp. The patent examiners withdrew their rejection, and patents for such products have issued ever since.”</para><para id="eip-752">Interestingly, Quinn explains, since the earlier patent applications on hair-growing products didn’t describe anything that actually worked, they could not be used under the novelty bar to block later patent applications for hair-growing products that did work.</para><para id="eip-578"><title>Non-Obviousness</title>An invention may be new. It may also have utility. But to meet the criteria for a patent, it must also be  <emphasis>non-obvious</emphasis> under Section 103 of the Patent Act.</para><para id="eip-864">Let’s now dig deeper into the requirements of the concept of non-obviousness.</para><para id="eip-458"><title>Requirements</title>The  requirement  for  non-obviousness   may be illustrated with a fanciful example. If the number 4 were an invented product rather than a mathematical symbol, then even though the number 4 had never been invented before and was thus novel, it would still not be patentable. That’s because someone skilled in the art could have put 2 and 2 together to come up with it.</para><para id="eip-799">But to offer a more practical example, say you invent a wheeled cart to move office  supplies more easily between departments. If this is the first such wheeled office cart in history, you can get a patent for it. But if you then decide, “Hey, why not put those wheels on a chair?” you won’t get a patent for it. That’s because combining two such widely-known and available elements would be obvious to anyone skilled in the art of office furniture design.</para><para id="eip-918">But things are not so obvious when it comes to inventing a camera phone. Even though it’s composed of well-known and widely-available components, combining the two did satisfy the requirement for non-obviousness because it became more than the sum of its parts and met a large and previously-unfilled need in the marketplace. The millions of people who take selfies everyday is certainly proof of that.</para><para id="eip-605">There are various ways of presenting  evidence  that your invention satisfies the  non-obvious  requirement for patentability. You can demonstrate that the existing elements of your invention, although individually already known, yield an unexpected or hidden result. Or you can show that your invention, although composed of well- known and widely available components, when combined satisfies a long-felt but previously unfilled need in the marketplace, thus indicating  its  non-obviousness.  Both of these demonstrations of non-obviousness apply to the camera phone example above.</para><para id="eip-973"><title>The One-Click Patent</title>Some people criticized the so-called “one-click” patent granted by the USPTO to Amazon.com in 1999 for Amazon’s system enabling customers to buy an item with a single click of the mouse— with the payment information needed to complete the purchase already having been entered by the user previously.</para><para id="eip-285">They contended that although Amazon might have been the first company to employ the process, it was an obvious and inevitable iteration of already- existing mouse-clicking procedures for making a purchase online. The patent office reexamined the patent, however, and in 2007 upheld the validity and the bulk of its major claims.</para><para id="eip-329">It is important to note that it’s an invention’s function that is often examined to determine obviousness. “Even though it may be obvious that a certain object can be constructed in a certain way, its utility and novelty may lie in its functional use, not its construction,” write Miller and Davis. “Therefore, the prior art must be used to determine whether the invention’s new and useful function, not its construction, is non-obvious.”</para><para id="eip-671">During the first half of the twentieth century, the courts often saw an invention as obvious when it lacked a “flash of genius” and was merely an incremental advance over the state of the art as opposed to what they imagined would be a “revolutionary” breakthrough discovery. But that subjective interpretation of inventiveness was overturned by the 1952 Patent Act, which codified a more objective standard—namely, that whether an invention is developed through laborious trial and error or through a eureka flash-of-genius moment has no bearing on its obviousness or non-obviousness.</para><para id="eip-465"><title>Overcoming Patent Hurdles</title>Taken together, the three patenting criteria— novelty, utility, and non-obviousness—function like the obstacles in an Olympic hurdles race. The utility hurdle is easiest to overcome. The novelty hurdle less so. But by far, the highest hurdle facing inventors is non-obviousness.
+</para><para id="eip-343">“The vast majority of all rejections at the patent office are for obviousness reasons,” explains retired Chief Judge Paul Michel of the U.S. Court of Appeals for the Federal Circuit, the main court that handles patent appeals. “And it’s not very difficult to see why. Given the millions of patented inventions over the decades, the tens of millions of past and current products on the market, it’s not all that easy to come up with an invention that is not only novel but also truly non-obvious to someone with ordinary  skill  in the state of the art.”</para><para id="eip-370">Many believe that the criteria for patenting weakened in the late 1990s and early 2000s, and that as a result, too many poor-quality patents were issued. To the extent this problem exists, one of its likeliest causes is the fivefold increase in patent applications that has taken place over the last 30 years without a commensurate increase in USPTO funding, resources, and capabilities.</para><para id="eip-757">Despite these challenges, the USPTO has  made  substantial  progress  in the last five years in improving examiner training and tools, reducing the backlog of pending applications, and  strengthening  the  quality  of the examination process for patent applications. This progress has been made despite oftentimes-unclear or contradictory patentability rulings from the courts.</para><para id="eip-314">Patent quality is essential to the maintenance of public confidence in the patent system. After all, when property rights (either real or intellectual) are seen as overbroad, ill-defined, or illegitimate, individuals and businesses are more willing to trespass on them.</para><exercise id="eip-582"><problem id="eip-866">
+  <para id="eip-445">
+    Which of the following is NOT a requirement for patent eligibility?
+<preformat id="eip-id1169834581636">
+         A. Novel 
+         B. Revolutionary 
+         C. Non-obvious 
+         D. Useful
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-700"><problem id="eip-727">
+  <para id="eip-557">
+    What does the term “prior art” refer to?
+<preformat id="eip-id1165787009793">
+         A. Any previous private discussions of an invention or its components 
+         B. Any previous patent, publication, or public use of an invention
+         C. Any previous speculation about an invention 
+         D. None of the above
+</preformat> 
+  </para>
+</problem>
+
+ 
+</exercise><exercise id="eip-955"><problem id="eip-485">
+  <para id="eip-698">
+    If you invent a starship warp drive, <foreign>Star Trek</foreign> would be considered prior art and your invention would be ineligible for a patent. True or False?
+<preformat id="eip-id1169845151671">
+          True
+          False
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-208"><problem id="eip-787">
+  <para id="eip-639">
+    To meet the requirement for utility, which of the following must an invention do?
+<preformat id="eip-id1169841517045">
+         A. Work or function as intended 
+         B. Be of some benefit to society
+         C. Be a worthwhile product, process, or composition of matter 
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-975"><problem id="eip-775">
+  <para id="eip-301">
+    Why would combining a camera with a cell phone in a smartphone pass the test for non-obviousness, whereas putting wheels from a chair onto an office cart would not?
+<preformat id="eip-id1164439363044">
+         A. The technology in a smartphone is much more complicated. 
+         B. Putting wheels from a chair onto a cart is less difficult.
+         C. Combining a camera and a cell phone produced an unexpected result.
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-720"><problem id="eip-610">
+  <para id="eip-874">
+    Of the three criteria for patenting, which is the most difficult to surmount?
+<preformat id="eip-id1170147838370">
+         A. Utility
+         B. Novelty
+         C. Non-obviousness
+</preformat>
+  </para>
+</problem>
+
+ 
+</exercise></section><section id="eip-852"><title>Section 1.8: Other Types of Patents</title><list id="eip-867"><title>After completing this section, you will be able to:</title><item>Explain the diff  ences among utility, plant, and design patents.</item>
+<item>Describe common patent misconceptions.</item>
+ </list><para id="eip-204">Up to this point, we have focused only on the most common types of patents, called <emphasis>utility patents</emphasis>, which preclude others from making, using, or selling the invention during the term of the patent, which begins on the grant date and ends 20 years from the filing date (for an average of 17 to 18 years). But in addition to these, the Patent Act also provides for two other types of patents—<emphasis>plant patents</emphasis> and <emphasis>design patents</emphasis>.
+</para><para id="eip-604"><title>Plant Patents</title>Plant patents were first created by the <link document="m10275" version="2.1">Patent Act of 1930</link><link url="http://www.uspto.gov/web/offices/pac/mpep/s1601.html" window="new"/>, which had been proposed by Luther Burbank to protect new species of asexually reproduced plants, mostly flowers. These are different than the utility patents granted to bioengineered plants used in agriculture. The United States was the first country in the world to grant plant patents, and even today many countries continue to deny protection for plants. Indeed, even some signatories to the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) administered by the World Trade Organization (WTO) reserve the right to deny patents for plants.</para><para id="eip-950">Although the requirements for plant and design patents are substantially the same as those for utility patents, there are some crucial differences. The most important of these is the substitution of a different test for one of the three criteria for patentability discussed in the previous section.</para><para id="eip-499">Instead of novelty, utility, and non-obviousness, the criteria for plant patentability are novelty, <emphasis>distinctiveness</emphasis>, and non-obviousness. To be patentable, plants must be cultivated rather than found in the wild, and plant patents are granted only to protect a new, distinct, and non-obvious variety of asexually reproduced plant—i.e., those grown not with seeds but by grafting, budding, or cutting. A plant need not be useful to qualify for a patent, but it must be distinctive in its color, habit, soil, flavor, productivity, form, or other aspects.</para><para id="eip-912"><title>Design Patents</title>Design patents are granted to protect new, original, and non-obvious ornamental designs for articles of manufacture. Examples include Apple’s 2009 and 2010 patents—<link document="m10275" version="2.1">No. D593087</link><link url="https://www.google.com/patents/USD593087" window="new"/> and <link document="m10275" version="2.1">No. D618677</link><link url="https://www.google.com/patents/USD618677?dq=patent%2BNo.%2BD618677&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjNq43SnNzKAhWEJCYKHTv-C08Q6AEIHTAA" window="new"/>—which covered among other things the unique, rounded-corner design of the iPhone, as well as its 2005 design patent <link document="m10275" version="2.1">No. D504889</link><link url="https://www.google.com/patents/USD504889?dq=No.%2BD504889&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwipoY7pnNzKAhUI7CYKHSlLDf4Q6AEIHTAA" window="new"/> for the look and feel of the iPad. Design patents can be just as valuable as utility patents, as Apple discovered when a jury awarded it $1 billion in damages against Samsung in August 2012, for the latter’s infringement of Apple’s utility and design patents. The case is currently on appeal.</para><para id="eip-256">Like plant patents, design patents also substitute a different test than utility in their requirements for patentability. Instead of the novelty, utility, and non-obvious requirements for utility patents, the criteria for design patents are novelty, <emphasis>ornamentality</emphasis>,  and  non-obviousness.</para><para id="eip-109">It was on the subject of design patents that one example of media confusion appeared. The <foreign>New York Times</foreign> published an article November 16, 2012, declaring in a sensational headline that “<link document="m10275" version="2.1">Apple Now Owns the Page Turn</link><link url="http://bits.blogs.nytimes.com/2012/11/16/apple-now-owns-the-page-turn/?_r=2&amp;mtrref=undefined&amp;gwh=BB47EBCB0DC8431249FFD18AB9F19F0A&amp;gwt=pay" window="new"/>.” The article claimed that a new Apple design patent “gives Apple the exclusive rights to the page turn in an e-reader application.” According to the article’s author, this showed “just how broken the patent system is.”</para><para id="eip-108">Had the author of the article even read an obvious and easily-available source as the Wikipedia entry on design patents, however, he would have learned that design patents are granted only for nonfunctional ornamental designs. In fact, says Wikipedia, “design patents can be invalidated if the design has practical utility.”</para><para id="eip-121">What Apple actually “owns,” therefore, is not the “page turn” function itself but merely the particular ornamental design of the way a page turn is executed in their devices.</para><para id="eip-571">Another example of confused media reporting on patent matters was the February 6, 2013,
+<foreign>Forbes</foreign> article headlined: “<link document="m10275" version="2.1">Is the Patent System  Broken? Well, Amazon’s Just Patented the Sale of Second Hand Goods</link><link url="http://www.forbes.com/#/62ee8b9728c2" window="new"/>.” Amazon actually did no such thing, but the author of that article probably made this assumption after reading the abstract of the patent describing its general subject matter. Like many reporters new to patent issues, the author didn’t realize that the abstract tells you literally nothing about the exclusive rights conferred by a patent. Only the claims of the patent detail the specific exclusionary rights of the patent holder.
+</para><para id="eip-243">Indeed, when you read the claims of the Amazon patent in question, you discover that Amazon hasn’t claimed ownership of the idea of a “market in second-hand digital goods” at all. Instead, the claims involve merely a very specific and novel method of conducting such a market. Meanwhile, Apple, ReDigi, and other firms have patented their own alternative methods of conducting a secondary digital market.</para><exercise id="eip-394"><problem id="eip-659">
+  <para id="eip-850">
+    For which of the following are plant patents granted?
+<preformat id="eip-id1169525715695">
+         A. Bioengineered plants
+         B. Naturally grown plants that are distinctively different
+         C. Plants that are asexually cultivated, not grown
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-464"><problem id="eip-481">
+  <para id="eip-667">
+    What are the three patentability criteria for plant patents?
+<preformat id="eip-id1169852103866">
+         A. Novelty, utility, and non-obviousness
+         B. Novelty, distinctiveness, and non-obviousness 
+         C. Novelty, beauty, and non-obviousness
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-686"><problem id="eip-350">
+  <para id="eip-403">
+    What are design patents granted for?
+<preformat id="eip-id1164451437415">
+         A. Functional designs for manufactured items, like the shape of a chair
+         B. Ornamental designs for items of manufacture, like the fabric design of a chair
+         C. All of the above
+</preformat> 
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-232"><problem id="eip-771">
+  <para id="eip-130">
+    What are the three patentability criteria for a design patent?
+<preformat id="eip-id1165797833393">
+         A. Novelty, utility, and non-obviousness
+         B. Novelty, beauty, and non-obviousness
+         C. Novelty, ornamentality, and non-obviousness
+</preformat>
+  </para>
+</problem>
+ 
+</exercise></section><section id="eip-653"><title>Section 1.9: The Patenting Process</title><list id="eip-976"><title>After completing this section, you will be able to:</title><item>Describe the steps in the patent application process.</item>
+<item>Discuss the importance of proper claims drafting.</item>
+ </list><para id="eip-595"><title>Applying for a Patent</title>Much is at stake in the process of applying for a patent. Depending upon how you draft the claims and write the specification of your application, you could win or lose patent  rights  at  any  point  in  the  examination  process. In addition, any patent rights you win can be worth a considerable amount of money, and can be enforced by the U.S. federal courts.
+</para><para id="eip-233">An applicant must first determine whether to file an application for a utility, design, or plant patent. Then, the applicant must determine his filing status: large entity, small entity, or the new category of micro entity created by the <link document="m10275" version="2.1">America Invents Act of 2011 (AIA)</link><link url="http://www.uspto.gov/patent/laws-and-regulations/leahy-smith-america-invents-act-implementation" window="new"/>. Small entities, which are universities, non-profits, and small businesses with fewer than 500 employees who also meet certain other criteria, receive a 50 percent discount on the application fees paid by large entities. Micro entities, which are small entities who have a gross income less than three times U.S. median household income or meet certain other criteria, receive a 75 percent discount. These discounts on USPTO fees for small and micro entities do not apply to the attorneys’ fees often involved in applying for a patent, which can be significant.</para><para id="eip-803"><title>Provisional vs. Nonprovisional Patent Application</title>Finally, the applicant must decide whether to file an abbreviated, “provisional” patent application or a complete, “nonprovisional” one. A provisional application consists only of the specification describing the invention for which a patent is sought, as well as any drawings that might be necessary to understand the invention. A provisional application is not subject to examination, and is viable for one year.
+</para><para id="eip-594">The chief benefits of a provisional application are twofold. It is  much less expensive to file than a regular nonprovisional application—only  $1,000 in official fees for large entities, $500 for small entities, and $250 for micro entities. It also gives the inventor the benefit of the earlier provisional filing date of the nonprovisional application based on the same specification, while measuring the term of the patent from the nonprovisional application’s filing date.</para><para id="eip-987">In a sense, the provisional application serves as a placeholder for up to one year while the inventor does all the prior art searching, claims drafting, and other work required of a full and complete nonprovisional application. This priority date placeholder function can be important given that many companies and  inventors  are  working  on  new products and services aimed at the same markets. This is especially so under the United States’ new “first inventor to file” rather than “first to invent” priority regime, which some fear may give an edge to large companies with the legal and financial resources to file early and often. To the extent this concern may be valid, provisional applications can serve to mitigate any large company filing advantage.</para><para id="eip-165">The main disadvantage of a provisional application is that because the written description cannot be changed when filing the follow-on, nonprovisional application, all the subsequent claims in that follow-on application must be completely consistent with the earlier description language. As most inventors can attest, the understanding of an invention and its potential market—as well as the claims best suited to protect it—inevitably evolves and matures over time.</para><para id="eip-365">Here’s how an experienced entrepreneur describes the value of a provisional application in the “first inventor to file” environment:
+<preformat id="eip-id4822300">
+       “What I recommend to every entrepreneur is that 
+        if you write a new, non-obvious, and useful line 
+        of code, put it in the specification of a 
+        provisional patent application and file it. It 
+        only costs $1,000 at most. You then have a year 
+        in which to honestly evaluate where the industry 
+        is going, where the market is going, and whether 
+        your invention is truly valuable enough to pursue 
+        a patent for it.”
+</preformat></para><para id="eip-629">A year might not seem very long. But a lot can happen to markets and to technology in that amount of time. Thanks to the rapid rise of smartphones, for example, it took merely a year for netbooks to go from the “next big thing” to “who cares?”</para><para id="eip-959"><title>The Critical Importance of the Claims</title>When it comes to filing a full nonprovisional application, the most critical task of the inventor (and his or her patent attorney) is to draft the claims. This is an art in and of itself, one that will determine the inventor’s rights and an infringer’s liability.</para><para id="eip-30">Each claim serves as a stand-alone definition of the patent coverage—as a sort of mini-patent unto itself. After a patent is granted, a claim is the only thing that someone can be accused of infringing. Accordingly, broad claim language is essential if a commercially meaningful patent is to be obtained.</para><para id="eip-744">On the other hand, the broader the claim, the more likely it is that prior art may exist somewhere that anticipates the claim or renders it obvious and, therefore, invalidates the claim. So the competent draftsperson submits a dozen or more claims, typically moving from broader to narrower scope, in case the broader claims turn out to be disallowed by the USPTO or later invalidated by a court.</para><para id="eip-223">Some applicants make the opposite mistake and draft claims that are too narrow—“a programmable multifunction computer  in  the  shape  of  a  metal clamshell,” for example. Such a claim is of little value because others can easily design around it simply by using plastic or other nonmetal materials  in  the  design.  Some  claims are so narrow they are even referred to as “picture claims” because they paint a literal and limiting picture of the invention. You may get a patent with such picture claims, but it probably won’t be worth the paper it’s printed on.</para><para id="eip-937">The strongest claims usually define powerful functionality. They capture something fundamental or seminal in the functioning of the invention.</para><para id="eip-503">A good example is the claims in the aforementioned Amazon one-click patent. The algorithms for “one-click” shopping are not very complicated. Yet the claims capture a very profound functionality—the idea that a user should not have to type in credit card and shipping information every time he or she wants to buy something. The consumer-friendly functionality captured in that patent’s claims has won Amazon a lot of customers and made it a lot of money.</para><para id="eip-824"><title>Reviewing the Patent Application</title>Once the patent application with all necessary forms is filed and all fees are paid, the <emphasis>patent examiner</emphasis> will review the patent application to determine if the invention meets the statutory requirements for patentability. The examiner will also conduct a search of patent and other databases to determine if the invention appears to be truly novel and non-obvious. Once a determination has been made, the patent examiner will send the applicant a document known as a <emphasis>first office action</emphasis>, in which the patent examiner approves, rejects, or requires additional information about the claims and/or other elements of the application.</para><para id="eip-783">If all the claims are allowed, which is rare in a first office action, the patent prosecution process is complete. A more common next step requires the applicant to respond to the patent examiner’s rejections and requests for more information. In this response, the applicant will address all of the examiner’s concerns and either rebut them or amend the application, typically by revising some or all of the claims.</para><para id="eip-119">But according to the Manual of Patenting Examination Procedure (MPEP) Section 1.121, “No  amendment  may  introduce  new  matter into the disclosure of an application.”<footnote id="footnote51">					
+United States Patent and Trademark Office. (2010, July 21). <foreign>Manual of Patent Examining Procedure</foreign> § 1.121. Retrieved from http://www.uspto.gov/web/offices/pac/mpep/documents/appxr_1_121.htm 
+</footnote>
+Thus, an applicant cannot file an application disclosing a new compound and how to make it, and then later, after discovering that the compound’s structure and method are incorrect, amend the description.</para><para id="eip-197">After responding to the office action by perhaps amending the application, the examination process continues until the patent examiner either allows all of the claims or finally rejects them. If all claims are allowed, then the patent prosecution process is complete. If some claims are finally rejected, then the applicant’s options at this point are more limited.</para><para id="eip-685">According to MPEP Section 706.07, “In the second or any subsequent examination or consideration by the examiner, the rejection can be made final.”<footnote id="footnote52">
+United States Patent and Trademark Office. (2010, July 21). <foreign>Manual of Patent Examining Procedure</foreign> §.0 Retrieved from http://www.uspto.gov/web/offices/pac/mpep/documents/0700_706_07.htm#sect706.07 					
+</footnote> 
+At that point, the applicant must usually choose one of three approaches: Cancel the rejected claims, leaving only allowed claims to issue as a patent; continue the fight by filing what is called a “continuation application” and drafting new claims; or appeal to the Patent Trial and Appeals Board arguing that the patent examiner erred in not allowing the claims.<footnote id="footnote53">
+37 CFR Part 41. Department of Commerce, United States Patent and Trademark Office. (2008). <foreign>Rules of practice before the board of patent appeals and interferences in ex parte appeals.</foreign> Retrieved from website: http://www.gpo.gov/fdsys/pkg/FR-2008-06-10/pdf/E8-12451.pdf 	 				
+</footnote> 
+Any appeal to the Patent Trial and Appeals Board, as with any other office action, must occur within six months.<footnote id="footnote54">
+37 CFR § 1.134				
+</footnote>	</para><para id="eip-137">Finally, if the patent has been vetted through the patent prosecution process  and  is  ready for issuance, the patent holder must pay the applicable fee. If the applicant pays the issue fee, the USPTO will issue the patent in due course. Additionally, utility patents are subject to maintenance fees. These fees are due 3 years and 6 months, 7 years and 6 months, and 11 years and 6 months from the date of the original patent grant. Plant and design patents are also required to pay maintenance fees.<footnote id="footnote55">
+37 CFR § 1.362				
+</footnote>	</para><exercise id="eip-777"><problem id="eip-382">
+  <para id="eip-41">
+    What is the advantage of a provisional patent application, which lasts only one year?
+<preformat id="eip-id1911919">
+         A. It is less expensive.
+         B. It is not subject to examination.
+         C. It grants an early filing date while the inventor continues working on the invention.
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-260"><problem id="eip-641">
+  <para id="eip-80">
+    What is the main disadvantage of a provisional patent application?
+<preformat id="eip-id1167415481146">
+         A. It reserves an early filing date for a later, nonprovisional application.
+         B. The claims in a later, nonprovisional application must be completely consistent with the 
+             early description contained in the provisional application.
+         C. The provisional patent only contains the specifications, and drawings, if any.
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-356"><problem id="eip-253">
+  <para id="eip-536">
+    What is the most critical part of a patent application that determines both the inventor’s rights and an infringer’s liability?
+<preformat id="eip-id1166283984374">
+         A. The claims
+         B. The specification 
+         C. The drawings 
+         D. The abstract
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-431"><problem id="eip-904">
+  <para id="eip-590">
+    Which of the following is the best strategy in drafting claims in a patent application?
+<preformat id="eip-id1170512598363">
+         A. Draft them as broadly as possible, to cover every possible use of the invention.
+         B. Draft them as narrowly as possible, so the examiner won’t reject them.
+         C. Draft them as broadly as the specifications and the prior art allows, then back up those
+             broad claims with successively narrower claims as backup.
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-751"><problem id="eip-827">
+  <para id="eip-200">
+    In a “first office action,” the examiner usually does which of the following?
+<preformat id="eip-id1165797859629">
+         A. Allows all the claims in the patent application
+         B. Rejects some claims and/or requests further information 
+         C. Rejects the entire application
+</preformat>
+  </para>
+</problem>
+ 
+</exercise><exercise id="eip-637"><problem id="eip-321">
+  <para id="eip-90">
+    In a second or subsequent examination, if the examiner finally rejects some or all of the claims, what can the applicant do at that point?
+<preformat id="eip-id5523178"> 
+         A. Cancel the rejected claims, leaving only allowed claims. 
+         B. File what’s called a “continuation application.”
+         C. Appeal to the Patent Trial and Appeal Board. 
+         D. All of the above
+</preformat>
+  </para>
+</problem>
+ 
+</exercise></section></content>
+
+</document>
